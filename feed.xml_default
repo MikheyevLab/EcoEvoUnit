@@ -5,22 +5,9 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2015 17:03:24 +0900</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2015 17:03:24 +0900</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2015 19:40:47 +0900</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2015 19:40:47 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>test</title>
-        <description>&lt;p&gt;This is a test post.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jun 2015 00:00:00 +0900</pubDate>
-        <link>/test/</link>
-        <guid isPermaLink="true">/test/</guid>
-        
-        <category>news</category>
-        
-        
-      </item>
     
       <item>
         <title>Males are here to stay!</title>
@@ -187,6 +174,31 @@
         <guid isPermaLink="true">/oist-ntu-invasive-ant-symposium/</guid>
         
         <category>Lab news</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Shikha Visits Mikheyev Unit</title>
+        <description>&lt;p&gt;
+I am from Delhi, the capital city of  India. Born and brought up in the second most crowded metropolis city in India, I always yearned to be close to nature. I completed my graduation in Biological Sciences from Sri Venkateswara College, Delhi University. I am currently enrolled in the Masters course on Biodiversity and Conservation at Guru Gobind Singh Indraprastha University, New Delhi.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I will be working here for five months on a transcriptomes and proteomes study of snake venom (pitvipers). These include the Okinawan native species &lt;i&gt;Protobothrops flavoviridis &lt;/i&gt;(Okinawa habu) and &lt;i&gt;Ovophis okinavensis&lt;/i&gt; (Himehabu) and hybridized species due to human activities &lt;i&gt;P. elegans&lt;/i&gt; (Sakishima habu) and &lt;i&gt;P. mucrosquamatus&lt;/i&gt; (Taiwanese habu). A previous study (Aird et. al. 2013) used both Illumina cDNA sequencing and mass spectrometry to compare the transcriptomes and proteomes of native pitvipers. We will be doing cDNA sequencing combined with MS profiling. This will help in quantitative comparison of snake venom composition. This unit will definitely help to enhance my knowledge and working skills. This will be a strong foundation for building my future and boosting my career in research.
+&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&quot;../images/shikha.jpg&quot;&gt; &lt;img src=&quot;../images/shikha.jpg&quot; /&gt;&lt;/a&gt;	 
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;I have also worked on different projects in my home country. My past projects involved the molecular taxonomy of selected camel spiders (Arachnida : Solifugae) of India as well as a web designing project on Indian tribes and their role in biodiversity conservation. I have also worked on screening of genes involved in retinal dystrophies in Indian patients at L.V Prasad Eye Institute. My other interests include photography, sports, reading, exploring nature and arts and crafts.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Jan 2014 19:42:49 +0900</pubDate>
+        <link>/shikha-visits-mikheyev-unit/</link>
+        <guid isPermaLink="true">/shikha-visits-mikheyev-unit/</guid>
+        
+        <category>Uncategorized</category>
         
         
       </item>
