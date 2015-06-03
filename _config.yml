@@ -2,9 +2,8 @@
 
 title:            Ecology and Evolution Unit
 locale:           en-JP
-#baseurl: /MikheyevLab-page
-#baseurl: /
-url: http://mikheyevlab.github.io
+baseurl: /site
+url: http://ecoevo.unit.oist.jp
 
 # Jekyll configuration
 
