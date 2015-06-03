@@ -1,0 +1,300 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Browsing genomes &#8211; Ecology and Evolution Unit</title>
+
+<meta name="keywords" content="">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Browsing genomes">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://mikheyevlab.github.io/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en-JP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Browsing genomes">
+
+<meta property="og:url" content="http://mikheyevlab.github.io/tutorial/21.gbrowse/">
+<meta property="og:site_name" content="Ecology and Evolution Unit">
+
+
+
+
+
+<link rel="canonical" href="http://mikheyevlab.github.io/tutorial/21.gbrowse/">
+<link href="http://mikheyevlab.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Ecology and Evolution Unit Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://mikheyevlab.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://mikheyevlab.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://mikheyevlab.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://mikheyevlab.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://mikheyevlab.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://mikheyevlab.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://mikheyevlab.github.io/">Ecology and Evolution Unit</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/posts/" >Posts</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/methods/" >Methods</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/data/" >Data</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/tutorial/0.genome-annotation-tutorial/" >Gene annotation tutorial</a></li>
+				
+				    
+				        
+				        
+				    <li><a href="https://groups.oist.jp/evolution" target="_blank">Official web page</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://mikheyevlab.github.io/images/bio-martin.jpg" class="bio-photo" alt="Martin Helmkampf bio photo">
+
+
+  <h3 itemprop="name">Martin Helmkampf</h3>
+  <p></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="page">
+    <h1>Browsing genomes</h1>
+    <div class="article-wrap">
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i> Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#searching-and-navigating">Searching and Navigating</a></li>
+  <li><a href="#display-and-tracks">Display and Tracks</a></li>
+  <li><a href="#retrieving-data">Retrieving Data</a></li>
+  <li><a href="#jbrowse-a-idjbrowsea">JBrowse <a id="JBrowse"></a></a></li>
+</ul>
+
+  </div>
+</section>
+<!-- /#table-of-contents -->
+
+<p>We are now turning from a general introduction to specific techniques for the study of genomes and annotation of genes, starting with software used to browse genome data.</p>
+
+<p> </p>
+
+<p><strong>GBrowse</strong> is a commonly used genome browser displaying genome assemblies and annotations. It serves as a graphical front end to various database formats, and runs interactively in an internet browser window. Many public genome projects like <a href="http://flybase.org/cgi-bin/gbrowse/dmel/">FlyBase</a>, <a href="http://www.wormbase.org/tools/genome/gbrowse/c_elegans/">WormBase</a> or Hymenoptera Genome Database (HGD) have adopted GBrowse. In this section we will learn how to use it taking HGD’s <a href="http://hymenopteragenome.org/cgi-bin/gb2/gbrowse/pbar_10/"><em>P. barbatus</em> GBrowse</a> implementation as an example.</p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/Gbrowse_II.png" class="grouped_elements" rel="tc-fancybox-group222"><img class="margin-left size-full wp-image-226" alt="Gbrowse_II" src="../../wp-content/uploads/2013/08/Gbrowse_II.png" width="1113" height="621" /></a></p>
+
+<p> </p>
+
+<h4 id="searching-and-navigating">Searching and Navigating</h4>
+
+<p>To display a genomic region of interest, enter its name in the search field labeled “Landmark or Region” <span style="color: #ff0000;">(1)</span>. Accepted names include chromosome names, scaffold and contig identifiers, and gene names, and must strictly match the format used in the underlying database (otherwise, an error message is displayed). In our example, scaffold names follow the format scf718000xxxxxx. Specific regions of a scaffold can be specified by their start and end coordinates, counting from the first base of the scaffold. Thus, in our example </p>
+
+<p style="font-family: courier;">
+  scf7180000350335:1108530..1114530
+</p>
+<p>will display the section above, from bases 1,108,530 to 1,114,530 on scaffold scf7180000350335.</p>
+
+<p>The “Scroll/Zoom” field <span style="color: #ff0000;">(2)</span> allows you to zoom in and out of the displayed region, all the way to the full extent of the scaffold. The pull-down menu can be used to specify a span in kilobases (kbp = 1000 bases) centered around the initial search region. Scrolling is usually easier by grabbing and moving the red transparent bar in the “Region” panel with the cursor (see below). Ticking the “Flip” box causes the browser display to flip, which allows you to view genes on the antisense strand in a more intuitive orientation.</p>
+
+<p> </p>
+
+<h4 id="display-and-tracks">Display and Tracks</h4>
+
+<p>If found, the results of your selection are shown in three graphic panels, “Overview”, “Region”, and “Details”. The first two <span style="color: #ff0000;">(3)</span> display a large portion of the assembled sequence and the more immediate portion of the genome surrounding the region of interest, respectively. Red vertical bars and a red transparent horizontal bar highlight the exact position of the search region.</p>
+
+<p>The “Detail” panel <span style="color: #ff0000;">(4)</span> finally gives a close-up view of the search region. It consists of tracks containing annotated features placed on the genome sequence, like gene models, homologous genes of related organisms, or experimental evidence for gene transcripts. In our example, the first track shows gene models included in the Official Gene Set (OGS) of <em>Pogonomyrmex barbatus</em>, a consensus set of automatically predicted and manually curated genes. <a href="../11.introduction-to-genetics##Gene structure">Gene structure</a> is indicated according to the convention we discussed earlier. Note you can search for a specific gene from the OGS using its identifier (here for example PB22887 in the center) as a search term. The following tracks include homologous genes from the honeybee <em>Apis mellifera</em> and the fruit fly <em>Drosophila melanogaster</em> which have been aligned to the genome sequence. Here, they partially match the gene predicted in the harvester ant. The last track indicates the average content of guanine and cytosine (GC) among the bases of the sequence. Tracks may contain a wide range of annotated features. Their availability depends on which ones the administrator has included in the database. You can toggle on and off tracks from a list of available ones using the “Select Tracks” button at the bottom of the GBrowse window, or the menu bar at the top.</p>
+
+<p> </p>
+
+<h4 id="retrieving-data">Retrieving Data</h4>
+
+<p>The sequence data corresponding to the search region may be downloaded in Fasta format using the download field in the upper right corner (select “Download Sequence File”) <span style="color: #ff0000;">(5)</span>. This is often useful to perform further analyses based on the region of interest. The “Save Snapshot” and “Load Snapshot” buttons also allow you to store the displayed region and its settings for later viewing. Finally, clicking on elements of certain tracks will make additional data available as. For example, clicking on the gene symbol of PB22778 will open <a href="http://hymenopteragenome.org/cgi-bin/gb2/gbrowse_details/pbar_10?ref=scf7180000350335;start=1110961;end=1112267;name=PB22887;class=Sequence;feature_id=1039535;db_id=general">this window</a>, containing metadata and annotated sequence data of the gene model.</p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/AnnotatedSequence_I.png" class="grouped_elements" rel="tc-fancybox-group222"><img class="margin-left size-full wp-image-245" alt="AnnotatedSequence_I" src="../../wp-content/uploads/2013/08/AnnotatedSequence_I.png" width="609" height="252" /></a></p>
+
+<p> </p>
+
+<h4 id="jbrowse-a-idjbrowsea">JBrowse <a id="JBrowse"></a></h4>
+
+<p>GBrowse will eventually be replaced by a newer, faster version called <a href="http://jbrowse.org/blog/">JBrowse</a>, which offers many of the same functions through a slightly different graphical user interface. To see it in action, see the previous link or <a href="http://hymenopteragenome.org:8080/Pbar_1.0/jbrowse/">here</a>.</p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/JBrowse.png" class="grouped_elements" rel="tc-fancybox-group222"><img class="margin-left size-full wp-image-625" alt="JBrowse" src="../../wp-content/uploads/2013/08/JBrowse.png" width="1127" height="477" /></a></p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Further reading:</p>
+
+<p>Official <a href="http://gmod.org/wiki/GBrowse">GBrowse wiki</a></p>
+
+<p>Official <a href="http://cpansearch.perl.org/src/LDS/GBrowse-2.54/htdocs/general_help.html">GBrowse usage tutorial</a></p>
+
+<p> </p>
+
+<p>Next chapter: <a href="../22.blast">BLAST</a></p>
+
+<p> </p>
+
+
+      
+        <hr />
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://mikheyevlab.github.io/tutorial/21.gbrowse/index.html" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://mikheyevlab.github.io/tutorial/21.gbrowse/index.html" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://mikheyevlab.github.io/tutorial/21.gbrowse/index.html" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+      
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://mikheyevlab.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://mikheyevlab.github.io/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-45186360-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+          
+
+</body>
+</html>

@@ -1,0 +1,297 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>File formats &#8211; Ecology and Evolution Unit</title>
+
+<meta name="keywords" content="">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="File formats">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://mikheyevlab.github.io/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en-JP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="File formats">
+
+<meta property="og:url" content="http://mikheyevlab.github.io/tutorial/25.file-formats/">
+<meta property="og:site_name" content="Ecology and Evolution Unit">
+
+
+
+
+
+<link rel="canonical" href="http://mikheyevlab.github.io/tutorial/25.file-formats/">
+<link href="http://mikheyevlab.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Ecology and Evolution Unit Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://mikheyevlab.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://mikheyevlab.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://mikheyevlab.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://mikheyevlab.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://mikheyevlab.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://mikheyevlab.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://mikheyevlab.github.io/">Ecology and Evolution Unit</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/posts/" >Posts</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/methods/" >Methods</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/data/" >Data</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/tutorial/0.genome-annotation-tutorial/" >Gene annotation tutorial</a></li>
+				
+				    
+				        
+				        
+				    <li><a href="https://groups.oist.jp/evolution" target="_blank">Official web page</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://mikheyevlab.github.io/images/bio-martin.jpg" class="bio-photo" alt="Martin Helmkampf bio photo">
+
+
+  <h3 itemprop="name">Martin Helmkampf</h3>
+  <p></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="page">
+    <h1>File formats</h1>
+    <div class="article-wrap">
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i> Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#fasta-a-idfastaa">FASTA <a id="FASTA"></a></a></li>
+  <li><a href="#gff-a-idgffa">GFF <a id="GFF"></a></a></li>
+  <li><a href="#clustal-a-idclustala">Clustal <a id="Clustal"></a></a></li>
+  <li><a href="#bam-a-idbama">BAM <a id="BAM"></a></a></li>
+</ul>
+
+  </div>
+</section>
+<!-- /#table-of-contents -->
+
+<p>Bioinformatics uses many different file formats to store and manipulate genetic sequence information. Most are plain text files, meaning they consist of basic, unformatted text as for instance prepared by a text editor. Some of the most commonly encountered formats are:</p>
+
+<p> </p>
+
+<h4 id="fasta-a-idfastaa">FASTA <a id="FASTA"></a></h4>
+
+<p>Fasta files have become a standard to store nucleotide and protein sequences, and may contain a single or multiple sequences or entries. Each entry consists of a single-line description, followed by one or multiple lines of sequence data. The description line is preceded by a greater sign (“&gt;”) and includes a sequence identifier (the first word) and an optional description. The following lines, up to the next “&gt;”, harbor the sequence data. <a href="../22.blast">BLAST</a> and many programs to <a href="../23.align_sequences">calculate alignments</a> or phylogenetic trees accept Fasta files (by including gap symbols, “–”, they may also be used to store alignments). There is no standard file extension, though “.fas” is commonly used.</p>
+
+<p>  </p>
+
+<pre>&gt;PB11175 | Pogonomyrmex barbatus RpL4 (amino acid sequence)
+MSLSTARPLITVYTDKNEASGDVISLPSVFKAPIRPDIVNVVHQLISTNRRQPYCVSKEAGHQTSAESWGTGRAVARIPRVRGGGTHRSGQGAFGNMCRG
+GRMFAPTKSWRRWHHRVNVNQKRYALVSAIAASGVPALVQSKGHLIQEVPEFPLVVSNKIQEYTKTKQAVIFLRRIKAWNDIQKVYKSQRFRAGKGKMRN
+RRRIQRRGPLIVYGHDQGIRKAFRNIPGVSLMNINKMNLLKLAPGGHVGRFVIWTKSAFEQLDALYGTWRKESQLKKGYNLPFPKMANTDLSRLLKSEEI
+RKVLRAPRKKVVRRVKKLNPLTNTRAMLRLNPYAAVLKRAAVLTAQKRQREKDVLLAEKRGVKLPKKTSKAIGLLARRKEQLTKYKKTTKKTMVQTKAEK
+DTGKTASKQQAKK</pre>
+<p> </p>
+
+<h4 id="gff-a-idgffa">GFF <a id="GFF"></a></h4>
+
+<p>GFF or Generic Feature Format files are commonly used to store genome annotation data. The current version is GFF3. GFF files are plain text files consisting of nine tab-delimited columns, specifying positional information of genomic features, often in a nested manner. For instance, the following GFF file represents the <em>P. barbatus</em> gene RpL9 with its various annotated sub-features:</p>
+
+<p>  </p>
+
+<pre>##gff-version 3
+pbar<em>scf7180000350383   .   gene    1850263 1851998 .   +   .   ID=PB25915;Name=pbar</em>RpL9
+pbar<em>scf7180000350383   .   mRNA    1850263 1851998 .   +   .   ID=PB25915-mRNA-1;Name=pbar</em>RpL9-1;Parent=PB25915
+pbar<em>scf7180000350383   .   exon    1850263 1850290 .   +   .   Parent=PB25915-mRNA-1
+pbar</em>scf7180000350383   .   exon    1851069 1851207 .   +   .   Parent=PB25915-mRNA-1
+pbar<em>scf7180000350383   .   exon    1851416 1851743 .   +   .   Parent=PB25915-mRNA-1
+pbar</em>scf7180000350383   .   exon    1851814 1851998 .   +   .   Parent=PB25915-mRNA-1
+pbar<em>scf7180000350383   .   CDS     1851070 1851207 .   +   .   Parent=PB25915-mRNA-1
+pbar</em>scf7180000350383   .   CDS     1851416 1851743 .   +   .   Parent=PB25915-mRNA-1
+pbar_scf7180000350383   .   CDS     1851814 1851920 .   +   .   Parent=PB25915-mRNA-1</pre>
+<p> </p>
+
+<p>The type of each feature is given in column 3, followed by its start (column 4) and end (column 5) coordinates, and the strand it is found on (column 7). Coordinates and strandedness refer to the sequence or landmark found in column 1. The ID and parent attributes in column 9 establish the nested structure of this set of features: the top-level feature, the gene, contains a single mRNA, which in turn consists of four exons, part of which are coding sequence (CDS; the non-overlapping part is by definition untranslated region, UTR). The remaining columns house optional information, with “.” standing for unknown or not-applicable. Details about these columns as well as additional attributes in column 9 can be found <a href="http://gmod.org/wiki/GFF">here</a>.</p>
+
+<p>The output of many different sources can be represented in GFF. These sources include gene predictors, programs to identify repetitive sequence (e.g. RepeatMasker), programs to refine splice sites (e.g. Exonerate), or <a href="../22.blast">BLAST</a> results. Combined into a database, a genome browser like <a href="http://ecoevo.unit.oist.jp/lab/21.gbrowse">GBrowse</a> or Apollo may be used to display them, with tracks containing individual sources. Conversely, when using an annotation editor to create manual or modify existing annotations, the data is frequently saved back in GFF.</p>
+
+<p> </p>
+
+<h4 id="clustal-a-idclustala">Clustal <a id="Clustal"></a></h4>
+
+<p>Clustal is a file format for aligned nucleotide or proteins sequences, which is easily readable by humans (as opposed to, for instance, Fasta). Notably, homologous position are arranged in columns, and special characters (* : .) are used to indicate similarity for quick reference. The following example, introduced in the section on <a href="../23.align_sequences">aligning sequences</a>, is in Clustal format:</p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/Clustal.png" class="grouped_elements" rel="tc-fancybox-group451"><img class="margin-left size-full wp-image-648" alt="Clustal" src="../../wp-content/uploads/2013/08/Clustal.png" width="621" height="198" /></a></p>
+
+<p> </p>
+
+<p>Further details about this format can be found <a href="http://meme.nbcr.net/meme/doc/clustalw-format.html">here</a>.</p>
+
+<p> </p>
+
+<h4 id="bam-a-idbama">BAM <a id="BAM"></a></h4>
+
+<p> </p>
+
+<p>Next chapter: <a href="../31.getting-started">Getting started with training genes</a></p>
+
+<p> </p>
+
+
+      
+        <hr />
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://mikheyevlab.github.io/tutorial/25.file-formats/index.html" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://mikheyevlab.github.io/tutorial/25.file-formats/index.html" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://mikheyevlab.github.io/tutorial/25.file-formats/index.html" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+      
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://mikheyevlab.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://mikheyevlab.github.io/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-45186360-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+          
+
+</body>
+</html>

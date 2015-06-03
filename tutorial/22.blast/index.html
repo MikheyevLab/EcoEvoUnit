@@ -1,0 +1,321 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>BLAST &#8211; Ecology and Evolution Unit</title>
+
+<meta name="keywords" content="">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="BLAST">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://mikheyevlab.github.io/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en-JP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="BLAST">
+
+<meta property="og:url" content="http://mikheyevlab.github.io/tutorial/22.blast/">
+<meta property="og:site_name" content="Ecology and Evolution Unit">
+
+
+
+
+
+<link rel="canonical" href="http://mikheyevlab.github.io/tutorial/22.blast/">
+<link href="http://mikheyevlab.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Ecology and Evolution Unit Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://mikheyevlab.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://mikheyevlab.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://mikheyevlab.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://mikheyevlab.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://mikheyevlab.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://mikheyevlab.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://mikheyevlab.github.io/">Ecology and Evolution Unit</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/posts/" >Posts</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/methods/" >Methods</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/data/" >Data</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/tutorial/0.genome-annotation-tutorial/" >Gene annotation tutorial</a></li>
+				
+				    
+				        
+				        
+				    <li><a href="https://groups.oist.jp/evolution" target="_blank">Official web page</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://mikheyevlab.github.io/images/bio-martin.jpg" class="bio-photo" alt="Martin Helmkampf bio photo">
+
+
+  <h3 itemprop="name">Martin Helmkampf</h3>
+  <p></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="page">
+    <h1>BLAST</h1>
+    <div class="article-wrap">
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i> Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#blast-usage">BLAST Usage</a></li>
+  <li><a href="#results">Results</a></li>
+  <li><a href="#tips-and-further-resources">Tips and further resources</a></li>
+</ul>
+
+  </div>
+</section>
+<!-- /#table-of-contents -->
+
+<p>One of the most important tools in bioinformatics is <strong>BLAST</strong>, or Basic Local Alignment Search Tool. It is used to find and compare nucleotide or amino acid sequences, and assess their similarity. Sequences that are very similar to each other are assumed to be homologous. We will talk about the concept of homology later, but in short, homology means similarity due to common evolutionary descent. In terms of genes, common descent can apply to two genes in two different organisms, in which case both genes have evolved from a single gene present in the last common ancestor of the species (orthology). Alternatively, it can apply to two genes in the same organism, which arose from a duplication of a single ancestral gene (paralogy).</p>
+
+<p>When annotating genes, it is essential to be able to identify homologous genes. For example, after identifying an unknown gene, comparing it to homologous genes from a well-studied model organism might give you a first clue about its function. On the flip side, the first step in annotating a gene is often finding it first with the help of a homologous gene from another organism. Similarly, when studying a gene family, a group of homologous (paralogous) and often functionally similar genes, finding all members of that group is key. In all of these cases, BLAST is the right tool for the job.</p>
+
+<p>BLAST works by <a href="../23.align_sequences">aligning</a> segments of a query sequence (the sequence to search for) to one or many sequences to search against, identifying regions of high sequence similarity using a scoring matrix. The details of the algorithm can be found <a href="http://en.wikipedia.org/wiki/BLAST#Algorithm">here</a>. BLAST is implemented in many, if not all, genome project websites, including <a href="http://flybase.org/blast/">FlyBase</a>, <a href="http://www.wormbase.org/tools/blast_blat">WormBase</a> and the <a href="http://hymenopteragenome.org/ant_genomes/?q=blast">Ant Portal</a> of the Hymenoptera Genome Database. As previously, we will use the latter to demonstrate how to locate the Cytoplasmic Ribosomal Protein RpL30 gene in the Red harvester ant:</p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/BLAST_I.png" class="grouped_elements" rel="tc-fancybox-group255"><img class="alignleft size-full wp-image-259" alt="BLAST_I" src="../../wp-content/uploads/2013/08/BLAST_I.png" width="516" height="669" /></a></p>
+
+<h4 id="blast-usage">BLAST Usage</h4>
+
+<p><span style="color: #ff0000;">(1)</span> The two most important choices regarding BLAST concern the program and the database used. “Program” specifies one of five basic types of BLAST, depending on the nature of the query and target sequences: </p>
+
+<p style="font-family: courier; font-size: 13px;">
+  blastn — use a nucleotide query to search a nucleotide database
+</p>
+
+<p style="font-family: courier; font-size: 13px;">
+  blastp — use a protein query to search a protein database
+</p>
+
+<p style="font-family: courier; font-size: 13px;">
+  blastx — use a translated nucleotide query to search a protein database
+</p>
+
+<p style="font-family: courier; font-size: 13px;">
+  tblastn — use a protein query to search a translated nucleotide database
+</p>
+
+<p style="font-family: courier; font-size: 13px;">
+  tblastx — use a translated nucleotide query to search a translated nucleotide database
+</p>
+<p>Translated means that sequences are translated into all six reading frames before being compared to each other. In this case, we have chosen the protein (amino acid) sequence of our target gene RpL30 from the fruit fly </p>
+
+<p><em>Drosophila melanogaster</em> as the query sequence. We want to see whether this gene has already been annotated in the Red harvester ant <em>Pogonomyrmex barbatus</em> and is therefore found among the Official Gene Set (OGS), a collection of automatically annotated and manually curated protein sequences representing all protein-coding genes. With both our query and target sequences in protein format, we need to select “blastp” as program from the pull-down menu.</p>
+
+<p>The “Database” menu offers both genome assemblies and gene sets from several ant species. “Pbar<em>OGSv1.2</em>proteins” represents the most current OGS version of <em>Pogonomyrmex barbatus</em>.</p>
+
+<p><span style="color: #ff0000;">(2)</span>. Paste the query sequence in Fasta format into this field. The complete set of <em>Drosophila melanogaster</em> Cytoplasmic Ribosomal Protein (CRP) genes is available <a href="../../wp-content/uploads/2013/08/Dmel_CRPs.fas">here</a>.</p>
+
+<p><span style="color: #ff0000;">(3)</span>. By default, BLAST does not consider highly repetitive (low complexity) regions. However, some some coding sequences may contain repetitive sequence (e.g., see Dmel_RpLP1), in which case it might be beneficial to deactivate the low complexity filter.</p>
+
+<p><span style="color: #ff0000;">(4)</span>. Click “Search” to run BLAST.</p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/BLAST_results_II.png" class="grouped_elements" rel="tc-fancybox-group255"><img class="alignright size-full wp-image-443" alt="BLAST_results_II" src="../../wp-content/uploads/2013/08/BLAST_results_II.png" width="669" height="746" /></a></p>
+
+<h4 id="results">Results</h4>
+
+<p><span style="color: #ff0000;">(1)</span>. The first section of the results page shows a graphical representation of the length and similarity of the sequences found by BLAST, the so-called <strong>hits</strong>. In our case, we have found seven hits, but only one that covers the full length of the query (the thick black bar). It is highlighted in purple, indicating high overall similarity to the query as measured by the alignment <strong>score</strong>. All other hits are fragmentary and of low similarity, most likely representing spurious results.</p>
+
+<p><span style="color: #ff0000;">(2)</span>. The second section lists all hits with their sequence identifiers, scores and <strong>e-values</strong>. The e-value is the probability that the similarity between query and target sequence is due to chance rather than homology, taking the size of the database into account (a large database is more likely to produce a chance hit). Values well below zero are usually interpreted as indicating true homology. Here, this applies only for the first hit with an e-value of 10<sup>-49</sup>.</p>
+
+<p><span style="color: #ff0000;">(3)</span>. The following section gives more detailed information about individual hits, in descending order of their score. Details include the proportions of identical (“Identities”) and chemically similar (“Positives”) positions between query and target, as well as an alignment between the two sequences. The high number of matching positions indicates that they must have evolved from a common ancestor and are therefore homologous. In contrast, the weak similarity between the query and the next best hit <span style="color: #ff0000;">(4)</span>, as shown by the positive e-value and incomplete alignment, is probably a result of chance.</p>
+
+<p>The result of this BLAST analysis is therefore that the Official Gene Set of <em>P. barbatus</em> contains one gene, PB2287, which is <a href="../41.homology-assessment">homologous</a> to RpL30 in <em>D. melanogaster</em>. To acquire the full protein sequence of this gene, click on any of the highlighted gene identifiers.</p>
+
+<h4 id="tips-and-further-resources">Tips and further resources</h4>
+
+<p>— Regions of low similarity can break up BLAST hits, which are then displayed separately as sub-hits even though they are part of the same contiguous sequence. This is especially true when blasting a protein-coding gene against genomic sequence. Interrupted by <a href="../11.introduction-to-genetics#Gene structure">introns</a>, each exon will typically be represented by its own sub-hit. For example, try to blast our target gene above against the <em>P. barbatus</em> genome assembly (“Pbar<em>1.0</em>scaffolds.fa”) using tblastn. When comparing the sequence coordinates in the alignment of the best hit, you will notice that there is a gap of over 600 nucleotides in the genomic target sequence separating the two exons (see below).</p>
+
+<p>— Some websites link their BLAST results to a genome browser. For example, you can examine the genomic context of our target gene by clicking on “See complete hit in GBrowse” (see below). Alternatively, you could search for the gene identifier PB22887 in GBrowse or use the scaffold identifier and coordinates as shown by BLAST. Mind that some genes are found on the antisense strand (watch out for a negative “Frame”), so you have to read the coordinates backwards.</p>
+
+<p> </p>
+
+<p><a href="../../wp-content/uploads/2013/08/BLAST_intron.png" class="grouped_elements" rel="tc-fancybox-group255"><img class="margin-left size-full wp-image-341" alt="BLAST_intron" src="../../wp-content/uploads/2013/08/BLAST_intron.png" width="635" height="325" /></a></p>
+
+<p> </p>
+
+<p>— Protein or translated nucleotide sequences usually give more robust results and should be used when possible. With only four character states compared to 20, nucleotide sequences have a higher chance to be similar due to chance and provide less resolution.</p>
+
+<p>— The <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">NCBI BLAST</a> website allows blasting against most of NCBI’s databases, including GenBank, a comprehensive collection of sequence data from thousands of organisms. This can be used to identify unknown sequences, sometimes even to the source organism.</p>
+
+<p>— BLAST is also available as a command-line operated application (<a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&amp;PAGE_TYPE=BlastDocs&amp;DOC_TYPE=Download">BLAST+</a>), and plug-in for BioPerl and Biopython. As such, it can be run and parsed as part of a scripted pipeline to handle larger data volumes. The official BLAST+ user manual is available <a href="../../wp-content/uploads/2013/08/BLAST+_Manual.pdf">here</a>, and a quick guide to the most common commands <a href="../../wp-content/uploads/2013/08/BLAST+_Usage.rtf">here</a>.</p>
+
+<p> </p>
+
+<p>Next chapter: <a href="../23.align_sequences">Aligning sequences</a></p>
+
+<p> </p>
+
+
+      
+        <hr />
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://mikheyevlab.github.io/tutorial/22.blast/index.html" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://mikheyevlab.github.io/tutorial/22.blast/index.html" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://mikheyevlab.github.io/tutorial/22.blast/index.html" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+      
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://mikheyevlab.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://mikheyevlab.github.io/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-45186360-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+          
+
+</body>
+</html>
