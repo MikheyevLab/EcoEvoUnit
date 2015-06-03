@@ -1,0 +1,841 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Introduction to genetics &#8211; Ecology and Evolution Unit</title>
+
+<meta name="keywords" content="">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Introduction to genetics">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://mikheyevlab.github.io/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en-JP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Introduction to genetics">
+
+<meta property="og:url" content="http://mikheyevlab.github.io/tutorial/11.introduction-to-genetics/">
+<meta property="og:site_name" content="Ecology and Evolution Unit">
+
+
+
+
+
+<link rel="canonical" href="http://mikheyevlab.github.io/tutorial/11.introduction-to-genetics/">
+<link href="http://mikheyevlab.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Ecology and Evolution Unit Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://mikheyevlab.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://mikheyevlab.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://mikheyevlab.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://mikheyevlab.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://mikheyevlab.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://mikheyevlab.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://mikheyevlab.github.io/">Ecology and Evolution Unit</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/posts/" >Posts</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/methods/" >Methods</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/data/" >Data</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/tutorial/0.genome-annotation-tutorial/" >Gene annotation tutorial</a></li>
+				
+				    
+				        
+				        
+				    <li><a href="https://groups.oist.jp/evolution" target="_blank">Official web page</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://mikheyevlab.github.io/images/bio-martin.jpg" class="bio-photo" alt="Martin Helmkampf bio photo">
+
+
+  <h3 itemprop="name">Martin Helmkampf</h3>
+  <p></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="page">
+    <h1>Introduction to genetics</h1>
+    <div class="article-wrap">
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i> Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#genes-and-genomes">Genes and genomes</a></li>
+  <li><a href="#dna-and-gene-transcription-a-iddna-and-gene-transcriptiona">DNA and gene transcription <a id="DNA and gene transcription"></a></a></li>
+  <li><a href="#gene-translation-and-the-genetic-code-a-idgene-translation-and-the-genetic-codea">Gene translation and the genetic code <a id="Gene translation and the genetic code"></a></a>    <ul>
+      <li><a href="#dna-structure">DNA structure</a></li>
+      <li><a href="#codon-table-standard-code">Codon table (standard code)</a></li>
+    </ul>
+  </li>
+  <li><a href="#gene-structure-a-idgene-structurea">Gene structure <a id="Gene structure"></a></a></li>
+  <li><a href="#alternative-transcripts-a-idalternative-transcriptsa">Alternative transcripts <a id="Alternative transcripts"></a></a></li>
+</ul>
+
+  </div>
+</section>
+<!-- /#table-of-contents -->
+
+<h4 id="genes-and-genomes">Genes and genomes</h4>
+
+<p>All living organisms depend on genetic information to exist. It serves as a blue print and instruction manual for the molecular building blocks that form an organism and keep it functional. Passed on from generation to generation, it contains the program required to build an organism during its development, and it constitutes the substrate on which evolution acts, giving rise to new lineages of organisms over time.</p>
+
+<p>The entirety of an organism’s genetic information is called its <strong>genome</strong>. The question what constitutes a <strong>gene</strong> is more difficult to answer. Generally speaking, a gene is a region in the genome that gives rise to a functional product. Typically, it is associated with regulatory and transcribed sequence, two topics we will cover in more detail below. Many, though not all genes, contain information on how to build specific proteins, large biomolecules that govern nearly every process in an organism. Unless noted otherwise, this tutorial refers to protein-coding genes.</p>
+
+<p>Further reading: <a href="../../wp-content/uploads/2013/08/Pearson_2006.pdf">What is a gene?</a></p>
+
+<p> </p>
+
+<h4 id="dna-and-gene-transcription-a-iddna-and-gene-transcriptiona">DNA and gene transcription <a id="DNA and gene transcription"></a></h4>
+
+<p>Genetic information is encoded in desoxyribonucleic acid or <strong>DNA</strong>. DNA molecules are made up of long chains of simpler units called nucleotides, which consist of a sugar-phosphate backbone and one of the four nucleobases adenine (A), cytosine (C), guanine (G) or thymine (T). The order or sequence of these bases along the backbone is what stores genetic information.</p>
+
+<p>In multicellular organisms, DNA is arranged in a double-stranded, antiparallel helix (see figure below). Long stretches of DNA containing up to millions of nucleotides are organized in tightly packed structures called <strong>chromosomes</strong>, which reside within the nucleus of each cell. Bases on one strand are always paired with a specific base on the other: adenine with thymine, and cytosine with guanine. This provides a built-in mechanism for copying and replicating DNA. For instance, during cell division, the strands unzip and are then filled up again by free nucleotides complementary to each base. Each daughter cell is thus provided with a full set of double-stranded DNA in the form of chromosomes.</p>
+
+<p>In order to use the genetic information stored in a gene, a working copy of its sequence is being made first. This process is called DNA <strong>transcription</strong>. To initiate this process, a complex of proteins consisting of DNA polymerase and various transcription factors binds to the DNA. Relying on the principle of complementarity mentioned above, the polymerase then assembles a copy of the coding or sense strand using the transcribed or antisense strand as a template. The copy is made up of ribonucleic acid or <strong>RNA</strong>, a type of molecule similar to but less stable than DNA, and typically short and single-stranded in comparison. In the case of protein-coding genes, the copy is called messenger RNA, or short mRNA, because it carries the information from the site of its storage, the nucleus, to the cytoplasm where it is being used to generate a gene product.</p>
+
+<p> </p>
+
+<h4 id="gene-translation-and-the-genetic-code-a-idgene-translation-and-the-genetic-codea">Gene translation and the genetic code <a id="Gene translation and the genetic code"></a></h4>
+
+<p>After arriving in the cytoplasm, the messenger RNA attaches itself to a ribosome, a large molecular machine governing DNA <strong>translation</strong>. During this process, the genetic information stored in a gene and carried by the mRNA molecule, is translated into a protein. As mentioned above, the information on how to make a protein is encoded in the order of the four bases. The code, depicted in the table below, is nearly universal across all forms of life on earth: Each triplet of bases or <strong>codon</strong> stands for one of the 20 amino acids that form the building blocks of all proteins. For each codon a ribosome reads in, it adds a corresponding amino acid to a growing chain (also called a polypeptide). Since there are 64 codons (4<sup>3</sup>) but only 20 amino acids, the code is highly redundant, meaning that most amino acids are encoded by multiple codons. In addition, four codon have a special function: ATG indicates the start of the coding sequence (as well as encoding the amino acid methionine, which is therefore always the first in a protein), while three so-called stop codons stand for its end, and lead to termination of the amino acid chain building process. The sequence and chemical nature of the amino acids determines how the protein folds into a three-dimensional structure, which in turn determines its function in the cell. The whole process of generating a gene product including transcription and translation is called <strong>gene expression</strong>. It is subject to subtle <strong>regulation</strong> at many levels, adjusting the amount of gene product needed in the cell at any given time.</p>
+
+<p> </p>
+
+<h5 id="dna-structure">DNA structure</h5>
+
+<p><a href="../../wp-content/uploads/2013/08/DNA_bw.png" class="grouped_elements" rel="tc-fancybox-group130"><img class="alignleft size-full wp-image-462" alt="DNA_bw" src="../../wp-content/uploads/2013/08/DNA_bw.png" width="433" height="519" /></a></p>
+
+<h5 id="codon-table-standard-code">Codon table (standard code)</h5>
+
+<table id="Codon table" border="1," cellpadding="5">
+  <tr>
+    <td>
+      TTT
+    </td>
+    
+    <td>
+      F – Phenylalanine
+    </td>
+    
+    <td>
+      TCT
+    </td>
+    
+    <td>
+      S – Serine
+    </td>
+    
+    <td>
+      TAT
+    </td>
+    
+    <td>
+      Y – Tyrosine
+    </td>
+    
+    <td>
+      TGT
+    </td>
+    
+    <td>
+      C – Cysteine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      TTC
+    </td>
+    
+    <td>
+      F – Phenylalanine
+    </td>
+    
+    <td>
+      TCC
+    </td>
+    
+    <td>
+      S – Serine
+    </td>
+    
+    <td>
+      TAC
+    </td>
+    
+    <td>
+      Y – Tyrosine
+    </td>
+    
+    <td>
+      TGC
+    </td>
+    
+    <td>
+      C – Cysteine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      TTA
+    </td>
+    
+    <td>
+      L – Leucine
+    </td>
+    
+    <td>
+      TCA
+    </td>
+    
+    <td>
+      S – Serine
+    </td>
+    
+    <td>
+      TAA
+    </td>
+    
+    <td>
+      STOP
+    </td>
+    
+    <td>
+      TGA
+    </td>
+    
+    <td>
+      STOP
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      TTG
+    </td>
+    
+    <td>
+      L – Leucine
+    </td>
+    
+    <td>
+      TCG
+    </td>
+    
+    <td>
+      S – Serine
+    </td>
+    
+    <td>
+      TAG
+    </td>
+    
+    <td>
+      STOP
+    </td>
+    
+    <td>
+      TGG
+    </td>
+    
+    <td>
+      W – Tryptophan
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      CTT
+    </td>
+    
+    <td>
+      L – Leucine
+    </td>
+    
+    <td>
+      CCT
+    </td>
+    
+    <td>
+      P – Proline
+    </td>
+    
+    <td>
+      CAT
+    </td>
+    
+    <td>
+      H – Histidine
+    </td>
+    
+    <td>
+      CGT
+    </td>
+    
+    <td>
+      R – Arginine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      CTC
+    </td>
+    
+    <td>
+      L – Leucine
+    </td>
+    
+    <td>
+      CCC
+    </td>
+    
+    <td>
+      P – Proline
+    </td>
+    
+    <td>
+      CAC
+    </td>
+    
+    <td>
+      H – Histidine
+    </td>
+    
+    <td>
+      CGC
+    </td>
+    
+    <td>
+      R – Arginine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      CTA
+    </td>
+    
+    <td>
+      L – Leucine
+    </td>
+    
+    <td>
+      CCA
+    </td>
+    
+    <td>
+      P – Proline
+    </td>
+    
+    <td>
+      CAA
+    </td>
+    
+    <td>
+      Q – Glutamine
+    </td>
+    
+    <td>
+      CGA
+    </td>
+    
+    <td>
+      R – Arginine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      CTG
+    </td>
+    
+    <td>
+      L – Leucine
+    </td>
+    
+    <td>
+      CCG
+    </td>
+    
+    <td>
+      P – Proline
+    </td>
+    
+    <td>
+      CAG
+    </td>
+    
+    <td>
+      Q – Glutamine
+    </td>
+    
+    <td>
+      CGG
+    </td>
+    
+    <td>
+      R – Arginine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      ATT
+    </td>
+    
+    <td>
+      I – Isoleucine
+    </td>
+    
+    <td>
+      ACT
+    </td>
+    
+    <td>
+      T – Threonine
+    </td>
+    
+    <td>
+      AAT
+    </td>
+    
+    <td>
+      A – Asparagine
+    </td>
+    
+    <td>
+      AGT
+    </td>
+    
+    <td>
+      S – Serine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      ATC
+    </td>
+    
+    <td>
+      I – Isoleucine
+    </td>
+    
+    <td>
+      ACC
+    </td>
+    
+    <td>
+      T – Threonine
+    </td>
+    
+    <td>
+      AAC
+    </td>
+    
+    <td>
+      A – Asparagine
+    </td>
+    
+    <td>
+      AGC
+    </td>
+    
+    <td>
+      S – Serine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      ATA
+    </td>
+    
+    <td>
+      I – Isoleucine
+    </td>
+    
+    <td>
+      ACA
+    </td>
+    
+    <td>
+      T – Threonine
+    </td>
+    
+    <td>
+      AAA
+    </td>
+    
+    <td>
+      L – Lysine
+    </td>
+    
+    <td>
+      AGA
+    </td>
+    
+    <td>
+      R – Arginine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      ATG
+    </td>
+    
+    <td>
+      M – Methionine*
+    </td>
+    
+    <td>
+      ACG
+    </td>
+    
+    <td>
+      T – Threonine
+    </td>
+    
+    <td>
+      AAG
+    </td>
+    
+    <td>
+      L – Lysine
+    </td>
+    
+    <td>
+      AGG
+    </td>
+    
+    <td>
+      R – Arginine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      GTT
+    </td>
+    
+    <td>
+      V – Valine
+    </td>
+    
+    <td>
+      GCT
+    </td>
+    
+    <td>
+      A – Alanine
+    </td>
+    
+    <td>
+      GAT
+    </td>
+    
+    <td>
+      D – Aspartic acid
+    </td>
+    
+    <td>
+      GGT
+    </td>
+    
+    <td>
+      G – Glycine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      GTC
+    </td>
+    
+    <td>
+      V – Valine
+    </td>
+    
+    <td>
+      GCC
+    </td>
+    
+    <td>
+      A – Alanine
+    </td>
+    
+    <td>
+      GAC
+    </td>
+    
+    <td>
+      D – Aspartic acid
+    </td>
+    
+    <td>
+      GGC
+    </td>
+    
+    <td>
+      G – Glycine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      GTA
+    </td>
+    
+    <td>
+      V – Valine
+    </td>
+    
+    <td>
+      GCA
+    </td>
+    
+    <td>
+      A – Alanine
+    </td>
+    
+    <td>
+      GAA
+    </td>
+    
+    <td>
+      E – Glutamic acid
+    </td>
+    
+    <td>
+      GGA
+    </td>
+    
+    <td>
+      G – Glycine
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      GTG
+    </td>
+    
+    <td>
+      V – Valine
+    </td>
+    
+    <td>
+      GCG
+    </td>
+    
+    <td>
+      A – Alanine
+    </td>
+    
+    <td>
+      GAG
+    </td>
+    
+    <td>
+      E – Glutamic acid
+    </td>
+    
+    <td>
+      GGG
+    </td>
+    
+    <td>
+      G – Glycine
+    </td>
+  </tr>
+</table>
+<p> </p>
+
+<p> </p>
+
+<h4 id="gene-structure-a-idgene-structurea">Gene structure <a id="Gene structure"></a></h4>
+
+<p>Proteins are encoded by the <strong>coding sequence</strong> (CDS) or body of a gene. However, a functional gene contains additional sequence that is transcribed but not translated, or even left untranscribed. Parts of a gene that are included in its mRNA but do not code for protein are called untranslated regions, or short <strong>UTRs</strong>. They are located on either side of the coding sequence – the 5′ UTR in front of the start codon, and the 3′ UTR after the stop codon (green and red in the figure below, respectively). In almost all organism except bacteria, the coding sequence is further split into shorter fragments called <strong>exons</strong> which are separated by non-coding sequence called <strong>introns</strong>. Exons allow organisms to be more flexible in producing proteins, for instance by omitting certain exons during transcription. However, they require the removal of the introns, which are initially transcribed, but later removed from the mature mRNA in a process called splicing (see also below, under Alternative transcripts). Finally, the initiation of transcription and the regulation of gene activity requires promotors and other regulatory elements. Although these elements are part of the gene, they are often found far from the main part of the gene, and also not found in the mRNA since they are not being transcribed themselves.</p>
+
+<p> </p>
+
+<p><a href="http://ecoevo.unit.oist.jp/lab/wp-content/uploads/2013/08/GeneStructure.png" class="grouped_elements" rel="tc-fancybox-group130"><img class="margin-left size-full wp-image-541" alt="GeneStructure" src="http://ecoevo.unit.oist.jp/lab/wp-content/uploads/2013/08/GeneStructure.png" width="958" height="217" /></a></p>
+
+<p> </p>
+
+<h4 id="alternative-transcripts-a-idalternative-transcriptsa">Alternative transcripts <a id="Alternative transcripts"></a></h4>
+
+<p>Genes can give rise to more than one type of transcript, which is important to remember when annotating genes on the basis of experimentally obtained transcript data. One of the most important mechanisms by which a gene can produce multiple transcipts is <strong>alternative splicing</strong>. In this process, particular exons are included in or excluded from the mature mRNA. Because alternative splicing produces different proteins from the same gene, it is an important means of increasing protein diversity and regulating gene expression.</p>
+
+<p>Variants of proteins derived from the same gene are called <strong>isoforms</strong>. Other sources of isoforms include recently duplicated and thus highly similar genes (a process we will talk about in more detail here), and <strong>alleles</strong>. Alleles represent variants of the same gene that differ slightly in sequence and may result in different observable phenotypic traits, like eye color. There are typically several alleles of each gene present in a population, and most more complex organisms possess two (which may be identical), one from each of their two sets of chromosomes.</p>
+
+<p> </p>
+
+<p>Next chapter: <a href="../12.genome-sequencing">Genome sequencing</a></p>
+
+<p> </p>
+
+
+      
+        <hr />
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://mikheyevlab.github.io/tutorial/11.introduction-to-genetics/index.html" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://mikheyevlab.github.io/tutorial/11.introduction-to-genetics/index.html" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://mikheyevlab.github.io/tutorial/11.introduction-to-genetics/index.html" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+      
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://mikheyevlab.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://mikheyevlab.github.io/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-45186360-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+          
+
+</body>
+</html>

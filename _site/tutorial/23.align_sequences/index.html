@@ -1,0 +1,288 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Aligning sequences &#8211; Ecology and Evolution Unit</title>
+
+<meta name="keywords" content="">
+
+  
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Aligning sequences">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://mikheyevlab.github.io/images/default-thumb.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en-JP">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Aligning sequences">
+
+<meta property="og:url" content="http://mikheyevlab.github.io/tutorial/23.align_sequences/">
+<meta property="og:site_name" content="Ecology and Evolution Unit">
+
+
+
+
+
+<link rel="canonical" href="http://mikheyevlab.github.io/tutorial/23.align_sequences/">
+<link href="http://mikheyevlab.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Ecology and Evolution Unit Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://mikheyevlab.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://mikheyevlab.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://mikheyevlab.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://mikheyevlab.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://mikheyevlab.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://mikheyevlab.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://mikheyevlab.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://mikheyevlab.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://mikheyevlab.github.io/">Ecology and Evolution Unit</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/about/" >About</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/posts/" >Posts</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/methods/" >Methods</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/data/" >Data</a></li>
+				
+				    
+				        
+				    
+				    <li><a href="http://mikheyevlab.github.io/tutorial/0.genome-annotation-tutorial/" >Gene annotation tutorial</a></li>
+				
+				    
+				        
+				        
+				    <li><a href="https://groups.oist.jp/evolution" target="_blank">Official web page</a></li>
+				
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+  
+
+<div itemscope itemtype="http://schema.org/Person">
+
+
+	<img src="http://mikheyevlab.github.io/images/bio-martin.jpg" class="bio-photo" alt="Martin Helmkampf bio photo">
+
+
+  <h3 itemprop="name">Martin Helmkampf</h3>
+  <p></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+  </div>
+  <article class="page">
+    <h1>Aligning sequences</h1>
+    <div class="article-wrap">
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3><i class="fa fa-book"></i> Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#mafft">MAFFT</a></li>
+  <li><a href="#results">Results</a></li>
+  <li><a href="#tips-and-further-resources">Tips and further resources</a></li>
+</ul>
+
+  </div>
+</section>
+<!-- /#table-of-contents -->
+
+<p>Many bioinformatic applications require an alignment between two or more biological sequences. Alignments reveal regions of similarity between sequences due to shared function, structure or evolutionary history. Typically, aligned sequences are represented as rows in a matrix, like in this example of two <em>yellow</em> genes from the honeybee <em>Apis mellifera</em> and the Red harvester ant <em>P. barbatus</em>:</p>
+
+<p><a href="../../wp-content/uploads/2013/08/Alignment_Y.png" class="grouped_elements" rel="tc-fancybox-group471"><img class="margin-left size-full wp-image-470" alt="Alignment_Y" src="../../wp-content/uploads/2013/08/Alignment_Y.png" width="914" height="77" /></a></p>
+
+<p> </p>
+
+<p>When arranged so that the most similar amino acid residues are found one below another in vertical columns, the strong similarity between the two genes becomes apparent (in addition, identical residues are highlighted in red, chemically similar ones in green and blue). In this case, the similarity is due to <a href="../41.homology-assessment">homology</a>: both genes have evolved in the honeybee and the harvester ant from a single gene that was present in the last common ancestor of these two organisms. When aligned correctly, each position in an alignment is a statement of homology itself, being derived from the same position in the ancestral gene.</p>
+
+<p>Because sequences do not only evolve by <strong>substitution</strong>, the change of one residue into another, but by the deletion or insertion of residues as well, gaps have to be introduced to properly align positions according to homology. Gaps are represented by a dash symbol (“–”) and also called <strong>indels</strong> because it is usually not possible to discern whether they indicate an insertion in one set of sequences, or a deletion in the other.</p>
+
+<p>A variety of algorithms exist to calculate alignments, although describing them is beyond the scope of this tutorial (more information can be found <a href="http://en.wikipedia.org/wiki/Sequence_alignment#Multiple_sequence_alignment">here</a>). Aligning multiple sequences is computationally difficult, and usually performed using heuristic approaches that are efficient but cannot guarantee to find the best match.</p>
+
+<p> </p>
+
+<h4 id="mafft">MAFFT</h4>
+
+<p>MAFFT is a very accurate, versatile multiple alignment program. It is available as a <a href="http://mafft.cbrc.jp/alignment/software/">standalone application</a> suitable for scripting, or a <a href="http://mafft.cbrc.jp/alignment/server/">web version</a> that we will discuss here.</p>
+
+<p><a href="../../wp-content/uploads/2013/08/MAFFT_input.png" class="grouped_elements" rel="tc-fancybox-group471"><img class="alignleft size-full wp-image-483" alt="MAFFT_input" src="../../wp-content/uploads/2013/08/MAFFT_input.png" width="720" height="757" /></a></p>
+
+<p> </p>
+
+<p><span style="color: #ff0000;">(1)</span>. To align one or more sequences using MAFFT online, paste them into this input window in Fasta format. In this example, we are using protein sequences of the Cytoplasmic Ribosomal Protein gene RpL30 from three organisms.</p>
+
+<p><span style="color: #ff0000;">(2)</span>. This section provides several input and output options. Note that you can adjust the direction of nucleotide sequences to conform to the first sequence, in case you are trying to align sequences derived from opposite DNA strands without having to reverse them first.</p>
+
+<p><span style="color: #ff0000;">(3)</span>. Click “Submit” to run MAFFT</p>
+
+<p>Below (see actual online version) you will find several advanced options. MAFFT includes different algorithms tailored to the number, divergence and gap structure of the sequences to be aligned. For most purposes, the auto option gives accurate results.</p>
+
+<h4 id="results">Results</h4>
+
+<p>Aligning the three genes above gives the following result in Clustal format. The alignment can also be displayed and downloaded in other formats, e.g. Fasta, which is easier to handle as input in downstream applications. MAFFT even provides the option to calculate a simple phylogenetic tree based on the alignment.</p>
+
+<p><a href="../../wp-content/uploads/2013/08/MAFFT_result.png" class="grouped_elements" rel="tc-fancybox-group471"><img class="marginleft size-full wp-image-493" alt="MAFFT_result" src="../../wp-content/uploads/2013/08/MAFFT_result.png" width="640" height="251" /></a></p>
+
+<p> </p>
+
+<h4 id="tips-and-further-resources">Tips and further resources</h4>
+
+<p>— Algorithms that assume highly conserved regions interrupted by long gaps like MAFFT’s E-INS-i can be used to tentatively map transcripts to genomic sequence. While more specialized software like Exonerate or GeneWise should be used to identify the exact splice sites, the number and approximate position of exons can be discerned using this method. For instance, try to align <a href="../../wp-content/uploads/2013/08/Pbar_desat1_genomic.fas">these two sequences</a> (transcript and genomic, respectively) using MAFFT.</p>
+
+<p>— When aligning nucleotide sequences, MAFFT will only align forward strands (unless you use the input option “Adjust direction …” mentioned above), yet check for similarities on the reverse strands. The former are displayed in red, the latter in blue in plots like in the ones below. If there are blue lines, one or several of your input sequences might be in reverse. You can adjust the orientation using the “Refine dataset” button or the “make reverse complement sequence” option.</p>
+
+<p><a href="../../wp-content/uploads/2013/08/MAFFT_redblue.png" class="grouped_elements" rel="tc-fancybox-group471"><img class="marginleft size-full wp-image-510" alt="MAFFT_redblue" src="../../wp-content/uploads/2013/08/MAFFT_redblue.png" width="276" height="121" /></a></p>
+
+<p> </p>
+
+<p>— There are dozens of alternative alignment programs using different algorithms, examples for which are <a href="http://npsa-pbil.ibcp.fr/cgi-bin/npsa_automat.pl?page=/NPSA/npsa_clustalw.html">ClustalW</a> (for pairwise, color-coded alignment like the one on the top of the page), <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&amp;PROG_DEF=blastn&amp;BLAST_PROG_DEF=megaBlast&amp;SHOW_DEFAULTS=on&amp;BLAST_SPEC=blast2seq&amp;LINK_LOC=align2seq">BLAST</a>, Muscle, T-Coffee, prank, and PAL2NAL.</p>
+
+<p> </p>
+
+<p>Next chapter: <a href="../24.webapollo">WebApollo</a></p>
+
+<p> </p>
+
+
+      
+        <hr />
+        <div class="social-share">
+  <h4>Share on</h4>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=http://mikheyevlab.github.io/tutorial/23.align_sequences/index.html" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://mikheyevlab.github.io/tutorial/23.align_sequences/index.html" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+    </li>
+    <li>
+      <a href="https://plus.google.com/share?url=http://mikheyevlab.github.io/tutorial/23.align_sequences/index.html" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+    </li>
+  </ul>
+</div><!-- /.social-share -->
+      
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://mikheyevlab.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://mikheyevlab.github.io/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-45186360-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+          
+
+</body>
+</html>
