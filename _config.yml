@@ -2,7 +2,7 @@
 
 title:            Ecology and Evolution Unit
 locale:           en-JP
-baseurl: /site
+baseurl:  /site
 url: http://ecoevo.unit.oist.jp
 
 # Jekyll configuration
