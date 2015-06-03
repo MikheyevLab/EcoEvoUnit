@@ -3,10 +3,10 @@
   <channel>
     <title>Ecology and Evolution Unit</title>
     <description></description>
-    <link>http://mikheyevlab.github.io/</link>
-    <atom:link href="http://mikheyevlab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2015 16:59:56 +0900</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2015 16:59:56 +0900</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jun 2015 17:00:56 +0900</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2015 17:00:56 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;This is a test post.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 00:00:00 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/test/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/test/</guid>
+        <link>/test/</link>
+        <guid isPermaLink="true">/test/</guid>
         
         <category>news</category>
         
@@ -32,8 +32,8 @@
 
 </description>
         <pubDate>Fri, 17 Apr 2015 00:00:00 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/press%20release/publication/evolutionary-constraints/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/press%20release/publication/evolutionary-constraints/</guid>
+        <link>/press%20release/publication/evolutionary-constraints/</link>
+        <guid isPermaLink="true">/press%20release/publication/evolutionary-constraints/</guid>
         
         <category>ants</category>
         
@@ -49,8 +49,8 @@
         <description>&lt;p&gt;Ant worker traits are remarkable in that they evolve despite the fact that the workers themselves do not reproduce. As a part of our ongong collaboration with the &lt;a href=&quot;http://sites.sas.upenn.edu/linksvayer-lab&quot;&gt;Linksvayer Lab&lt;/a&gt;, in a &lt;a href=&quot;http://elifesciences.org/content/4/e04775?_ga=1.25883067.769126097.1432248984&quot;&gt;recently published paper in eLife&lt;/a&gt; we showed that the evolution of genes involved in social behavior is constrained by the effects of gene co-expression networks. You can listen to a podcast where Tim Linksvayer describes this work &lt;a href=&quot;http://elifesciences.org/podcast/episode18&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 00:00:00 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/ants/evolution-of-division-of-labor/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/ants/evolution-of-division-of-labor/</guid>
+        <link>/ants/evolution-of-division-of-labor/</link>
+        <guid isPermaLink="true">/ants/evolution-of-division-of-labor/</guid>
         
         <category>press release</category>
         
@@ -72,8 +72,8 @@
 
 </description>
         <pubDate>Thu, 23 Oct 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/gspe-genomics-of-social-parasite-evolution-workshop/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
+        <link>/gspe-genomics-of-social-parasite-evolution-workshop/</link>
+        <guid isPermaLink="true">/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
         
         <category>Lab news</category>
         
@@ -88,8 +88,8 @@
 
 </description>
         <pubDate>Mon, 01 Sep 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
+        <link>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
+        <guid isPermaLink="true">/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
         
         <category>Lab news</category>
         
@@ -102,8 +102,8 @@
 
 </description>
         <pubDate>Wed, 27 Aug 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
+        <link>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
+        <guid isPermaLink="true">/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
         
         <category>Lab news</category>
         
@@ -118,8 +118,8 @@
 
 </description>
         <pubDate>Mon, 25 Aug 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/shikha-scores-at-the-top-of-her-class/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/shikha-scores-at-the-top-of-her-class/</guid>
+        <link>/shikha-scores-at-the-top-of-her-class/</link>
+        <guid isPermaLink="true">/shikha-scores-at-the-top-of-her-class/</guid>
         
         <category>Lab news</category>
         
@@ -132,8 +132,8 @@
 
 </description>
         <pubDate>Thu, 22 May 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/museum/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/museum/</guid>
+        <link>/museum/</link>
+        <guid isPermaLink="true">/museum/</guid>
         
         <category>Lab news</category>
         
@@ -147,8 +147,8 @@
         <description>&lt;p&gt;I am Jatin Arora. I came to know about Prof. Alexander Mikheyev and his Ecology and Evolution unit at OIST in October, 2013. I was intrigued about the potential offered by using non-model systems, e.g. the species of honey bees, ants, snakes etc. to understand how organisms interact with their environment. In debut, I worked at distance with him on topic of Resilience to diseases in feral honey bee genome in third semester of my master studies at University Pierre and Marie Curie, Paris. Later, I joined the laboratory as research intern to do my master thesis. &lt;br /&gt;In present, I am working on the Introgressive hybridization of African genes into population of feral European bees. During my stay here, I hope to work in other areas as well, as the research in the laboratory is being done on a range of topics. The laboratory has cutting edge infrastructure. It is equipped with latest sequencing facilities. The experimental and analysis works are done in parallel which facilitates the access to data and validation of hypothesis. Along with working on computational analysis, I participate in wet lab experiments as well, which complements my learning. There are six nationalities in the laboratory which allows learning different cultures under one roof and makes the work environment more exciting.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Apr 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</guid>
+        <link>/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</link>
+        <guid isPermaLink="true">/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</guid>
         
         
         <category>lab</category>
@@ -183,8 +183,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 01 Apr 2014 19:42:49 +0900</pubDate>
-        <link>http://mikheyevlab.github.io/oist-ntu-invasive-ant-symposium/</link>
-        <guid isPermaLink="true">http://mikheyevlab.github.io/oist-ntu-invasive-ant-symposium/</guid>
+        <link>/oist-ntu-invasive-ant-symposium/</link>
+        <guid isPermaLink="true">/oist-ntu-invasive-ant-symposium/</guid>
         
         <category>Lab news</category>
         
