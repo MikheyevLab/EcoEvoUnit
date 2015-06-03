@@ -6,214 +6,101 @@ comments: true
 image:
   feature: oist2.jpg
 ---
+{% include _toc.html %}
+
+<style>
+.profile-image
+{
+    height: 200px;
+    float: left;
+    padding: 10px;
+}
+</style>
 
 The Ecology and Evolution research group is part of the <a href="http://www.oist.jp/" target="_blank">Okinawa Institute of Science and Technology Graduate University</a>.
 
 <h3>Where Are Ecology and Evolution Unit Members From?</h3>
   <p>Geographic origins of Ecology and Evolution Unit members and visitors. Feel free to hover and zoom.</p>
+  <iframe src="map.html" width="800" height="600" frameBorder="0" marginwidth="0"> </iframe>
 
-<div id='convas'></div>
-<div id="container"></div>
-<script src="d3.css"></script>
-<script src="http://d3js.org/topojson.v1.min.js"></script>
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<!-- <script src="https://dl.dropboxusercontent.com/u/5275622/lab%20map/zlib.js/bin/gunzip.min.js"></script>  -->
-<script src="from github.com/imaya/zlib.js"></script>
-<script>
-d3.select(window).on("resize", throttle);
+# Lab members, in their own words
 
-var zoom = d3.behavior.zoom()
-    .scaleExtent([1, 9])
-    .on("zoom", move);
+## Staff (in order of tenure)
 
-var width = document.getElementById('container').offsetWidth;
-var height = width / 2;
+### Alexander Mikheyev (aka Sasha), principal investigator
 
-var topo,projection,path,svg,g;
+![Sasha]({{ site.url }}/about/img_full/sasha.jpg ){: .profile-image }
+I have broad interests in evolutionary biology, focusing mainly on leveraging the power of next-generation tools for answering long-standing basic questions. As a result, I like to explore new techniques, be they laboratory, computational, or involving new sequencing technologies. Although I started my career in the laboratory and in the field, presently I am more of a bioinformatician. Over the past couple of years, I became increasingly interested in applying short-read sequencing to degraded DNA, such as that found in museum, archaeological or other poorly preserved specimens. Having developed a range of tools for high-throughput processing of degraded insects, are harnessing these tools for projects ranging from ecosystem phylogenetics and phylogeography, to studying evolutionary processes using museum samples. Additionally, I maintain an interest in social insect systems, which I worked on during my graduate studies, and also nurture a more recently acquired research program using snake venoms to understand adaptation. In my spare time, I enjoy long runs, and playing the violin.
 
-var graticule = d3.geo.graticule();
+### Mandy Tin, [research technician](http://sotak.info/sci.jpg)
 
-var tooltip = d3.select("#container").append("div").attr("class", "tooltip hidden");
+![Mandy]({{ site.url }}/about/img_full/chuck.jpg ){: .profile-image }
+I mainly work on projects involve research and development of innovative ways to retrieve valuable genomic information from archival museum specimens while preserving their morphology for taxonomic purpose. Our very first version of library preparation method has been published recently. The method is under active development, and we are extending the technology to ancient human DNA research. Lab automation is a big part of my interest as well. We have successfully automated some of the routine library preparation procedures. Robots allow us to increase throughput with high reproducibility. I also deal with general molecular work in the lab. As I have seen a lot of degraded DNA, now I am always amazed when I see good quality RNA and DNA.
 
-setup(width,height);
+I started working on non-model organisms in this lab and have learnt a lot of fascinating stories about them. For example, *Wasmannia auropunctata*, the little fire ant, has clonal reproductive system for queens and males but sexual reproduction for workers. Some ant species have evolved strategies to exploit resources of other ant species without being discovered (social parasitism). I hope you find evolution interesting too!
 
-function setup(width,height){
-  projection = d3.geo.mercator()
-    .translate([(width/2), (height/2)])
-    .center([5,0])
-    .scale( width / 2 / Math.PI);
+### Miquel Grau-Lopez, research technician
+![Miquel]({{ site.url }}/about/img_full/Miquel.png ){: .profile-image }
+I obtained my degree in Computer Systems Engineering from the Universitat Jaume I at Castello (Spain) where I developed, for my final degree project, a web application for the main hospital. After that, I worked for several years designing tools to facilitate researchers' work related with photovoltaic and optoelectronic devices for Physics Department at the University. I arrived to Ecology and Evolution Unit on 2013 where I am working with several projects, testing apps and building pipeline tools. My interest in this field grows up as I read and learn more. We have focused in the genome study of several species like ants, birds or snakes and it is very exciting.  
 
-  path = d3.geo.path().projection(projection);
+On a personal level, I love travelling and discovering new cultures. I really like reading/writing and spend time with friends, music, games and cinema. Of course, I *like* soba!
 
-  svg = d3.select("#container").append("svg")
-      .attr("width", width)
-      .attr("height", height)
-      .call(zoom)
-      .on("click", click)
-      .append("g");
+### Jo Tan, research technician
+![Jo]({{ site.url }}/about/img_full/Jo.jpg ){: .profile-image }
+Konnichiwa! I'm a lab technician in the Mikheyev Unit which is under the Ecology and Evolution umbrella at OIST.  At this stage, I am fortunate enough to be involved in a unique project collaborating with Evan Economo and his colleagues in which we will be extracting, sequencing and correlating DNA from Fijian Ants museum samples.  I've have previously graduated from the University of Auckland, and more recently been involved with Stemcell Technologies in Sydney Australia.  As you can probably tell, we are a progressive and dynamic lab, from all around the world, with different cultures and background.  We work hard and play hard, and have fun as a team and I'm grateful to be a part of this awesome group.  
 
-  g = svg.append("g");
+### Lijun-Qiu, research technician
+![Qiu]({{ site.url }}/about/img_full/Qiu.jpg ){: .profile-image }
+I have a long-time interest in molecular biology and genetics. Before joining the lab, I spent 5 years working on molecular genetics of castor bean. Now I am working as a research technician on ancient DNA, including ancient DNA extraction, sequencing and so on. So I have the chance to work with different precious samples such as museum samples; it is work requiring special care. In the meantime, I also help Misato with a project on the reproductive system of the ant *Vollenhovia emeryi*, which is really a new world for me. As a Chinese person, I enjoy the peaceful life and beautiful landscape here.
+<!-- 30.77 N 120.75E  -->
 
-}
+<br><br>
 
-d3.json("json/world-topo-min.json", function(error, world) {
+### Carolina Diaz, postdoc
+![Carolina]({{ site.url }}/about/img_full/Carolina.jpg ){: .profile-image }
+I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
+I worked on the molecular origins of life using bottleneck population sizes of ribozymes evolved continuously to test the effect of the accumulation of mutations in the survival of the populations, and the potential routes that they can explore to escape extinction. I also worked on a project to measure the effect of mutations recently acquired depending on their interactions with other genes, epistasis, using natural isolates of *E. coli*.
+During my career I have had several teaching and mentoring opportunities, including teaching science classes for fourth, fifth and sixth graders in Colombia, planning and doing science projects, teaching general chemistry laboratory for first and second year college students. I have also volunteered mentoring science projects at a charter school in Houston.
+In addition to my career in science, I have painted in fabric with acrylics, gouache, oils, and on paper with water colors, black color, pastels, and ink.
 
-  var countries = topojson.feature(world, world.objects.countries).features;
+## Ph.D. Students
 
-  topo = countries;
-  draw(topo);
+### Carmen Emborski, special student
+![Carmen]({{ site.url }}/about/img_full/Carmen.jpg ){: .profile-image }
+Being a special research student, I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using Drosophila melanogaster as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
-});
+## Interns
 
-function draw(topo) {
+### Jigyasa Arora
+![Jigyasa]({{ site.url }}/about/img_full/jigyasa.png ){: .profile-image }
+I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball. 
 
-  svg.append("path")
-     .datum(graticule)
-     .attr("class", "graticule")
-     .attr("d", path);
+<br><br>
 
-  g.append("path")
-   .datum({type: "LineString", coordinates: [[-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0]]})
-   .attr("class", "equator")
-   .attr("d", path);
+## Alumni 
 
-  var country = g.selectAll(".country").data(topo);
+### Misato Okamoto Miyakawa, postdoc 2012-2014
+![Misato]({{ site.url }}/about/img_full/Misato.png ){: .profile-image }
+I am interested in the evolution of conflict in organisms. Conflicts can be detected at various levels, *e.g.* between selfish genes and resistant genes, parasite and host species, males and females. In social insects, conflicts among colony members often arise over optimal reproductive strategies. Given this, I am particularly interested in the genetics and behavioral ecology involved in conflicts that positively affect the evolution of sociality in insects. In my postdoc, I have focused on ants that have an unique reproductive strategy, *Wasmannia auropunctata* and *Vollenhovia emeryi*, which seem to have conflict between sexes. Using sequencing technology and bioinfomatic tools, I seek to understand the evolutionary advantage of this reproductive strategy.
+I’m really happy to work at OIST for my first postdoc, particularly because of my great lab members, the beautiful working environment, and the almost infinite budget for research. The Ecology and Evolution unit is a great place to improve molecular experimental techniques and increase your mental powers!
+<!-- 34.9793 N and long. 135.7032 E  -->
 
-  country.enter().insert("path")
-      .attr("class", "country")
-      .attr("d", path)
-      .attr("id", function(d,i) { return d.id; })
-      .attr("title", function(d,i) { return d.properties.name; })
-      .style("fill", function(d, i) { return d.properties.color; });
+### Leonidas Georgiou, rotation student, fall 2014
+![Leonidas]({{ site.url }}/about/img_full/Leonidas.jpg ){: .profile-image }
+**Origin:** Cyprus
+**Background:** Neuroscience
+**Aspiration:** Combine my background with mathematics and the physical sciences to understand how life works systematically.
+**Interest:** Biological thermodynamics. How life "captures" order. How is life related to energy and information?
+**Current work:** Error detection and repair of ancient mitochondrial DNA using computational methods **Future work:** Hopefully my interest and aspiration (see above).
 
-  //Add data on people
-  d3.json("json/members.json", function(err, people) {
+<br><br>
 
-    people.forEach(function(i){
-      addpoint(i.longitude,i.latitude,  i.name , i.photo);
-    });
-  });
+### Yafei Mao, rotation student, fall 2014
 
-    //offsets for tooltips
-  var offsetL = document.getElementById('container').offsetLeft+20;
-  var offsetT = document.getElementById('container').offsetTop+10;
+![Yafei]({{ site.url }}/about/img_full/Yafei.jpg ){: .profile-image }
+I am a first year PhD student at OIST and choose the Ecology and Evolution Unit for my first rotation. In my rotation project, I am working on estimating the effective population size for ant fauna in Cocos Island using temporal samples collected at different times. I graduated form Nanjing University in Life sciences. I have some experience on molecular biology and protein purification, but I want to come into contact with different areas of life sciences, especially for ecology and evolution. In my spare time, I enjoy swimming and traveling.
+<!-- Latitude 32.060255 | Longitude : 118.796877 -->
 
-
-  country
-    .on("mousemove", function(d,i) {
-
-      var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
-
-      tooltip.classed("hidden", false)
-             .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
-             .html(d.properties.name);
-
-      })
-      .on("mouseout",  function(d,i) {
-        tooltip.classed("hidden", true);
-      }); 
-
-
-
-  //function to add points and text to the map (used in plotting capitals)
-  function addpoint(lat,lon,text,photo) {
-
-    var gpoint = g.append("g")
-        .attr("class", "gpoint")
-        .attr("title",text)
-        .attr("photo",photo);
-
-    var x = projection([lat,lon])[0];
-    var y = projection([lat,lon])[1];
-
-    gpoint.append("svg:circle")
-          .attr("cx", x)
-          .attr("cy", y)
-          .attr("class","point")
-          .attr("r", 5);
-
-    gpoint.on("mouseover", onMouseOver)
-          .on("mouseout", onMouseOut); 
-
-    function onMouseOver () {
-
-        var mouse = d3.mouse(svg.node()).map( function(d) { return parseInt(d); } );
-
-        var display = "<center>" + this.getAttribute("title") + "</center>"+"<img src= " + this.getAttribute("photo") + " width=80 />";
-
-        tooltip.classed("hidden", false)
-               .attr("style", "left:"+(mouse[0]+offsetL)+"px;top:"+(mouse[1]+offsetT)+"px")
-               .html(display);
-               // .html(this.getAttribute("title"));
-
-        d3.select(this).style("fill", "red");            
-    };
-
-    function onMouseOut () {
-
-        tooltip.classed("hidden", true);
-        d3.select(this).style("fill", "black");
-    }
-
-  }
-
-}
-
-function redraw() {
-  width = document.getElementById('container').offsetWidth;
-  height = width / 2;
-  d3.select('svg').remove();
-  setup(width,height);
-  draw(topo);
-}
-
-
-function move() {
-
-  var t = d3.event.translate;
-  var s = d3.event.scale; 
-  zscale = s;
-  var h = height/4;
-
-
-  t[0] = Math.min(
-    (width/height)  * (s - 1), 
-    Math.max( width * (1 - s), t[0] )
-  );
-
-  t[1] = Math.min(
-    h * (s - 1) + h * s, 
-    Math.max(height  * (1 - s) - h * s, t[1])
-  );
-
-  zoom.translate(t);
-  g.attr("transform", "translate(" + t + ")scale(" + s + ")");
-
-  //adjust the country hover stroke width based on zoom level
-  d3.selectAll(".country").style("stroke-width", 1.5 / s);
-  d3.selectAll(".point").attr("r", 5 / s);
-
-}
-
-var throttleTimer;
-function throttle() {
-  window.clearTimeout(throttleTimer);
-    throttleTimer = window.setTimeout(function() {
-      redraw();
-    }, 200);
-}
-
-//geo translation on mouse click in map
-function click() {
-  var latlon = projection.invert(d3.mouse(this));
-  console.log(latlon);
-}
-</script>
-
-
-<!-- Load profiles -->
-<script>
-$(document).ready(function() { $('#people').load('profiles.html'); });
-</script>
-<div id="people"></div>
+### Maggi Mars Brisbin, rotation student, fall 2014
+![Maggi]({{ site.url }}/about/img_full/Maggi.jpg ){: .profile-image }
+I am a first year PhD student at OIST and am completing my first laboratory rotation in the Ecology and Evolution Unit. My rotation project involves investigating transgenerational effects of diet using Drosophila as a model organism. I am looking at whether gut microbiota might play a role either by being directly inherited or by causing an epigenetic modification that is inherited. I completed my M.S. in marine and atmospheric science at Stony Brook University in New York and studied immunology and disease in the American Lobster for my thesis research. In my spare time, I enjoy distance running, yoga, and crossfit. I try to spend free time in or near the ocean, and I have been enjoying the beautiful diving in Okinawa.
