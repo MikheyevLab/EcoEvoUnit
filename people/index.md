@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Ecology and Evolution Unit
+title: Members of the Ecology and Evolution Unit
 tags: [about, Jekyll, theme, responsive]
 comments: true
 image:
@@ -19,9 +19,7 @@ image:
 
 The Ecology and Evolution research group is part of the <a href="http://www.oist.jp/" target="_blank">Okinawa Institute of Science and Technology Graduate University</a>.
 
-<h3>Where Are Ecology and Evolution Unit Members From?</h3>
-  <p>Geographic origins of Ecology and Evolution Unit members and visitors. Feel free to hover and zoom.</p>
-  <iframe src="map.html" width="800" height="600" frameBorder="0" marginwidth="0"> </iframe>
+<iframe src="map.html" width="800" height="600" frameBorder="0" marginwidth="0"> </iframe>
 
 # Lab members, in their own words
 
