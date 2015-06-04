@@ -9,5 +9,6 @@
   {"name" : "Leonidas", "latitude": 34.6750000, "longitude":33.0333300, "photo": "img/Leonidas.jpg"},
   {"name" : "Carolina", "latitude": 7.1333, "longitude":-73.0000, "photo": "img/Carolina.jpg"},
   {"name" : "Miquel", "latitude": 39.3637987, "longitude":-0.4620313, "photo": "img/Miquel.png"},
-  {"name" : "Jigyasa", "latitude": 28.6139, "longitude":77.2090, "photo": "img/jigyasa.png"}
+  {"name" : "Jigyasa", "latitude": 28.6139, "longitude":77.2090, "photo": "img/jigyasa.png"},
+  {"name" : "Dorothy", "latitude": 13.0827, "longitude":80.2707, "photo": "img/dorothy.jpg"}
   ]
