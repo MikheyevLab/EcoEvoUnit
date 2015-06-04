@@ -2,7 +2,7 @@
 title: Methods
 layout: page
 layout_key:
-  - 
+  -
 post_slider_check_key:
   - 0
 ---
@@ -45,6 +45,14 @@ Please let if you find any errors, or have suggestions on how we can improve the
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation: [Aird *et al.* BMC Genomics 2013, 14:790][7]
 
+   * [FASSST ddRAD tag library preparation](  * [FASSST ddRAD tag library preparation](https://docs.google.com/document/d/1yiKoKw8ggaO7CSykcjzDgAyt2r2VzskO7OkDlyoeQBk/edit?usp=sharing)
+)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High-throughput protocol related to the EcoRI RAD-tag procedure above. Optimized for processing 96 samples at one using a liquid handling robot.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation: [Tin *et al.* Molecular Ecology Resources 2015, 14:790](http://ecoevo.unit.oist.jp/lab/pubs/Tin,2015,Degenerate%20adaptor%20sequences%20for%20detecting%20PCR%20duplicates%20in%20reduced%20representation%20sequencing%20data%20improve%20genotype%20calling%20accuracy.pdf)
+
+
 * * *
 
 #### Under active development (ask for to view)
@@ -52,10 +60,6 @@ Please let if you find any errors, or have suggestions on how we can improve the
 <noscript>
   Please enable JavaScript to see this field.
 </noscript>
-
-  * [FASSST ddRAD tag library preparation][8]
-
-High-throughput protocol related to the EcoRI RAD-tag procedure above. Optimized for processing 96 samples at one using a liquid handling robot.
 
   * [Version 2 PCR free genomic shotgun sequencing using degraded DNA][9]
 
