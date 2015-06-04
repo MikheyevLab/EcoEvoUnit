@@ -6,12 +6,10 @@ layout_key:
 post_slider_check_key:
   - 0
 ---
+
+{% include _toc.html %}
+
 Please let if you find any errors, or have suggestions on how we can improve the protocols below.
-
-
-<noscript>
-  Please enable JavaScript to see this field.
-</noscript>
 
 ## Laboratory protocols
 
