@@ -29,35 +29,35 @@ The Ecology and Evolution research group is part of the <a href="http://www.oist
 
 ### Alexander Mikheyev (aka Sasha), principal investigator
 
-![Sasha]({{ site.url }}/about/img_full/sasha.jpg ){: .profile-image }
+![Sasha]({{ site.url }}/people/img_full/sasha.jpg ){: .profile-image }
 I have broad interests in evolutionary biology, focusing mainly on leveraging the power of next-generation tools for answering long-standing basic questions. As a result, I like to explore new techniques, be they laboratory, computational, or involving new sequencing technologies. Although I started my career in the laboratory and in the field, presently I am more of a bioinformatician. Over the past couple of years, I became increasingly interested in applying short-read sequencing to degraded DNA, such as that found in museum, archaeological or other poorly preserved specimens. Having developed a range of tools for high-throughput processing of degraded insects, are harnessing these tools for projects ranging from ecosystem phylogenetics and phylogeography, to studying evolutionary processes using museum samples. Additionally, I maintain an interest in social insect systems, which I worked on during my graduate studies, and also nurture a more recently acquired research program using snake venoms to understand adaptation. In my spare time, I enjoy long runs, and playing the violin.
 
 ### Mandy Tin, [research technician](http://sotak.info/sci.jpg)
 
-![Mandy]({{ site.url }}/about/img_full/chuck.jpg ){: .profile-image }
+![Mandy]({{ site.url }}/people/img_full/chuck.jpg ){: .profile-image }
 I mainly work on projects involve research and development of innovative ways to retrieve valuable genomic information from archival museum specimens while preserving their morphology for taxonomic purpose. Our very first version of library preparation method has been published recently. The method is under active development, and we are extending the technology to ancient human DNA research. Lab automation is a big part of my interest as well. We have successfully automated some of the routine library preparation procedures. Robots allow us to increase throughput with high reproducibility. I also deal with general molecular work in the lab. As I have seen a lot of degraded DNA, now I am always amazed when I see good quality RNA and DNA.
 
 I started working on non-model organisms in this lab and have learnt a lot of fascinating stories about them. For example, *Wasmannia auropunctata*, the little fire ant, has clonal reproductive system for queens and males but sexual reproduction for workers. Some ant species have evolved strategies to exploit resources of other ant species without being discovered (social parasitism). I hope you find evolution interesting too!
 
 ### Miquel Grau-Lopez, research technician
-![Miquel]({{ site.url }}/about/img_full/Miquel.png ){: .profile-image }
+![Miquel]({{ site.url }}/people/img_full/Miquel.png ){: .profile-image }
 I obtained my degree in Computer Systems Engineering from the Universitat Jaume I at Castello (Spain) where I developed, for my final degree project, a web application for the main hospital. After that, I worked for several years designing tools to facilitate researchers' work related with photovoltaic and optoelectronic devices for Physics Department at the University. I arrived to Ecology and Evolution Unit on 2013 where I am working with several projects, testing apps and building pipeline tools. My interest in this field grows up as I read and learn more. We have focused in the genome study of several species like ants, birds or snakes and it is very exciting.  
 
 On a personal level, I love travelling and discovering new cultures. I really like reading/writing and spend time with friends, music, games and cinema. Of course, I *like* soba!
 
 ### Jo Tan, research technician
-![Jo]({{ site.url }}/about/img_full/Jo.jpg ){: .profile-image }
+![Jo]({{ site.url }}/people/img_full/Jo.jpg ){: .profile-image }
 Konnichiwa! I'm a lab technician in the Mikheyev Unit which is under the Ecology and Evolution umbrella at OIST.  At this stage, I am fortunate enough to be involved in a unique project collaborating with Evan Economo and his colleagues in which we will be extracting, sequencing and correlating DNA from Fijian Ants museum samples.  I've have previously graduated from the University of Auckland, and more recently been involved with Stemcell Technologies in Sydney Australia.  As you can probably tell, we are a progressive and dynamic lab, from all around the world, with different cultures and background.  We work hard and play hard, and have fun as a team and I'm grateful to be a part of this awesome group.  
 
 ### Lijun-Qiu, research technician
-![Qiu]({{ site.url }}/about/img_full/Qiu.jpg ){: .profile-image }
+![Qiu]({{ site.url }}/people/img_full/Qiu.jpg ){: .profile-image }
 I have a long-time interest in molecular biology and genetics. Before joining the lab, I spent 5 years working on molecular genetics of castor bean. Now I am working as a research technician on ancient DNA, including ancient DNA extraction, sequencing and so on. So I have the chance to work with different precious samples such as museum samples; it is work requiring special care. In the meantime, I also help Misato with a project on the reproductive system of the ant *Vollenhovia emeryi*, which is really a new world for me. As a Chinese person, I enjoy the peaceful life and beautiful landscape here.
 <!-- 30.77 N 120.75E  -->
 
 <br><br>
 
 ### Carolina Diaz, postdoc
-![Carolina]({{ site.url }}/about/img_full/Carolina.jpg ){: .profile-image }
+![Carolina]({{ site.url }}/people/img_full/Carolina.jpg ){: .profile-image }
 I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
 I worked on the molecular origins of life using bottleneck population sizes of ribozymes evolved continuously to test the effect of the accumulation of mutations in the survival of the populations, and the potential routes that they can explore to escape extinction. I also worked on a project to measure the effect of mutations recently acquired depending on their interactions with other genes, epistasis, using natural isolates of *E. coli*.
 During my career I have had several teaching and mentoring opportunities, including teaching science classes for fourth, fifth and sixth graders in Colombia, planning and doing science projects, teaching general chemistry laboratory for first and second year college students. I have also volunteered mentoring science projects at a charter school in Houston.
@@ -66,13 +66,13 @@ In addition to my career in science, I have painted in fabric with acrylics, gou
 ## Ph.D. Students
 
 ### Carmen Emborski, special student
-![Carmen]({{ site.url }}/about/img_full/Carmen.jpg ){: .profile-image }
+![Carmen]({{ site.url }}/people/img_full/Carmen.jpg ){: .profile-image }
 Being a special research student, I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using Drosophila melanogaster as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
 ## Interns
 
 ### Jigyasa Arora
-![Jigyasa]({{ site.url }}/about/img_full/jigyasa.png ){: .profile-image }
+![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
 I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball. 
 
 <br><br>
@@ -80,13 +80,13 @@ I am from New Delhi, India. I am a research intern in The Ecology and Evolution 
 ## Alumni 
 
 ### Misato Okamoto Miyakawa, postdoc 2012-2014
-![Misato]({{ site.url }}/about/img_full/Misato.png ){: .profile-image }
+![Misato]({{ site.url }}/people/img_full/Misato.png ){: .profile-image }
 I am interested in the evolution of conflict in organisms. Conflicts can be detected at various levels, *e.g.* between selfish genes and resistant genes, parasite and host species, males and females. In social insects, conflicts among colony members often arise over optimal reproductive strategies. Given this, I am particularly interested in the genetics and behavioral ecology involved in conflicts that positively affect the evolution of sociality in insects. In my postdoc, I have focused on ants that have an unique reproductive strategy, *Wasmannia auropunctata* and *Vollenhovia emeryi*, which seem to have conflict between sexes. Using sequencing technology and bioinfomatic tools, I seek to understand the evolutionary advantage of this reproductive strategy.
 I’m really happy to work at OIST for my first postdoc, particularly because of my great lab members, the beautiful working environment, and the almost infinite budget for research. The Ecology and Evolution unit is a great place to improve molecular experimental techniques and increase your mental powers!
 <!-- 34.9793 N and long. 135.7032 E  -->
 
 ### Leonidas Georgiou, rotation student, fall 2014
-![Leonidas]({{ site.url }}/about/img_full/Leonidas.jpg ){: .profile-image }
+![Leonidas]({{ site.url }}/people/img_full/Leonidas.jpg ){: .profile-image }
 **Origin:** Cyprus
 **Background:** Neuroscience
 **Aspiration:** Combine my background with mathematics and the physical sciences to understand how life works systematically.
@@ -97,10 +97,10 @@ I’m really happy to work at OIST for my first postdoc, particularly because of
 
 ### Yafei Mao, rotation student, fall 2014
 
-![Yafei]({{ site.url }}/about/img_full/Yafei.jpg ){: .profile-image }
+![Yafei]({{ site.url }}/people/img_full/Yafei.jpg ){: .profile-image }
 I am a first year PhD student at OIST and choose the Ecology and Evolution Unit for my first rotation. In my rotation project, I am working on estimating the effective population size for ant fauna in Cocos Island using temporal samples collected at different times. I graduated form Nanjing University in Life sciences. I have some experience on molecular biology and protein purification, but I want to come into contact with different areas of life sciences, especially for ecology and evolution. In my spare time, I enjoy swimming and traveling.
 <!-- Latitude 32.060255 | Longitude : 118.796877 -->
 
 ### Maggi Mars Brisbin, rotation student, fall 2014
-![Maggi]({{ site.url }}/about/img_full/Maggi.jpg ){: .profile-image }
+![Maggi]({{ site.url }}/people/img_full/Maggi.jpg ){: .profile-image }
 I am a first year PhD student at OIST and am completing my first laboratory rotation in the Ecology and Evolution Unit. My rotation project involves investigating transgenerational effects of diet using Drosophila as a model organism. I am looking at whether gut microbiota might play a role either by being directly inherited or by causing an epigenetic modification that is inherited. I completed my M.S. in marine and atmospheric science at Stony Brook University in New York and studied immunology and disease in the American Lobster for my thesis research. In my spare time, I enjoy distance running, yoga, and crossfit. I try to spend free time in or near the ocean, and I have been enjoying the beautiful diving in Okinawa.

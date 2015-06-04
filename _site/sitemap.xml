@@ -61,22 +61,19 @@
     <lastmod>2013-11-06T19:42:49+09:00</lastmod>
   </url>
   <url>
-    <loc>/about/</loc>
-  </url>
-  <url>
-    <loc>/tutorial/14.ants/</loc>
-  </url>
-  <url>
-    <loc>/about/</loc>
-  </url>
-  <url>
-    <loc>/data/</loc>
-  </url>
-  <url>
-    <loc>/</loc>
+    <loc>/tutorial/22.blast/</loc>
   </url>
   <url>
     <loc>/methods/</loc>
+  </url>
+  <url>
+    <loc>/b02-course-information/</loc>
+  </url>
+  <url>
+    <loc>/internal/</loc>
+  </url>
+  <url>
+    <loc>/people/</loc>
   </url>
   <url>
     <loc>/sample-page/</loc>
@@ -88,10 +85,10 @@
     <loc>/tutorial/12.genome-sequencing/</loc>
   </url>
   <url>
-    <loc>/tutorial/24.webapollo/</loc>
+    <loc>/tutorial/14.ants/</loc>
   </url>
   <url>
-    <loc>/tutorial/22.blast/</loc>
+    <loc>/data/</loc>
   </url>
   <url>
     <loc>/tutorial/32.focal-genes/</loc>
@@ -124,13 +121,13 @@
     <loc>/tutorial/25.file-formats/</loc>
   </url>
   <url>
-    <loc>/b02-course-information/</loc>
+    <loc>/</loc>
   </url>
   <url>
-    <loc>/internal/</loc>
+    <loc>/tutorial/24.webapollo/</loc>
   </url>
   <url>
-    <loc>/about/map.html</loc>
-    <lastmod>2015-06-03T18:27:23+09:00</lastmod>
+    <loc>/people/map.html</loc>
+    <lastmod>2015-06-03T19:56:26+09:00</lastmod>
   </url>
 </urlset>
