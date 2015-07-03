@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</loc>
+    <lastmod>2015-06-12T00:00:00+10:00</lastmod>
+  </url>
+  <url>
     <loc>/press%20release/publication/evolutionary-constraints/</loc>
     <lastmod>2015-04-17T00:00:00+10:00</lastmod>
   </url>
@@ -64,13 +68,13 @@
     <loc>/tutorial/22.blast/</loc>
   </url>
   <url>
-    <loc>/methods/</loc>
+    <loc>/internal/</loc>
   </url>
   <url>
     <loc>/b02-course-information/</loc>
   </url>
   <url>
-    <loc>/internal/</loc>
+    <loc>/methods/</loc>
   </url>
   <url>
     <loc>/people/</loc>
@@ -88,7 +92,7 @@
     <loc>/tutorial/14.ants/</loc>
   </url>
   <url>
-    <loc>/data/</loc>
+    <loc>/</loc>
   </url>
   <url>
     <loc>/tutorial/32.focal-genes/</loc>
@@ -121,7 +125,7 @@
     <loc>/tutorial/25.file-formats/</loc>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>/data/</loc>
   </url>
   <url>
     <loc>/tutorial/24.webapollo/</loc>
