@@ -5,9 +5,40 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Jul 2015 19:39:56 +1000</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2015 19:39:56 +1000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2015 18:31:00 -0400</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2015 18:31:00 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Collecting bees in Arizona</title>
+        <description>&lt;p&gt;Over the past couple of years we’ve been looking at how populations of European honeybees (&lt;em&gt;Apis mellifera&lt;/em&gt;) evolve in response to emergent diseases, &lt;a href=&quot;http://www.nature.com/articles/ncomms8991&quot;&gt;focusing primarily on a population near Ithaca, NY&lt;/a&gt;. It seems that the Ithaca population evolved in relative isolation, but elsewhere in the range of the bees in the United States, the arrival of the parasitic mite &lt;em&gt;Varroa destructor&lt;/em&gt; also led to extensive gene flow from &lt;a href=&quot;https://en.wikipedia.org/wiki/Africanized_bee&quot;&gt;Africanized bees&lt;/a&gt;. Although bees from Africa were first introduced to Brazil in the 1950, they arrived in the Southern U.S. in the early 1990s:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b2/Killerbees_ani.gif&quot; alt=&quot;African spread&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This arrival took place at the same time that &lt;em&gt;Varroa&lt;/em&gt; swept through the US, causing large-scale introgression of African genes into the previously European populations. This is likely due to the fact that African bees are inherently more &lt;em&gt;Varroa&lt;/em&gt;-resistant than European bees, and are also better adapted to hot weather conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449774/bin/5030f4.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above figure from &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449774/&quot;&gt;Pinto &lt;em&gt;et al.&lt;/em&gt; 2005 &lt;/a&gt; shows how in one population in Texas, after the arrival of mites in the early 1990s (they were first detected in 1995), the proportion of African mitochondrial DNA has increased rapidly. Such introgression seems to have been ubiquitous throughout the Southern United States. But what genes have driven it? This question is of great importance for beekeeping around the world, since European honeybee colonies have to be treated for &lt;em&gt;Varroa&lt;/em&gt; several times a year, so that they will survive.&lt;/p&gt;
+
+&lt;p&gt;As it happens, we’ve already obtained samples of wild honeybees from Texas and Arizona from before the arrival of &lt;em&gt;Varroa&lt;/em&gt;, and shortly after its arrival. We would like to compare them with the bees that live there now, in the presence of the mites, to try identify which genes may be involved in resistance. So, this means we had to get some bees from near Tucson, a population that has been studies for many decades (we also have a population from Texas, but that’s another story). In the desert, where there are no trees, bees nest in rock crevices and you can sometimes even see the comb sticking out. Thanks to Gerry Loper, who has worked for the USDA bee lab for many decades, and still visits his bee populations, we were able to locate 40 colonies in the course of just a couple of days.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Africanized bees are not friendly, and can pursue you for hundreds of meters if you get them really mad, so a bee suit is necessary for this sort of work, though it gets a bit hot in the Arizona desert sun (temperatures in the high 30s). We had to start our days at 6am, at sunrise.&lt;/p&gt;
+
+&lt;p&gt;This was a great trip, and I am really grateful to Gloria Degrandi-Hoffman and USDA Carl Hayden Bee Research Center for hooking me up with a field vehicle and two excellent techs, as well as for giving me a opportunity to give a talk about my research.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
+        <link>/collecting-bees-in-arizona/</link>
+        <guid isPermaLink="true">/collecting-bees-in-arizona/</guid>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Don&#39;t tread on me: How well do we really understand stingray venom?</title>
@@ -15,7 +46,7 @@
 
 &lt;p&gt;You can read this paper online for free in &lt;a href=&quot;http://www.mdpi.com/2072-6651/7/6/2272/html&quot;&gt;&lt;em&gt;Toxins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jun 2015 00:00:00 +1000</pubDate>
+        <pubDate>Fri, 12 Jun 2015 00:00:00 -0400</pubDate>
         <link>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
         <guid isPermaLink="true">/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
         
@@ -30,7 +61,7 @@
 
 &lt;p&gt;You can read the OIST press release &lt;a href=&quot;https://www.oist.jp/news-center/news/2015/4/16/evolution-puts-checks-virgin-births&quot;&gt;here&lt;/a&gt;, and find the actual paper on the &lt;a href=&quot;http://link.springer.com/article/10.1007%2Fs00114-015-1265-8&quot;&gt;Science of Nature web site&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Apr 2015 00:00:00 +1000</pubDate>
+        <pubDate>Fri, 17 Apr 2015 00:00:00 -0400</pubDate>
         <link>/press%20release/publication/evolutionary-constraints/</link>
         <guid isPermaLink="true">/press%20release/publication/evolutionary-constraints/</guid>
         
@@ -47,7 +78,7 @@
         <title>Evolution of division of labor</title>
         <description>&lt;p&gt;Ant worker traits are remarkable in that they evolve despite the fact that the workers themselves do not reproduce. As a part of our ongong collaboration with the &lt;a href=&quot;http://sites.sas.upenn.edu/linksvayer-lab&quot;&gt;Linksvayer Lab&lt;/a&gt;, in a &lt;a href=&quot;http://elifesciences.org/content/4/e04775?_ga=1.25883067.769126097.1432248984&quot;&gt;recently published paper in eLife&lt;/a&gt; we showed that the evolution of genes involved in social behavior is constrained by the effects of gene co-expression networks. You can listen to a podcast where Tim Linksvayer describes this work &lt;a href=&quot;http://elifesciences.org/podcast/episode18&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 02 Mar 2015 00:00:00 +1100</pubDate>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
         <link>/ants/evolution-of-division-of-labor/</link>
         <guid isPermaLink="true">/ants/evolution-of-division-of-labor/</guid>
         
@@ -70,7 +101,7 @@
 &lt;/figure&gt;
 
 </description>
-        <pubDate>Thu, 23 Oct 2014 21:42:49 +1100</pubDate>
+        <pubDate>Thu, 23 Oct 2014 06:42:49 -0400</pubDate>
         <link>/gspe-genomics-of-social-parasite-evolution-workshop/</link>
         <guid isPermaLink="true">/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
         
@@ -86,7 +117,7 @@
 &lt;p&gt;The Sakishima habu is the one you most often see in Awamori containers; it is smaller than the Okinawa habu, being about half the size, and, I presume, is easier to stuff into a jar. They have escaped and have been spreading through parts of Okinawa, hybridizing with the native speces.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 01 Sep 2014 20:42:49 +1000</pubDate>
+        <pubDate>Mon, 01 Sep 2014 06:42:49 -0400</pubDate>
         <link>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
         <guid isPermaLink="true">/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
         
@@ -100,7 +131,7 @@
         <description>&lt;p&gt;Together with our collaborators from the National University of Singapore we just published a &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12314/abstract&quot;&gt;paper&lt;/a&gt; describing an improved method for making double-digest RAD-tag libraries. By adding a small run of degenerate nucleotides to the end of one of the Illumina indexes, you can barcode each individual ligation reaction and determine how many molecules participate in each reaction. This is a simple modification, that allows us to confidently make RAD-tag libraries using just a few nanograms of input material. The actual library preparation is not different — in this paper we describe a protocol that we use to process thousands of samples using a liquid handling robot, making 96 libraries at once.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 27 Aug 2014 20:42:49 +1000</pubDate>
+        <pubDate>Wed, 27 Aug 2014 06:42:49 -0400</pubDate>
         <link>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
         <guid isPermaLink="true">/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
         
@@ -116,7 +147,7 @@
         <description>&lt;p&gt;Shikha just received her grades, scoring at the top of her class, and completing her thesis. Congratulations!&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 25 Aug 2014 20:42:49 +1000</pubDate>
+        <pubDate>Mon, 25 Aug 2014 06:42:49 -0400</pubDate>
         <link>/shikha-scores-at-the-top-of-her-class/</link>
         <guid isPermaLink="true">/shikha-scores-at-the-top-of-her-class/</guid>
         
@@ -130,7 +161,7 @@
         <description>&lt;p&gt;Over lunch during one of his visits to OIST, my former boss Sydney Brenner suggested that I try a ribo-tailing technique for attaching adaptors to short DNA molecules. The idea is that the action of terminal transferase on riboguanidines creates a 3′ tail of controlled length, which can be used for attaching adaptors and synthesizing a second strand (&lt;a href=&quot;http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;amp;pmid=9512556&quot;&gt;Komura and Riggs, 1998&lt;/a&gt;; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0003269705007979&quot;&gt;Lee and Weeks, 2006&lt;/a&gt;).We tried it, and it was amazing. This approach eventually produced a method that we use for working with degraded DNA, just published in &lt;a href=&quot;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0096793&quot;&gt;PLoS ONE&lt;/a&gt; (and available in detail &lt;a href=&quot;https://docs.google.com/document/d/1GW4TzTCJAm8bjqOSC9-fmNRVPbS-3Ij5-2tSLYZygJM&quot;&gt;here&lt;/a&gt;). The PLoS ONE paper outlines this approach, at least an earlier version, and presents a fairly non-destructive way of extracting DNA form museum insects. Using this approach we could sequence RAD-tags from tiny 100 year old ants, and create a Hawaiian fruit fly phylogeny.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 22 May 2014 20:42:49 +1000</pubDate>
+        <pubDate>Thu, 22 May 2014 06:42:49 -0400</pubDate>
         <link>/museum/</link>
         <guid isPermaLink="true">/museum/</guid>
         
@@ -145,7 +176,7 @@
         <title>Jatin visits Mikheyev&amp;#8217;s unit as Research Intern</title>
         <description>&lt;p&gt;I am Jatin Arora. I came to know about Prof. Alexander Mikheyev and his Ecology and Evolution unit at OIST in October, 2013. I was intrigued about the potential offered by using non-model systems, e.g. the species of honey bees, ants, snakes etc. to understand how organisms interact with their environment. In debut, I worked at distance with him on topic of Resilience to diseases in feral honey bee genome in third semester of my master studies at University Pierre and Marie Curie, Paris. Later, I joined the laboratory as research intern to do my master thesis. &lt;br /&gt;In present, I am working on the Introgressive hybridization of African genes into population of feral European bees. During my stay here, I hope to work in other areas as well, as the research in the laboratory is being done on a range of topics. The laboratory has cutting edge infrastructure. It is equipped with latest sequencing facilities. The experimental and analysis works are done in parallel which facilitates the access to data and validation of hypothesis. Along with working on computational analysis, I participate in wet lab experiments as well, which complements my learning. There are six nationalities in the laboratory which allows learning different cultures under one roof and makes the work environment more exciting.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 26 Apr 2014 20:42:49 +1000</pubDate>
+        <pubDate>Sat, 26 Apr 2014 06:42:49 -0400</pubDate>
         <link>/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</link>
         <guid isPermaLink="true">/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</guid>
         
@@ -153,40 +184,6 @@
         <category>lab</category>
         
         <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>OIST-NTU Invasive Ant Symposium</title>
-        <description>&lt;figure&gt;
-	&lt;a href=&quot;../wp-content/uploads/2014/04/DSC0067.jpg&quot; class=&quot;grouped_elements&quot; rel=&quot;tc-fancybox-group1106&quot;&gt;&lt;img class=&quot;size-full wp-image-1107&quot; alt=&quot;NTU Group Visit&quot; src=&quot;../wp-content/uploads/2014/04/DSC0067.jpg&quot; width=&quot;580&quot; height=&quot;385&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;NTU Group Visit&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We were the proud hosts of Dr. Scotty Yang’s research group and his colleagues from Taiwan National University. His research group specializes in studying the patterns of  dispersal in a variety of invasive ant species. We were treated to a wide range of topics, including a few fascinating finding about Wolbachia distributions in invasive ants.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Taiwan talks&lt;/strong&gt; &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Global invasion history and Wolbachia infection patterns of crazy ant &lt;em&gt;Paratrechina longicornis&lt;/em&gt; I (Dr. Chin-Cheng Yang)&lt;/li&gt;
-  &lt;li&gt;Global invasion history and Wolbachia infection patterns of crazy ant &lt;em&gt;Paratrechina longicornis&lt;/em&gt; II (Ms. Shu-Ping Tseng)&lt;/li&gt;
-  &lt;li&gt;Global invasion history and Wolbachia infection patterns of yellow crazy ant &lt;em&gt;Anoplolepis gracilipes&lt;/em&gt; (Ms. Ho Han-Chih)&lt;/li&gt;
-  &lt;li&gt;Chemical ecology and seed collecting behaviors of invasive fire ants in Taiwan (Dr. Li-Chuan Lai)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;OIST talks&lt;/strong&gt; &lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sex determination in &lt;em&gt;Vollenhovia emeryi&lt;/em&gt; (Dr. Misato Okamoto)&lt;/li&gt;
-  &lt;li&gt;Molecular signatures of ancient mutualistic coevolution in attine ants and their fungal cultivars (Dr. Alexander Mikheyev)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 01 Apr 2014 21:42:49 +1100</pubDate>
-        <link>/oist-ntu-invasive-ant-symposium/</link>
-        <guid isPermaLink="true">/oist-ntu-invasive-ant-symposium/</guid>
-        
-        <category>Lab news</category>
-        
         
       </item>
     

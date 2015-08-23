@@ -53,12 +53,9 @@ I have a long-time interest in molecular biology and genetics. Before joining th
 
 <br><br>
 
-### Carolina Diaz, postdoc
-![Carolina]({{ site.url }}/people/img_full/Carolina.jpg ){: .profile-image }
-I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
-I worked on the molecular origins of life using bottleneck population sizes of ribozymes evolved continuously to test the effect of the accumulation of mutations in the survival of the populations, and the potential routes that they can explore to escape extinction. I also worked on a project to measure the effect of mutations recently acquired depending on their interactions with other genes, epistasis, using natural isolates of *E. coli*.
-During my career I have had several teaching and mentoring opportunities, including teaching science classes for fourth, fifth and sixth graders in Colombia, planning and doing science projects, teaching general chemistry laboratory for first and second year college students. I have also volunteered mentoring science projects at a charter school in Houston.
-In addition to my career in science, I have painted in fabric with acrylics, gouache, oils, and on paper with water colors, black color, pastels, and ink.
+### Michael Holmes, postdoc
+
+### Lauren Dembek
 
 ## Ph.D. Students
 
@@ -70,19 +67,9 @@ Being a special research student, I have had a really unique opportunity to comp
 ![Claire]({{ site.url }}/people/img_full/claire.jpg ){: .profile-image }
 I am a PhD student at the Centre of Excellence in Biological interactions at Helsinki University, co-supervized by Dr Mikheyev. For my PhD thesis, I study the evolution and maintenance of female castes (queen and worker) in ants, focusing on the evolution of caste-biased gene expression. In particular, I work on comparative transcriptomics to investigate the transcriptional architecture associated with reproductive division of labor in ants, and how it correlates with parallel evolution of other complex phenotypic traits. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. In September 2015, I will defend my thesis and start a Postdoc at Helsinki University in collaboration with the Mikheyev lab to carry on our work on the evolution of co-expressed networks in ants. I have had the chance to visit OIST and beautiful Okinawa four times already, and I absolutely love it, I always come back!
 
-## Interns
+<!-- ## Interns -->
 
-### Jigyasa Arora
-![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
-I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball.
-
-<br><br>
-
-### Dorothy J. Immaculate
-![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
-The Biological questions that I am interested in lie broadly in Evolution. Tracing the signatures of an organism’s adaptation to changing environmental conditions is an exciting research to undertake. I am currently enrolled in Bachelor of Technology, Genetic Engineering at SRM University, India. I am taking the Research Internship opportunity here at OIST to complete my undergraduate thesis. I love my stay here at the Mikheyev Unit. The work environment is great with plenty of resources and encouraging lab mates. My work involves the study of transgenerational epigenetic inheritance of metabolism in the model organism *Drosophila melanogaster*. This study aims to understand how prenatal nutritional environment affects the metabolism of an organism and if it can be epigenetically inherited and sustained through generations. Significant benefits can be obtained from this study if translated to the human model. Apart from my interest in Biology, I am an avid reader and enjoy travelling.
-<br><br>
-
+<br>
 
 ## Alumni
 
@@ -121,3 +108,21 @@ It fascinates me that four nucleotides with different permutations and combinati
 I am from Delhi, the capital city of India. Born and brought up in the second most crowded metropolis city in India, I always yearned to be close to nature.  I have a background in biological sciences (bachelors) and Biodiversity and conservation (Masters). I am interested in ecology and appreciated its role in corroborating the many theories and principles in evolutionary biology. My broad area of interest is population genetics, molecular phylogeny and wildlife forensics. My internship project involved the proteomic analysis of venom characterization from a local snake (*Protobothrops flavoviridis* : Okinawa habu), an invasive snake (*Protobothrops elegans* :Sakishima habu) and their naturally produced hybrid. I learned designing of several protein cleavage protocols, cDNA sequencing combined with MS profiling. This definitely helped to enhance my knowledge and working skills. This internship project proved out to be the best dissertation thesis report of my masters in my college and helped me to score very well.  During my stay in OIST, I also learned to photograph and digitize landmarks on pinned bee specimens from museum, using a sophisticated imaging setup. OIST is a great place to work at because of friendly and beautiful environment, great lab members belonging to different cultures and origin, best mentor and well equipped labs. I wish to adopt challenging profession in wildlife research, with opportunity for advancement and would like to explore my innovative skills, where I can put forth my efforts for the conservation of wildlife. In my free time, I love photography, dancing, music and painting.
 
 <!-- "latitude": 29.6490, "longitude":78.1226 -->
+
+### Jigyasa Arora, intern spring 2015
+![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
+I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball.
+
+<br><br>
+
+### Dorothy J. Immaculate, intern, spring 2015
+![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
+The Biological questions that I am interested in lie broadly in Evolution. Tracing the signatures of an organism’s adaptation to changing environmental conditions is an exciting research to undertake. I am currently enrolled in Bachelor of Technology, Genetic Engineering at SRM University, India. I am taking the Research Internship opportunity here at OIST to complete my undergraduate thesis. I love my stay here at the Mikheyev Unit. The work environment is great with plenty of resources and encouraging lab mates. My work involves the study of transgenerational epigenetic inheritance of metabolism in the model organism *Drosophila melanogaster*. This study aims to understand how prenatal nutritional environment affects the metabolism of an organism and if it can be epigenetically inherited and sustained through generations. Significant benefits can be obtained from this study if translated to the human model. Apart from my interest in Biology, I am an avid reader and enjoy travelling.
+<br><br>
+### Carolina Diaz, postdoc, 2014-2015
+![Carolina]({{ site.url }}/people/img_full/Carolina.jpg ){: .profile-image }
+I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
+I worked on the molecular origins of life using bottleneck population sizes of ribozymes evolved continuously to test the effect of the accumulation of mutations in the survival of the populations, and the potential routes that they can explore to escape extinction. I also worked on a project to measure the effect of mutations recently acquired depending on their interactions with other genes, epistasis, using natural isolates of *E. coli*.
+During my career I have had several teaching and mentoring opportunities, including teaching science classes for fourth, fifth and sixth graders in Colombia, planning and doing science projects, teaching general chemistry laboratory for first and second year college students. I have also volunteered mentoring science projects at a charter school in Houston.
+In addition to my career in science, I have painted in fabric with acrylics, gouache, oils, and on paper with water colors, black color, pastels, and ink.
+<br>
