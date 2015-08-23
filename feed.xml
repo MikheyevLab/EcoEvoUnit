@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-07-03T19:39:56+10:00</updated>
+<updated>2015-08-23T18:31:00-04:00</updated>
 <id>/</id>
 <author>
   <name>Eco Evo Lab</name>
@@ -16,11 +16,50 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Collecting bees in Arizona]]></title>
+  <link rel="alternate" type="text/html" href="/collecting-bees-in-arizona/" />
+  <id>/collecting-bees-in-arizona</id>
+  <published>2015-08-20T00:00:00-04:00</published>
+  <updated>2015-08-20T00:00:00-04:00</updated>
+  <author>
+    <name>Sasha</name>
+    <uri></uri>
+    <email>alexander.mikheyev@oist.jp</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Over the past couple of years we’ve been looking at how populations of European honeybees (&lt;em&gt;Apis mellifera&lt;/em&gt;) evolve in response to emergent diseases, &lt;a href=&quot;http://www.nature.com/articles/ncomms8991&quot;&gt;focusing primarily on a population near Ithaca, NY&lt;/a&gt;. It seems that the Ithaca population evolved in relative isolation, but elsewhere in the range of the bees in the United States, the arrival of the parasitic mite &lt;em&gt;Varroa destructor&lt;/em&gt; also led to extensive gene flow from &lt;a href=&quot;https://en.wikipedia.org/wiki/Africanized_bee&quot;&gt;Africanized bees&lt;/a&gt;. Although bees from Africa were first introduced to Brazil in the 1950, they arrived in the Southern U.S. in the early 1990s:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/b2/Killerbees_ani.gif&quot; alt=&quot;African spread&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This arrival took place at the same time that &lt;em&gt;Varroa&lt;/em&gt; swept through the US, causing large-scale introgression of African genes into the previously European populations. This is likely due to the fact that African bees are inherently more &lt;em&gt;Varroa&lt;/em&gt;-resistant than European bees, and are also better adapted to hot weather conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449774/bin/5030f4.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above figure from &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449774/&quot;&gt;Pinto &lt;em&gt;et al.&lt;/em&gt; 2005 &lt;/a&gt; shows how in one population in Texas, after the arrival of mites in the early 1990s (they were first detected in 1995), the proportion of African mitochondrial DNA has increased rapidly. Such introgression seems to have been ubiquitous throughout the Southern United States. But what genes have driven it? This question is of great importance for beekeeping around the world, since European honeybee colonies have to be treated for &lt;em&gt;Varroa&lt;/em&gt; several times a year, so that they will survive.&lt;/p&gt;
+
+&lt;p&gt;As it happens, we’ve already obtained samples of wild honeybees from Texas and Arizona from before the arrival of &lt;em&gt;Varroa&lt;/em&gt;, and shortly after its arrival. We would like to compare them with the bees that live there now, in the presence of the mites, to try identify which genes may be involved in resistance. So, this means we had to get some bees from near Tucson, a population that has been studies for many decades (we also have a population from Texas, but that’s another story). In the desert, where there are no trees, bees nest in rock crevices and you can sometimes even see the comb sticking out. Thanks to Gerry Loper, who has worked for the USDA bee lab for many decades, and still visits his bee populations, we were able to locate 40 colonies in the course of just a couple of days.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Africanized bees are not friendly, and can pursue you for hundreds of meters if you get them really mad, so a bee suit is necessary for this sort of work, though it gets a bit hot in the Arizona desert sun (temperatures in the high 30s). We had to start our days at 6am, at sunrise.&lt;/p&gt;
+
+&lt;p&gt;This was a great trip, and I am really grateful to Gloria Degrandi-Hoffman and USDA Carl Hayden Bee Research Center for hooking me up with a field vehicle and two excellent techs, as well as for giving me a opportunity to give a talk about my research.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/collecting-bees-in-arizona/&quot;&gt;Collecting bees in Arizona&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 20, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Don't tread on me: How well do we really understand stingray venom?]]></title>
   <link rel="alternate" type="text/html" href="/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/" />
   <id>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom</id>
-  <published>2015-06-12T00:00:00+10:00</published>
-  <updated>2015-06-12T00:00:00+10:00</updated>
+  <published>2015-06-12T00:00:00-04:00</published>
+  <updated>2015-06-12T00:00:00-04:00</updated>
   <author>
     <name>Steve Aird</name>
     <uri></uri>
@@ -42,8 +81,8 @@
   <title type="html"><![CDATA[Males are here to stay!]]></title>
   <link rel="alternate" type="text/html" href="/press%20release/publication/evolutionary-constraints/" />
   <id>/press%20release/publication/evolutionary-constraints</id>
-  <published>2015-04-17T00:00:00+10:00</published>
-  <updated>2015-04-17T00:00:00+10:00</updated>
+  <published>2015-04-17T00:00:00-04:00</published>
+  <updated>2015-04-17T00:00:00-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -65,8 +104,8 @@
   <title type="html"><![CDATA[Evolution of division of labor]]></title>
   <link rel="alternate" type="text/html" href="/ants/evolution-of-division-of-labor/" />
   <id>/ants/evolution-of-division-of-labor</id>
-  <published>2015-03-02T00:00:00+11:00</published>
-  <updated>2015-03-02T00:00:00+11:00</updated>
+  <published>2015-03-02T00:00:00-05:00</published>
+  <updated>2015-03-02T00:00:00-05:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -86,8 +125,8 @@
   <title type="html"><![CDATA[GSPE: Genomics of Social Parasite Evolution Workshop]]></title>
   <link rel="alternate" type="text/html" href="/gspe-genomics-of-social-parasite-evolution-workshop/" />
   <id>/gspe-genomics-of-social-parasite-evolution-workshop</id>
-  <published>2014-10-23T21:42:49+11:00</published>
-  <updated>2014-10-23T21:42:49+11:00</updated>
+  <published>2014-10-23T06:42:49-04:00</published>
+  <updated>2014-10-23T06:42:49-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -113,8 +152,8 @@
   <title type="html"><![CDATA[Snake photography at the Okinawa Prefectural Institute of Health and Environment]]></title>
   <link rel="alternate" type="text/html" href="/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/" />
   <id>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment</id>
-  <published>2014-09-01T20:42:49+10:00</published>
-  <updated>2014-09-01T20:42:49+10:00</updated>
+  <published>2014-09-01T06:42:49-04:00</published>
+  <updated>2014-09-01T06:42:49-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -137,8 +176,8 @@
   <title type="html"><![CDATA[&#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&#8221; paper published!]]></title>
   <link rel="alternate" type="text/html" href="/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/" />
   <id>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published</id>
-  <published>2014-08-27T20:42:49+10:00</published>
-  <updated>2014-08-27T20:42:49+10:00</updated>
+  <published>2014-08-27T06:42:49-04:00</published>
+  <updated>2014-08-27T06:42:49-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -159,8 +198,8 @@
   <title type="html"><![CDATA[Shikha scores at the top of her class]]></title>
   <link rel="alternate" type="text/html" href="/shikha-scores-at-the-top-of-her-class/" />
   <id>/shikha-scores-at-the-top-of-her-class</id>
-  <published>2014-08-25T20:42:49+10:00</published>
-  <updated>2014-08-25T20:42:49+10:00</updated>
+  <published>2014-08-25T06:42:49-04:00</published>
+  <updated>2014-08-25T06:42:49-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -181,8 +220,8 @@
   <title type="html"><![CDATA[It belongs in a museum!]]></title>
   <link rel="alternate" type="text/html" href="/museum/" />
   <id>/museum</id>
-  <published>2014-05-22T20:42:49+10:00</published>
-  <updated>2014-05-22T20:42:49+10:00</updated>
+  <published>2014-05-22T06:42:49-04:00</published>
+  <updated>2014-05-22T06:42:49-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -203,8 +242,8 @@
   <title type="html"><![CDATA[Jatin visits Mikheyev&#8217;s unit as Research Intern]]></title>
   <link rel="alternate" type="text/html" href="/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/" />
   <id>/lab/news/jatin-visits-mikheyevs-unit-as-research-intern</id>
-  <published>2014-04-26T20:42:49+10:00</published>
-  <updated>2014-04-26T20:42:49+10:00</updated>
+  <published>2014-04-26T06:42:49-04:00</published>
+  <updated>2014-04-26T06:42:49-04:00</updated>
   <author>
     <name>Jatin Aora</name>
     <uri></uri>
@@ -224,8 +263,8 @@
   <title type="html"><![CDATA[OIST-NTU Invasive Ant Symposium]]></title>
   <link rel="alternate" type="text/html" href="/oist-ntu-invasive-ant-symposium/" />
   <id>/oist-ntu-invasive-ant-symposium</id>
-  <published>2014-04-01T21:42:49+11:00</published>
-  <updated>2014-04-01T21:42:49+11:00</updated>
+  <published>2014-04-01T06:42:49-04:00</published>
+  <updated>2014-04-01T06:42:49-04:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -266,8 +305,8 @@
   <title type="html"><![CDATA[Shikha Visits Mikheyev Unit]]></title>
   <link rel="alternate" type="text/html" href="/shikha-visits-mikheyev-unit/" />
   <id>/shikha-visits-mikheyev-unit</id>
-  <published>2014-01-10T21:42:49+11:00</published>
-  <updated>2014-01-10T21:42:49+11:00</updated>
+  <published>2014-01-10T05:42:49-05:00</published>
+  <updated>2014-01-10T05:42:49-05:00</updated>
   <author>
     <name>Shikha</name>
     <uri></uri>
@@ -299,8 +338,8 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
   <title type="html"><![CDATA[Habu study press release by OIST!]]></title>
   <link rel="alternate" type="text/html" href="/habu-study-press-release-by-oist/" />
   <id>/habu-study-press-release-by-oist</id>
-  <published>2013-12-10T21:42:49+11:00</published>
-  <updated>2013-12-10T21:42:49+11:00</updated>
+  <published>2013-12-10T05:42:49-05:00</published>
+  <updated>2013-12-10T05:42:49-05:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -320,8 +359,8 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
   <title type="html"><![CDATA[Nichole Bennett visiting Mikheyev Unit]]></title>
   <link rel="alternate" type="text/html" href="/nichole-bennett-visiting-mikheyev-unit/" />
   <id>/nichole-bennett-visiting-mikheyev-unit</id>
-  <published>2013-11-29T21:42:49+11:00</published>
-  <updated>2013-11-29T21:42:49+11:00</updated>
+  <published>2013-11-29T05:42:49-05:00</published>
+  <updated>2013-11-29T05:42:49-05:00</updated>
   <author>
     <name>Nichole Bennett</name>
     <uri></uri>
@@ -358,8 +397,8 @@ In addition to her research interests, Nichole is also involved in science educa
   <title type="html"><![CDATA[Goodbye Invitrogen ripoff product]]></title>
   <link rel="alternate" type="text/html" href="/goodbye-invitrogen-ripoff-product/" />
   <id>/goodbye-invitrogen-ripoff-product</id>
-  <published>2013-11-27T21:42:49+11:00</published>
-  <updated>2013-11-27T21:42:49+11:00</updated>
+  <published>2013-11-27T05:42:49-05:00</published>
+  <updated>2013-11-27T05:42:49-05:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -384,8 +423,8 @@ In addition to her research interests, Nichole is also involved in science educa
   <title type="html"><![CDATA[Quantitative proteomics of snake venoms paper published]]></title>
   <link rel="alternate" type="text/html" href="/quantitative-proteomics-of-snake-venoms-paper-published/" />
   <id>/quantitative-proteomics-of-snake-venoms-paper-published</id>
-  <published>2013-11-14T21:42:49+11:00</published>
-  <updated>2013-11-14T21:42:49+11:00</updated>
+  <published>2013-11-14T05:42:49-05:00</published>
+  <updated>2013-11-14T05:42:49-05:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>
@@ -406,8 +445,8 @@ In addition to her research interests, Nichole is also involved in science educa
   <title type="html"><![CDATA[Host-associated genomic differentiation paper recommended by F1000]]></title>
   <link rel="alternate" type="text/html" href="/host-associated-genomic-differentiation-paper-recommended-by-f1000/" />
   <id>/host-associated-genomic-differentiation-paper-recommended-by-f1000</id>
-  <published>2013-11-06T21:42:49+11:00</published>
-  <updated>2013-11-06T21:42:49+11:00</updated>
+  <published>2013-11-06T05:42:49-05:00</published>
+  <updated>2013-11-06T05:42:49-05:00</updated>
   <author>
     <name>Sasha</name>
     <uri></uri>

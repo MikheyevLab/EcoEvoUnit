@@ -1,68 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/collecting-bees-in-arizona/</loc>
+    <lastmod>2015-08-20T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</loc>
-    <lastmod>2015-06-12T00:00:00+10:00</lastmod>
+    <lastmod>2015-06-12T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>/press%20release/publication/evolutionary-constraints/</loc>
-    <lastmod>2015-04-17T00:00:00+10:00</lastmod>
+    <lastmod>2015-04-17T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>/ants/evolution-of-division-of-labor/</loc>
-    <lastmod>2015-03-02T00:00:00+11:00</lastmod>
+    <lastmod>2015-03-02T00:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>/gspe-genomics-of-social-parasite-evolution-workshop/</loc>
-    <lastmod>2014-10-23T21:42:49+11:00</lastmod>
+    <lastmod>2014-10-23T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</loc>
-    <lastmod>2014-09-01T20:42:49+10:00</lastmod>
+    <lastmod>2014-09-01T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</loc>
-    <lastmod>2014-08-27T20:42:49+10:00</lastmod>
+    <lastmod>2014-08-27T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/shikha-scores-at-the-top-of-her-class/</loc>
-    <lastmod>2014-08-25T20:42:49+10:00</lastmod>
+    <lastmod>2014-08-25T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/museum/</loc>
-    <lastmod>2014-05-22T20:42:49+10:00</lastmod>
+    <lastmod>2014-05-22T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</loc>
-    <lastmod>2014-04-26T20:42:49+10:00</lastmod>
+    <lastmod>2014-04-26T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/oist-ntu-invasive-ant-symposium/</loc>
-    <lastmod>2014-04-01T21:42:49+11:00</lastmod>
+    <lastmod>2014-04-01T06:42:49-04:00</lastmod>
   </url>
   <url>
     <loc>/shikha-visits-mikheyev-unit/</loc>
-    <lastmod>2014-01-10T21:42:49+11:00</lastmod>
+    <lastmod>2014-01-10T05:42:49-05:00</lastmod>
   </url>
   <url>
     <loc>/habu-study-press-release-by-oist/</loc>
-    <lastmod>2013-12-10T21:42:49+11:00</lastmod>
+    <lastmod>2013-12-10T05:42:49-05:00</lastmod>
   </url>
   <url>
     <loc>/nichole-bennett-visiting-mikheyev-unit/</loc>
-    <lastmod>2013-11-29T21:42:49+11:00</lastmod>
+    <lastmod>2013-11-29T05:42:49-05:00</lastmod>
   </url>
   <url>
     <loc>/goodbye-invitrogen-ripoff-product/</loc>
-    <lastmod>2013-11-27T21:42:49+11:00</lastmod>
+    <lastmod>2013-11-27T05:42:49-05:00</lastmod>
   </url>
   <url>
     <loc>/quantitative-proteomics-of-snake-venoms-paper-published/</loc>
-    <lastmod>2013-11-14T21:42:49+11:00</lastmod>
+    <lastmod>2013-11-14T05:42:49-05:00</lastmod>
   </url>
   <url>
     <loc>/host-associated-genomic-differentiation-paper-recommended-by-f1000/</loc>
-    <lastmod>2013-11-06T21:42:49+11:00</lastmod>
+    <lastmod>2013-11-06T05:42:49-05:00</lastmod>
   </url>
   <url>
     <loc>/tutorial/22.blast/</loc>
@@ -71,16 +75,16 @@
     <loc>/internal/</loc>
   </url>
   <url>
-    <loc>/b02-course-information/</loc>
-  </url>
-  <url>
     <loc>/methods/</loc>
   </url>
   <url>
     <loc>/people/</loc>
   </url>
   <url>
-    <loc>/sample-page/</loc>
+    <loc>/papers/</loc>
+  </url>
+  <url>
+    <loc>/posts/</loc>
   </url>
   <url>
     <loc>/tutorial/0.genome-annotation-tutorial/</loc>
@@ -113,7 +117,7 @@
     <loc>/tutorial/21.gbrowse/</loc>
   </url>
   <url>
-    <loc>/posts/</loc>
+    <loc>/data/</loc>
   </url>
   <url>
     <loc>/tutorial/23.align_sequences/</loc>
@@ -125,13 +129,13 @@
     <loc>/tutorial/25.file-formats/</loc>
   </url>
   <url>
-    <loc>/data/</loc>
+    <loc>/b02-course-information/</loc>
   </url>
   <url>
     <loc>/tutorial/24.webapollo/</loc>
   </url>
   <url>
     <loc>/people/map.html</loc>
-    <lastmod>2015-06-04T12:51:56+10:00</lastmod>
+    <lastmod>2015-06-03T22:51:56-04:00</lastmod>
   </url>
 </urlset>
