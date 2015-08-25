@@ -5,9 +5,22 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Aug 2015 18:31:00 -0400</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2015 18:31:00 -0400</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2015 12:45:20 -0400</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2015 12:45:20 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Dorothy gets A+ for her thesis</title>
+        <description>&lt;p&gt;Our last spring’s intern Dorothy Immaculate has graduated from university, and received an A+ for the thesis that she did in our lab. Excellnt job Dorothy, and, Carmen, who was the one actually reposible for thesis supervision!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Aug 2015 00:00:00 -0400</pubDate>
+        <link>/dorothy-gets-a-for-her-thesis/</link>
+        <guid isPermaLink="true">/dorothy-gets-a-for-her-thesis/</guid>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Collecting bees in Arizona</title>
@@ -169,21 +182,6 @@
         
         <category>Papers</category>
         
-        
-      </item>
-    
-      <item>
-        <title>Jatin visits Mikheyev&amp;#8217;s unit as Research Intern</title>
-        <description>&lt;p&gt;I am Jatin Arora. I came to know about Prof. Alexander Mikheyev and his Ecology and Evolution unit at OIST in October, 2013. I was intrigued about the potential offered by using non-model systems, e.g. the species of honey bees, ants, snakes etc. to understand how organisms interact with their environment. In debut, I worked at distance with him on topic of Resilience to diseases in feral honey bee genome in third semester of my master studies at University Pierre and Marie Curie, Paris. Later, I joined the laboratory as research intern to do my master thesis. &lt;br /&gt;In present, I am working on the Introgressive hybridization of African genes into population of feral European bees. During my stay here, I hope to work in other areas as well, as the research in the laboratory is being done on a range of topics. The laboratory has cutting edge infrastructure. It is equipped with latest sequencing facilities. The experimental and analysis works are done in parallel which facilitates the access to data and validation of hypothesis. Along with working on computational analysis, I participate in wet lab experiments as well, which complements my learning. There are six nationalities in the laboratory which allows learning different cultures under one roof and makes the work environment more exciting.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Apr 2014 06:42:49 -0400</pubDate>
-        <link>/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</link>
-        <guid isPermaLink="true">/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</guid>
-        
-        
-        <category>lab</category>
-        
-        <category>news</category>
         
       </item>
     
