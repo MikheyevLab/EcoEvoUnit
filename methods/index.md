@@ -39,11 +39,16 @@ Please let if you find any errors, or have suggestions on how we can improve the
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation: [Tin *et al.* PLoS ONE 2014, 9(5): e96793][4]
 
+* [Version 2 PCR free genomic shotgun sequencing using degraded DNA][9]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modification of original RAD-tag protocol to reduce error and bias due to PCR amplification.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation: [Mikheyev *et al.* Nature Communications, 6:7991](http://www.nature.com/ncomms/2015/150806/ncomms8991/full/ncomms8991.html)
+
   * [RNA-seq library preparation from total RNA][6]
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation: [Aird *et al.* BMC Genomics 2013, 14:790][7]
 
-   * [FASSST ddRAD tag library preparation](  * [FASSST ddRAD tag library preparation](https://docs.google.com/document/d/1yiKoKw8ggaO7CSykcjzDgAyt2r2VzskO7OkDlyoeQBk/edit?usp=sharing)
+   * [FASSST ddRAD tag library preparation](  * [FASSST ddRAD tag library preparation](https://docs.google.com/document/d/1uw31pcep8gjC7HnbzRAN2llhYRUVPoToD1EqSH779OA/edit?usp=sharing)
 )
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; High-throughput protocol related to the EcoRI RAD-tag procedure above. Optimized for processing 96 samples at one using a liquid handling robot.
@@ -51,18 +56,7 @@ Please let if you find any errors, or have suggestions on how we can improve the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation: [Tin *et al.* Molecular Ecology Resources 2015, 14:790](http://ecoevo.unit.oist.jp/lab/pubs/Tin,2015,Degenerate%20adaptor%20sequences%20for%20detecting%20PCR%20duplicates%20in%20reduced%20representation%20sequencing%20data%20improve%20genotype%20calling%20accuracy.pdf)
 
 
-* * *
-
-#### Under active development (ask for to view)
-
-<noscript>
-  Please enable JavaScript to see this field.
-</noscript>
-
-  * [Version 2 PCR free genomic shotgun sequencing using degraded DNA][9]
-
-Modification of original RAD-tag protocol to reduce error and bias due to PCR amplification.
-
+  
 * * *
 
 ### General protocols
@@ -82,7 +76,6 @@ Most accurate measure of overall dsDNA concentration.
  [5]: https://docs.google.com/document/d/1EbyVf2A5pdBlkxBu57tkFkaBiG0lDifdd7FQGcidM4I
  [6]: https://docs.google.com/document/d/1_1amZDvLEIP_sjJzUSELjig3VKI2aALOzr2o5pezAPE/edit
  [7]: http://www.biomedcentral.com/1471-2164/14/790
- [8]: https://docs.google.com/document/d/1yiKoKw8ggaO7CSykcjzDgAyt2r2VzskO7OkDlyoeQBk/edit
- [9]: https://docs.google.com/document/d/1Ba7dTqx9iFjoH4HeVro0EEjE5OoWBW74IVzyfAk4Rn4/edit
+ [9]: https://docs.google.com/document/d/1I-9MMC2_P9_QcFFHj0vTpoLw06ZeWSXMZiw0YDE9ne0/edit?usp=sharing
  [10]: https://docs.google.com/document/d/163otzQfwyUGtJCNa9Yd7awlsFGE74yWv59LUUNJhqbI/edit?usp=sharing
  [11]: https://docs.google.com/document/d/1ArdwOExyYEy0NtB_u3uIg68VHCBAkU9VbhW7uNENE28/edit?usp=sharing
