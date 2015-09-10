@@ -3,19 +3,34 @@
   <channel>
     <title>Ecology and Evolution Unit</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Aug 2015 07:47:45 -0400</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2015 07:47:45 -0400</lastBuildDate>
+    <link>http://ecoevo.unit.oist.jp/site/site/</link>
+    <atom:link href="http://ecoevo.unit.oist.jp/site/site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Sep 2015 10:41:23 +0300</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2015 10:41:23 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>T5 lab now a PeerJ pre-print</title>
+        <description>&lt;p&gt;Last fall our intern Jigyasa Arora and I developed a teaching module that uses experimental evolution and next-generation sequencing to teach lab skills and bioinformatics. It is based on &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895413&quot;&gt;Paul Hyman’s lab&lt;/a&gt; (Ashland University), which uses the evolution of resistance by the bacterium &lt;em&gt;Escerichia coli&lt;/em&gt; to the T5 bacteriophage to explore tha nature of coevolution and resistance. We modified the lab to include a next-generation sequencing and analysis component, which works spectacularly well. The teaching module and ssociated materials are now available as a &lt;a href=&quot;https://peerj.com/manuscripts/6635/&quot;&gt;PeerJ preprint&lt;/a&gt;. Reviewers  requested that we provide a teaching assessment for this module to pass muster as a peer-reviewed teaching tool, so I hope carry out such an assessment with this fall’s batch of students. &lt;/p&gt;
+
+&lt;p&gt;If you want to give this lab a try in your own class, don’t hesitate to contact me with questions.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Sep 2015 00:00:00 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</guid>
+        
+        <category>news</category>
+        
+        
+      </item>
     
       <item>
         <title>Dorothy gets A+ for her thesis</title>
         <description>&lt;p&gt;Our last spring’s intern Dorothy Immaculate has graduated from university, and received an A+ for the thesis that she did in our lab. Excellnt job Dorothy, and, Carmen, who was the one actually reposible for thesis supervision!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Aug 2015 00:00:00 -0400</pubDate>
-        <link>/dorothy-gets-a-for-her-thesis/</link>
-        <guid isPermaLink="true">/dorothy-gets-a-for-her-thesis/</guid>
+        <pubDate>Tue, 25 Aug 2015 00:00:00 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</guid>
         
         <category>news</category>
         
@@ -36,17 +51,17 @@
 
 &lt;p&gt;As it happens, we’ve already obtained samples of wild honeybees from Texas and Arizona from before the arrival of &lt;em&gt;Varroa&lt;/em&gt;, and shortly after its arrival. We would like to compare them with the bees that live there now, in the presence of the mites, to try identify which genes may be involved in resistance. So, this means we had to get some bees from near Tucson, a population that has been studies for many decades (we also have a population from Texas, but that’s another story). In the desert, where there are no trees, bees nest in rock crevices and you can sometimes even see the comb sticking out. Thanks to Gerry Loper, who has worked for the USDA bee lab for many decades, and still visits his bee populations, we were able to locate 40 colonies in the course of just a couple of days.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Africanized bees are not friendly, and can pursue you for hundreds of meters if you get them really mad, so a bee suit is necessary for this sort of work, though it gets a bit hot in the Arizona desert sun (temperatures in the high 30s). We had to start our days at 6am, at sunrise.&lt;/p&gt;
 
 &lt;p&gt;This was a great trip, and I am really grateful to Gloria Degrandi-Hoffman and USDA Carl Hayden Bee Research Center for hooking me up with a field vehicle and two excellent techs, as well as for giving me a opportunity to give a talk about my research.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
-        <link>/collecting-bees-in-arizona/</link>
-        <guid isPermaLink="true">/collecting-bees-in-arizona/</guid>
+        <pubDate>Thu, 20 Aug 2015 00:00:00 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</guid>
         
         <category>news</category>
         
@@ -59,9 +74,9 @@
 
 &lt;p&gt;You can read this paper online for free in &lt;a href=&quot;http://www.mdpi.com/2072-6651/7/6/2272/html&quot;&gt;&lt;em&gt;Toxins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jun 2015 00:00:00 -0400</pubDate>
-        <link>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
-        <guid isPermaLink="true">/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
+        <pubDate>Fri, 12 Jun 2015 00:00:00 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
         
         <category>news</category>
         
@@ -74,9 +89,9 @@
 
 &lt;p&gt;You can read the OIST press release &lt;a href=&quot;https://www.oist.jp/news-center/news/2015/4/16/evolution-puts-checks-virgin-births&quot;&gt;here&lt;/a&gt;, and find the actual paper on the &lt;a href=&quot;http://link.springer.com/article/10.1007%2Fs00114-015-1265-8&quot;&gt;Science of Nature web site&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Apr 2015 00:00:00 -0400</pubDate>
-        <link>/press%20release/publication/evolutionary-constraints/</link>
-        <guid isPermaLink="true">/press%20release/publication/evolutionary-constraints/</guid>
+        <pubDate>Fri, 17 Apr 2015 00:00:00 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</guid>
         
         <category>ants</category>
         
@@ -91,9 +106,9 @@
         <title>Evolution of division of labor</title>
         <description>&lt;p&gt;Ant worker traits are remarkable in that they evolve despite the fact that the workers themselves do not reproduce. As a part of our ongong collaboration with the &lt;a href=&quot;http://sites.sas.upenn.edu/linksvayer-lab&quot;&gt;Linksvayer Lab&lt;/a&gt;, in a &lt;a href=&quot;http://elifesciences.org/content/4/e04775?_ga=1.25883067.769126097.1432248984&quot;&gt;recently published paper in eLife&lt;/a&gt; we showed that the evolution of genes involved in social behavior is constrained by the effects of gene co-expression networks. You can listen to a podcast where Tim Linksvayer describes this work &lt;a href=&quot;http://elifesciences.org/podcast/episode18&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
-        <link>/ants/evolution-of-division-of-labor/</link>
-        <guid isPermaLink="true">/ants/evolution-of-division-of-labor/</guid>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 +0200</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</guid>
         
         <category>press release</category>
         
@@ -114,9 +129,9 @@
 &lt;/figure&gt;
 
 </description>
-        <pubDate>Thu, 23 Oct 2014 06:42:49 -0400</pubDate>
-        <link>/gspe-genomics-of-social-parasite-evolution-workshop/</link>
-        <guid isPermaLink="true">/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
+        <pubDate>Thu, 23 Oct 2014 13:42:49 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
         
         <category>Lab news</category>
         
@@ -130,9 +145,9 @@
 &lt;p&gt;The Sakishima habu is the one you most often see in Awamori containers; it is smaller than the Okinawa habu, being about half the size, and, I presume, is easier to stuff into a jar. They have escaped and have been spreading through parts of Okinawa, hybridizing with the native speces.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 01 Sep 2014 06:42:49 -0400</pubDate>
-        <link>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
-        <guid isPermaLink="true">/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
+        <pubDate>Mon, 01 Sep 2014 13:42:49 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
         
         <category>Lab news</category>
         
@@ -144,9 +159,9 @@
         <description>&lt;p&gt;Together with our collaborators from the National University of Singapore we just published a &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12314/abstract&quot;&gt;paper&lt;/a&gt; describing an improved method for making double-digest RAD-tag libraries. By adding a small run of degenerate nucleotides to the end of one of the Illumina indexes, you can barcode each individual ligation reaction and determine how many molecules participate in each reaction. This is a simple modification, that allows us to confidently make RAD-tag libraries using just a few nanograms of input material. The actual library preparation is not different — in this paper we describe a protocol that we use to process thousands of samples using a liquid handling robot, making 96 libraries at once.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 27 Aug 2014 06:42:49 -0400</pubDate>
-        <link>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
-        <guid isPermaLink="true">/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
+        <pubDate>Wed, 27 Aug 2014 13:42:49 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
         
         <category>Lab news</category>
         
@@ -160,27 +175,11 @@
         <description>&lt;p&gt;Shikha just received her grades, scoring at the top of her class, and completing her thesis. Congratulations!&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 25 Aug 2014 06:42:49 -0400</pubDate>
-        <link>/shikha-scores-at-the-top-of-her-class/</link>
-        <guid isPermaLink="true">/shikha-scores-at-the-top-of-her-class/</guid>
+        <pubDate>Mon, 25 Aug 2014 13:42:49 +0300</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/site/shikha-scores-at-the-top-of-her-class/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/shikha-scores-at-the-top-of-her-class/</guid>
         
         <category>Lab news</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>It belongs in a museum!</title>
-        <description>&lt;p&gt;Over lunch during one of his visits to OIST, my former boss Sydney Brenner suggested that I try a ribo-tailing technique for attaching adaptors to short DNA molecules. The idea is that the action of terminal transferase on riboguanidines creates a 3′ tail of controlled length, which can be used for attaching adaptors and synthesizing a second strand (&lt;a href=&quot;http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;amp;pmid=9512556&quot;&gt;Komura and Riggs, 1998&lt;/a&gt;; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0003269705007979&quot;&gt;Lee and Weeks, 2006&lt;/a&gt;).We tried it, and it was amazing. This approach eventually produced a method that we use for working with degraded DNA, just published in &lt;a href=&quot;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0096793&quot;&gt;PLoS ONE&lt;/a&gt; (and available in detail &lt;a href=&quot;https://docs.google.com/document/d/1GW4TzTCJAm8bjqOSC9-fmNRVPbS-3Ij5-2tSLYZygJM&quot;&gt;here&lt;/a&gt;). The PLoS ONE paper outlines this approach, at least an earlier version, and presents a fairly non-destructive way of extracting DNA form museum insects. Using this approach we could sequence RAD-tags from tiny 100 year old ants, and create a Hawaiian fruit fly phylogeny.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 May 2014 06:42:49 -0400</pubDate>
-        <link>/museum/</link>
-        <guid isPermaLink="true">/museum/</guid>
-        
-        <category>Lab news</category>
-        
-        <category>Papers</category>
         
         
       </item>
