@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our first student defends here PhD thesis!
+title: Our first student defends her PhD thesis!
 categories: []
 tags: ['news']
 published: True
