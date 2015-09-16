@@ -13,7 +13,7 @@ I met Claire Morandin in 2011 at the [BGI-hosted Social Insect Genomics Research
 
 ![]({{ site.url }}/images/claire_defense/claire-defense-winner.jpg){:width="600px"}
 
-Attending a Finnish Ph.D. defense was a completely unforseen consequence of the BGI meeting. These are ritualized affairs, featuring an external examiner and moderated by a kustos (above and below, center), who makes sure procedure is followed and no fights break out (or so I am told). Claire's opponent [Dr. Seirian Sumner](http://www.bristol.ac.uk/biology/people/seirian-r-sumner/) managed to balance a friendly conversational style with over two hours of challenging questions. The result was more of a conversation between two scientists, but no stone was left unturned. However, we all knew Claire would do splendidly. Congratulations!
+Attending a Finnish Ph.D. defense was a completely unforseen consequence of the BGI meeting. These are ritualized affairs, featuring an external examiner and moderated by a kustos (above and below, center), who makes sure procedure is followed and no fights break out (or so I am told). Claire's opponent [Dr. Seirian Sumner](http://www.bristol.ac.uk/biology/people/seirian-r-sumner/) managed to balance a friendly conversational style with over two hours of challenging questions. The result was more of a conversation between two scientists, but no stone was left unturned. To quote Seirian, the thesis was a "perfectly formed structure". We all knew Claire would do splendidly. Congratulations!
 
 ![]({{ site.url }}/images/claire_defense/claire-defense-post-defense.jpg)
 
