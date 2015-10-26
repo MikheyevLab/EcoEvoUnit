@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Ecology and Evolution Unit</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2015-09-16T09:02:17+09:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://ecoevo.unit.oist.jp/site/feed.xml" />
+<link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site" />
+<updated>2015-10-26T17:55:41+09:00</updated>
+<id>http://ecoevo.unit.oist.jp/site/</id>
 <author>
   <name>Eco Evo Lab</name>
-  <uri>/</uri>
+  <uri>http://ecoevo.unit.oist.jp/site/</uri>
   <email>ecoevo@oist.jp</email>
 </author>
 
@@ -16,27 +16,27 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Our first student defends here PhD thesis!]]></title>
-  <link rel="alternate" type="text/html" href="/our-first-student-defends-here-phd-thesis/" />
-  <id>/our-first-student-defends-here-phd-thesis</id>
+  <title type="html"><![CDATA[Our first student defends her PhD thesis!]]></title>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis/" />
+  <id>http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis</id>
   <published>2015-09-16T00:00:00+09:00</published>
   <updated>2015-09-16T00:00:00+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;I met Claire Morandin in 2011 at the &lt;a href=&quot;http://ldl.genomics.org.cn/event/conference.jsp?conId=31&quot;&gt;BGI-hosted Social Insect Genomics Research Conference&lt;/a&gt;, when she was just starting her dissertation. She had great ambitions for her Ph.D. thesis, and I suggested that we collaborate. In the course of four visits to Okinawa, for which Claire got her own funding, the third chapter of her thesis was born, and I became her official co-supervisor. Since that time, Claire has never ceased to amaze me with her intelligence, hard work, and ambition. These were recognized not just by me, but also by her home school, as she received a major departmental prize for her work last year.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/claire_defense/claire-defense-winner.jpg&quot; alt=&quot;&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/claire_defense/claire-defense-winner.jpg&quot; alt=&quot;&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Attending a Finnish Ph.D. defense was a completely unforseen consequence of the BGI meeting. These are ritualized affairs, featuring an external examiner and moderated by a kustos (above and below, center), who makes sure procedure is followed and no fights break out (or so I am told). Claire’s opponent &lt;a href=&quot;http://www.bristol.ac.uk/biology/people/seirian-r-sumner/&quot;&gt;Dr. Seirian Sumner&lt;/a&gt; managed to balance a friendly conversational style with over two hours of challenging questions. The result was more of a conversation between two scientists, but no stone was left unturned. However, we all knew Claire would do splendidly. Congratulations!&lt;/p&gt;
+&lt;p&gt;Attending a Finnish Ph.D. defense was a completely unforseen consequence of the BGI meeting. These are ritualized affairs, featuring an external examiner and moderated by a kustos (above and below, center), who makes sure procedure is followed and no fights break out (or so I am told). Claire’s opponent &lt;a href=&quot;http://www.bristol.ac.uk/biology/people/seirian-r-sumner/&quot;&gt;Dr. Seirian Sumner&lt;/a&gt; managed to balance a friendly conversational style with over two hours of challenging questions. The result was more of a conversation between two scientists, but no stone was left unturned. To quote Seirian, the thesis was a “perfectly formed structure”. We all knew Claire would do splendidly. Congratulations!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/claire_defense/claire-defense-post-defense.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/claire_defense/claire-defense-post-defense.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/our-first-student-defends-here-phd-thesis/&quot;&gt;Our first student defends here PhD thesis!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on September 16, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis/&quot;&gt;Our first student defends her PhD thesis!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on September 16, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -45,13 +45,13 @@
 
 <entry>
   <title type="html"><![CDATA[T5 lab now a PeerJ pre-print]]></title>
-  <link rel="alternate" type="text/html" href="/t5-lab-now-a-peerj-preprint/" />
-  <id>/t5-lab-now-a-peerj-preprint</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint/" />
+  <id>http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint</id>
   <published>2015-09-10T00:00:00+09:00</published>
   <updated>2015-09-10T00:00:00+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -59,7 +59,7 @@
 
 &lt;p&gt;If you want to give this lab a try in your own class, don’t hesitate to contact me with questions.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/t5-lab-now-a-peerj-preprint/&quot;&gt;T5 lab now a PeerJ pre-print&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on September 10, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint/&quot;&gt;T5 lab now a PeerJ pre-print&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on September 10, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -68,19 +68,19 @@
 
 <entry>
   <title type="html"><![CDATA[Dorothy gets A+ for her thesis]]></title>
-  <link rel="alternate" type="text/html" href="/dorothy-gets-a-for-her-thesis/" />
-  <id>/dorothy-gets-a-for-her-thesis</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis/" />
+  <id>http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis</id>
   <published>2015-08-25T00:00:00+09:00</published>
   <updated>2015-08-25T00:00:00+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;Our last spring’s intern Dorothy Immaculate has graduated from university, and received an A+ for the thesis that she did in our lab. Excellnt job Dorothy, and, Carmen, who was the one actually reposible for thesis supervision!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/dorothy-gets-a-for-her-thesis/&quot;&gt;Dorothy gets A+ for her thesis&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 25, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis/&quot;&gt;Dorothy gets A+ for her thesis&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 25, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -89,13 +89,13 @@
 
 <entry>
   <title type="html"><![CDATA[Collecting bees in Arizona]]></title>
-  <link rel="alternate" type="text/html" href="/collecting-bees-in-arizona/" />
-  <id>/collecting-bees-in-arizona</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona/" />
+  <id>http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona</id>
   <published>2015-08-20T00:00:00+09:00</published>
   <updated>2015-08-20T00:00:00+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -111,15 +111,15 @@
 
 &lt;p&gt;As it happens, we’ve already obtained samples of wild honeybees from Texas and Arizona from before the arrival of &lt;em&gt;Varroa&lt;/em&gt;, and shortly after its arrival. We would like to compare them with the bees that live there now, in the presence of the mites, to try identify which genes may be involved in resistance. So, this means we had to get some bees from near Tucson, a population that has been studies for many decades (we also have a population from Texas, but that’s another story). In the desert, where there are no trees, bees nest in rock crevices and you can sometimes even see the comb sticking out. Thanks to Gerry Loper, who has worked for the USDA bee lab for many decades, and still visits his bee populations, we were able to locate 40 colonies in the course of just a couple of days.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Africanized bees are not friendly, and can pursue you for hundreds of meters if you get them really mad, so a bee suit is necessary for this sort of work, though it gets a bit hot in the Arizona desert sun (temperatures in the high 30s). We had to start our days at 6am, at sunrise.&lt;/p&gt;
 
 &lt;p&gt;This was a great trip, and I am really grateful to Gloria Degrandi-Hoffman and USDA Carl Hayden Bee Research Center for hooking me up with a field vehicle and two excellent techs, as well as for giving me a opportunity to give a talk about my research.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/collecting-bees-in-arizona/&quot;&gt;Collecting bees in Arizona&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 20, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona/&quot;&gt;Collecting bees in Arizona&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 20, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -128,13 +128,13 @@
 
 <entry>
   <title type="html"><![CDATA[Don't tread on me: How well do we really understand stingray venom?]]></title>
-  <link rel="alternate" type="text/html" href="/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/" />
-  <id>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/" />
+  <id>http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom</id>
   <published>2015-06-12T00:00:00+09:00</published>
   <updated>2015-06-12T00:00:00+09:00</updated>
   <author>
     <name>Steve Aird</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     
   </author>
   <content type="html">
@@ -142,7 +142,7 @@
 
 &lt;p&gt;You can read this paper online for free in &lt;a href=&quot;http://www.mdpi.com/2072-6651/7/6/2272/html&quot;&gt;&lt;em&gt;Toxins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/&quot;&gt;Don&#39;t tread on me: How well do we really understand stingray venom?&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on June 12, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/&quot;&gt;Don&#39;t tread on me: How well do we really understand stingray venom?&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on June 12, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -151,13 +151,13 @@
 
 <entry>
   <title type="html"><![CDATA[Males are here to stay!]]></title>
-  <link rel="alternate" type="text/html" href="/press%20release/publication/evolutionary-constraints/" />
-  <id>/press%20release/publication/evolutionary-constraints</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints/" />
+  <id>http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints</id>
   <published>2015-04-17T00:00:00+09:00</published>
   <updated>2015-04-17T00:00:00+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -165,7 +165,7 @@
 
 &lt;p&gt;You can read the OIST press release &lt;a href=&quot;https://www.oist.jp/news-center/news/2015/4/16/evolution-puts-checks-virgin-births&quot;&gt;here&lt;/a&gt;, and find the actual paper on the &lt;a href=&quot;http://link.springer.com/article/10.1007%2Fs00114-015-1265-8&quot;&gt;Science of Nature web site&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/press%20release/publication/evolutionary-constraints/&quot;&gt;Males are here to stay!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on April 17, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints/&quot;&gt;Males are here to stay!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on April 17, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -174,19 +174,19 @@
 
 <entry>
   <title type="html"><![CDATA[Evolution of division of labor]]></title>
-  <link rel="alternate" type="text/html" href="/ants/evolution-of-division-of-labor/" />
-  <id>/ants/evolution-of-division-of-labor</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor/" />
+  <id>http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor</id>
   <published>2015-03-02T00:00:00+09:00</published>
   <updated>2015-03-02T00:00:00+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;Ant worker traits are remarkable in that they evolve despite the fact that the workers themselves do not reproduce. As a part of our ongong collaboration with the &lt;a href=&quot;http://sites.sas.upenn.edu/linksvayer-lab&quot;&gt;Linksvayer Lab&lt;/a&gt;, in a &lt;a href=&quot;http://elifesciences.org/content/4/e04775?_ga=1.25883067.769126097.1432248984&quot;&gt;recently published paper in eLife&lt;/a&gt; we showed that the evolution of genes involved in social behavior is constrained by the effects of gene co-expression networks. You can listen to a podcast where Tim Linksvayer describes this work &lt;a href=&quot;http://elifesciences.org/podcast/episode18&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/ants/evolution-of-division-of-labor/&quot;&gt;Evolution of division of labor&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor/&quot;&gt;Evolution of division of labor&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on March 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -195,13 +195,13 @@
 
 <entry>
   <title type="html"><![CDATA[GSPE: Genomics of Social Parasite Evolution Workshop]]></title>
-  <link rel="alternate" type="text/html" href="/gspe-genomics-of-social-parasite-evolution-workshop/" />
-  <id>/gspe-genomics-of-social-parasite-evolution-workshop</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/" />
+  <id>http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop</id>
   <published>2014-10-23T19:42:49+09:00</published>
   <updated>2014-10-23T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -213,7 +213,7 @@
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/gspe-genomics-of-social-parasite-evolution-workshop/&quot;&gt;GSPE: Genomics of Social Parasite Evolution Workshop&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on October 23, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/&quot;&gt;GSPE: Genomics of Social Parasite Evolution Workshop&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on October 23, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -222,13 +222,13 @@
 
 <entry>
   <title type="html"><![CDATA[Snake photography at the Okinawa Prefectural Institute of Health and Environment]]></title>
-  <link rel="alternate" type="text/html" href="/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/" />
-  <id>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/" />
+  <id>http://ecoevo.unit.oist.jp/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment</id>
   <published>2014-09-01T19:42:49+09:00</published>
   <updated>2014-09-01T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -237,7 +237,7 @@
 &lt;p&gt;The Sakishima habu is the one you most often see in Awamori containers; it is smaller than the Okinawa habu, being about half the size, and, I presume, is easier to stuff into a jar. They have escaped and have been spreading through parts of Okinawa, hybridizing with the native speces.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/&quot;&gt;Snake photography at the Okinawa Prefectural Institute of Health and Environment&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/&quot;&gt;Snake photography at the Okinawa Prefectural Institute of Health and Environment&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on September 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -246,20 +246,20 @@
 
 <entry>
   <title type="html"><![CDATA[&#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&#8221; paper published!]]></title>
-  <link rel="alternate" type="text/html" href="/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/" />
-  <id>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/" />
+  <id>http://ecoevo.unit.oist.jp/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published</id>
   <published>2014-08-27T19:42:49+09:00</published>
   <updated>2014-08-27T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;Together with our collaborators from the National University of Singapore we just published a &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12314/abstract&quot;&gt;paper&lt;/a&gt; describing an improved method for making double-digest RAD-tag libraries. By adding a small run of degenerate nucleotides to the end of one of the Illumina indexes, you can barcode each individual ligation reaction and determine how many molecules participate in each reaction. This is a simple modification, that allows us to confidently make RAD-tag libraries using just a few nanograms of input material. The actual library preparation is not different — in this paper we describe a protocol that we use to process thousands of samples using a liquid handling robot, making 96 libraries at once.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/&quot;&gt;&amp;#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&amp;#8221; paper published!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 27, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/&quot;&gt;&amp;#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&amp;#8221; paper published!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 27, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -268,20 +268,20 @@
 
 <entry>
   <title type="html"><![CDATA[Shikha scores at the top of her class]]></title>
-  <link rel="alternate" type="text/html" href="/shikha-scores-at-the-top-of-her-class/" />
-  <id>/shikha-scores-at-the-top-of-her-class</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/shikha-scores-at-the-top-of-her-class/" />
+  <id>http://ecoevo.unit.oist.jp/site/shikha-scores-at-the-top-of-her-class</id>
   <published>2014-08-25T19:42:49+09:00</published>
   <updated>2014-08-25T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;Shikha just received her grades, scoring at the top of her class, and completing her thesis. Congratulations!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/shikha-scores-at-the-top-of-her-class/&quot;&gt;Shikha scores at the top of her class&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 25, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/shikha-scores-at-the-top-of-her-class/&quot;&gt;Shikha scores at the top of her class&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on August 25, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -290,20 +290,20 @@
 
 <entry>
   <title type="html"><![CDATA[It belongs in a museum!]]></title>
-  <link rel="alternate" type="text/html" href="/museum/" />
-  <id>/museum</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/museum/" />
+  <id>http://ecoevo.unit.oist.jp/site/museum</id>
   <published>2014-05-22T19:42:49+09:00</published>
   <updated>2014-05-22T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;Over lunch during one of his visits to OIST, my former boss Sydney Brenner suggested that I try a ribo-tailing technique for attaching adaptors to short DNA molecules. The idea is that the action of terminal transferase on riboguanidines creates a 3′ tail of controlled length, which can be used for attaching adaptors and synthesizing a second strand (&lt;a href=&quot;http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;amp;pmid=9512556&quot;&gt;Komura and Riggs, 1998&lt;/a&gt;; &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0003269705007979&quot;&gt;Lee and Weeks, 2006&lt;/a&gt;).We tried it, and it was amazing. This approach eventually produced a method that we use for working with degraded DNA, just published in &lt;a href=&quot;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0096793&quot;&gt;PLoS ONE&lt;/a&gt; (and available in detail &lt;a href=&quot;https://docs.google.com/document/d/1GW4TzTCJAm8bjqOSC9-fmNRVPbS-3Ij5-2tSLYZygJM&quot;&gt;here&lt;/a&gt;). The PLoS ONE paper outlines this approach, at least an earlier version, and presents a fairly non-destructive way of extracting DNA form museum insects. Using this approach we could sequence RAD-tags from tiny 100 year old ants, and create a Hawaiian fruit fly phylogeny.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/museum/&quot;&gt;It belongs in a museum!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on May 22, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/museum/&quot;&gt;It belongs in a museum!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on May 22, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -312,19 +312,19 @@
 
 <entry>
   <title type="html"><![CDATA[Jatin visits Mikheyev&#8217;s unit as Research Intern]]></title>
-  <link rel="alternate" type="text/html" href="/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/" />
-  <id>/lab/news/jatin-visits-mikheyevs-unit-as-research-intern</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/" />
+  <id>http://ecoevo.unit.oist.jp/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern</id>
   <published>2014-04-26T19:42:49+09:00</published>
   <updated>2014-04-26T19:42:49+09:00</updated>
   <author>
     <name>Jatin Aora</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;I am Jatin Arora. I came to know about Prof. Alexander Mikheyev and his Ecology and Evolution unit at OIST in October, 2013. I was intrigued about the potential offered by using non-model systems, e.g. the species of honey bees, ants, snakes etc. to understand how organisms interact with their environment. In debut, I worked at distance with him on topic of Resilience to diseases in feral honey bee genome in third semester of my master studies at University Pierre and Marie Curie, Paris. Later, I joined the laboratory as research intern to do my master thesis. &lt;br /&gt;In present, I am working on the Introgressive hybridization of African genes into population of feral European bees. During my stay here, I hope to work in other areas as well, as the research in the laboratory is being done on a range of topics. The laboratory has cutting edge infrastructure. It is equipped with latest sequencing facilities. The experimental and analysis works are done in parallel which facilitates the access to data and validation of hypothesis. Along with working on computational analysis, I participate in wet lab experiments as well, which complements my learning. There are six nationalities in the laboratory which allows learning different cultures under one roof and makes the work environment more exciting.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/&quot;&gt;Jatin visits Mikheyev&amp;#8217;s unit as Research Intern&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on April 26, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/&quot;&gt;Jatin visits Mikheyev&amp;#8217;s unit as Research Intern&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on April 26, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -333,13 +333,13 @@
 
 <entry>
   <title type="html"><![CDATA[OIST-NTU Invasive Ant Symposium]]></title>
-  <link rel="alternate" type="text/html" href="/oist-ntu-invasive-ant-symposium/" />
-  <id>/oist-ntu-invasive-ant-symposium</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/oist-ntu-invasive-ant-symposium/" />
+  <id>http://ecoevo.unit.oist.jp/site/oist-ntu-invasive-ant-symposium</id>
   <published>2014-04-01T19:42:49+09:00</published>
   <updated>2014-04-01T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -366,7 +366,7 @@
   &lt;li&gt;Molecular signatures of ancient mutualistic coevolution in attine ants and their fungal cultivars (Dr. Alexander Mikheyev)&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/oist-ntu-invasive-ant-symposium/&quot;&gt;OIST-NTU Invasive Ant Symposium&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/oist-ntu-invasive-ant-symposium/&quot;&gt;OIST-NTU Invasive Ant Symposium&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -375,13 +375,13 @@
 
 <entry>
   <title type="html"><![CDATA[Shikha Visits Mikheyev Unit]]></title>
-  <link rel="alternate" type="text/html" href="/shikha-visits-mikheyev-unit/" />
-  <id>/shikha-visits-mikheyev-unit</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/shikha-visits-mikheyev-unit/" />
+  <id>http://ecoevo.unit.oist.jp/site/shikha-visits-mikheyev-unit</id>
   <published>2014-01-10T19:42:49+09:00</published>
   <updated>2014-01-10T19:42:49+09:00</updated>
   <author>
     <name>Shikha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     
   </author>
   <content type="html">
@@ -399,7 +399,7 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
 &lt;p&gt;&lt;br /&gt;I have also worked on different projects in my home country. My past projects involved the molecular taxonomy of selected camel spiders (Arachnida : Solifugae) of India as well as a web designing project on Indian tribes and their role in biodiversity conservation. I have also worked on screening of genes involved in retinal dystrophies in Indian patients at L.V Prasad Eye Institute. My other interests include photography, sports, reading, exploring nature and arts and crafts.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/shikha-visits-mikheyev-unit/&quot;&gt;Shikha Visits Mikheyev Unit&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on January 10, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/shikha-visits-mikheyev-unit/&quot;&gt;Shikha Visits Mikheyev Unit&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on January 10, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -408,19 +408,19 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
 
 <entry>
   <title type="html"><![CDATA[Habu study press release by OIST!]]></title>
-  <link rel="alternate" type="text/html" href="/habu-study-press-release-by-oist/" />
-  <id>/habu-study-press-release-by-oist</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/habu-study-press-release-by-oist/" />
+  <id>http://ecoevo.unit.oist.jp/site/habu-study-press-release-by-oist</id>
   <published>2013-12-10T19:42:49+09:00</published>
   <updated>2013-12-10T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;If you want to read the take home message of the habu study without wading through the paper, the kind folks at OIST’s Communications have drawn up a handy press release. You can find it &lt;a href=&quot;http://www.oist.jp/news-center/news/2013/12/9/biting-snake-venom-mysteries&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/habu-study-press-release-by-oist/&quot;&gt;Habu study press release by OIST!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on December 10, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/habu-study-press-release-by-oist/&quot;&gt;Habu study press release by OIST!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on December 10, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -429,13 +429,13 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
 
 <entry>
   <title type="html"><![CDATA[Nichole Bennett visiting Mikheyev Unit]]></title>
-  <link rel="alternate" type="text/html" href="/nichole-bennett-visiting-mikheyev-unit/" />
-  <id>/nichole-bennett-visiting-mikheyev-unit</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit/" />
+  <id>http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit</id>
   <published>2013-11-29T19:42:49+09:00</published>
   <updated>2013-11-29T19:42:49+09:00</updated>
   <author>
     <name>Nichole Bennett</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     
   </author>
   <content type="html">
@@ -458,7 +458,7 @@ In addition to her research interests, Nichole is also involved in science educa
 &lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/nichole-bennett-visiting-mikheyev-unit/&quot;&gt;Nichole Bennett visiting Mikheyev Unit&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 29, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit/&quot;&gt;Nichole Bennett visiting Mikheyev Unit&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 29, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -467,13 +467,13 @@ In addition to her research interests, Nichole is also involved in science educa
 
 <entry>
   <title type="html"><![CDATA[Goodbye Invitrogen ripoff product]]></title>
-  <link rel="alternate" type="text/html" href="/goodbye-invitrogen-ripoff-product/" />
-  <id>/goodbye-invitrogen-ripoff-product</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/" />
+  <id>http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product</id>
   <published>2013-11-27T19:42:49+09:00</published>
   <updated>2013-11-27T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -484,7 +484,7 @@ In addition to her research interests, Nichole is also involved in science educa
 &lt;/figure&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/goodbye-invitrogen-ripoff-product/&quot;&gt;Goodbye Invitrogen ripoff product&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 27, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/&quot;&gt;Goodbye Invitrogen ripoff product&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 27, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -493,20 +493,20 @@ In addition to her research interests, Nichole is also involved in science educa
 
 <entry>
   <title type="html"><![CDATA[Quantitative proteomics of snake venoms paper published]]></title>
-  <link rel="alternate" type="text/html" href="/quantitative-proteomics-of-snake-venoms-paper-published/" />
-  <id>/quantitative-proteomics-of-snake-venoms-paper-published</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published/" />
+  <id>http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published</id>
   <published>2013-11-14T19:42:49+09:00</published>
   <updated>2013-11-14T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
     &lt;p&gt;Thanks to the hard work of Steve, and the help of Alex and Roy in mass spec, we were able to quantitatively measure protein concentrations in the venoms of two local snake species. The paper just went online in &lt;a href=&quot;http://www.biomedcentral.com/1471-2164/14/790/abstract&quot;&gt;BMC Genomics&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/quantitative-proteomics-of-snake-venoms-paper-published/&quot;&gt;Quantitative proteomics of snake venoms paper published&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published/&quot;&gt;Quantitative proteomics of snake venoms paper published&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -515,13 +515,13 @@ In addition to her research interests, Nichole is also involved in science educa
 
 <entry>
   <title type="html"><![CDATA[Host-associated genomic differentiation paper recommended by F1000]]></title>
-  <link rel="alternate" type="text/html" href="/host-associated-genomic-differentiation-paper-recommended-by-f1000/" />
-  <id>/host-associated-genomic-differentiation-paper-recommended-by-f1000</id>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000/" />
+  <id>http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000</id>
   <published>2013-11-06T19:42:49+09:00</published>
   <updated>2013-11-06T19:42:49+09:00</updated>
   <author>
     <name>Sasha</name>
-    <uri></uri>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
@@ -532,7 +532,7 @@ In addition to her research interests, Nichole is also involved in science educa
 &lt;p&gt;&lt;a href=&quot;http://f1000.com/prime/718063447?bd=1&amp;amp;ui=30390&quot; target=&quot;_blank&quot;&gt;&lt;img id=&quot;bg&quot; alt=&quot;Access the recommendation on F1000Prime&quot; src=&quot;http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif&quot; class=&quot;grouped_elements&quot; rel=&quot;tc-fancybox-group1026&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/host-associated-genomic-differentiation-paper-recommended-by-f1000/&quot;&gt;Host-associated genomic differentiation paper recommended by F1000&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 06, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000/&quot;&gt;Host-associated genomic differentiation paper recommended by F1000&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 06, 2013.&lt;/p&gt;
   </content>
 </entry>
 

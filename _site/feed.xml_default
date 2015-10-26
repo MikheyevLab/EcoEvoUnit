@@ -3,26 +3,26 @@
   <channel>
     <title>Ecology and Evolution Unit</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Sep 2015 09:02:17 +0900</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2015 09:02:17 +0900</lastBuildDate>
+    <link>http://ecoevo.unit.oist.jp/site/site/</link>
+    <atom:link href="http://ecoevo.unit.oist.jp/site/site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Oct 2015 17:55:41 +0900</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2015 17:55:41 +0900</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Our first student defends here PhD thesis!</title>
+        <title>Our first student defends her PhD thesis!</title>
         <description>&lt;p&gt;I met Claire Morandin in 2011 at the &lt;a href=&quot;http://ldl.genomics.org.cn/event/conference.jsp?conId=31&quot;&gt;BGI-hosted Social Insect Genomics Research Conference&lt;/a&gt;, when she was just starting her dissertation. She had great ambitions for her Ph.D. thesis, and I suggested that we collaborate. In the course of four visits to Okinawa, for which Claire got her own funding, the third chapter of her thesis was born, and I became her official co-supervisor. Since that time, Claire has never ceased to amaze me with her intelligence, hard work, and ambition. These were recognized not just by me, but also by her home school, as she received a major departmental prize for her work last year.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/claire_defense/claire-defense-winner.jpg&quot; alt=&quot;&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/claire_defense/claire-defense-winner.jpg&quot; alt=&quot;&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Attending a Finnish Ph.D. defense was a completely unforseen consequence of the BGI meeting. These are ritualized affairs, featuring an external examiner and moderated by a kustos (above and below, center), who makes sure procedure is followed and no fights break out (or so I am told). Claire’s opponent &lt;a href=&quot;http://www.bristol.ac.uk/biology/people/seirian-r-sumner/&quot;&gt;Dr. Seirian Sumner&lt;/a&gt; managed to balance a friendly conversational style with over two hours of challenging questions. The result was more of a conversation between two scientists, but no stone was left unturned. However, we all knew Claire would do splendidly. Congratulations!&lt;/p&gt;
+&lt;p&gt;Attending a Finnish Ph.D. defense was a completely unforseen consequence of the BGI meeting. These are ritualized affairs, featuring an external examiner and moderated by a kustos (above and below, center), who makes sure procedure is followed and no fights break out (or so I am told). Claire’s opponent &lt;a href=&quot;http://www.bristol.ac.uk/biology/people/seirian-r-sumner/&quot;&gt;Dr. Seirian Sumner&lt;/a&gt; managed to balance a friendly conversational style with over two hours of challenging questions. The result was more of a conversation between two scientists, but no stone was left unturned. To quote Seirian, the thesis was a “perfectly formed structure”. We all knew Claire would do splendidly. Congratulations!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/claire_defense/claire-defense-post-defense.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/claire_defense/claire-defense-post-defense.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Sep 2015 00:00:00 +0900</pubDate>
-        <link>/our-first-student-defends-here-phd-thesis/</link>
-        <guid isPermaLink="true">/our-first-student-defends-here-phd-thesis/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/our-first-student-defends-her-phd-thesis/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/our-first-student-defends-her-phd-thesis/</guid>
         
         <category>news</category>
         
@@ -36,8 +36,8 @@
 &lt;p&gt;If you want to give this lab a try in your own class, don’t hesitate to contact me with questions.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Sep 2015 00:00:00 +0900</pubDate>
-        <link>/t5-lab-now-a-peerj-preprint/</link>
-        <guid isPermaLink="true">/t5-lab-now-a-peerj-preprint/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</guid>
         
         <category>news</category>
         
@@ -49,8 +49,8 @@
         <description>&lt;p&gt;Our last spring’s intern Dorothy Immaculate has graduated from university, and received an A+ for the thesis that she did in our lab. Excellnt job Dorothy, and, Carmen, who was the one actually reposible for thesis supervision!&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Aug 2015 00:00:00 +0900</pubDate>
-        <link>/dorothy-gets-a-for-her-thesis/</link>
-        <guid isPermaLink="true">/dorothy-gets-a-for-her-thesis/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</guid>
         
         <category>news</category>
         
@@ -71,17 +71,17 @@
 
 &lt;p&gt;As it happens, we’ve already obtained samples of wild honeybees from Texas and Arizona from before the arrival of &lt;em&gt;Varroa&lt;/em&gt;, and shortly after its arrival. We would like to compare them with the bees that live there now, in the presence of the mites, to try identify which genes may be involved in resistance. So, this means we had to get some bees from near Tucson, a population that has been studies for many decades (we also have a population from Texas, but that’s another story). In the desert, where there are no trees, bees nest in rock crevices and you can sometimes even see the comb sticking out. Thanks to Gerry Loper, who has worked for the USDA bee lab for many decades, and still visits his bee populations, we were able to locate 40 colonies in the course of just a couple of days.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-bees.jpg&quot; alt=&quot;&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Africanized bees are not friendly, and can pursue you for hundreds of meters if you get them really mad, so a bee suit is necessary for this sort of work, though it gets a bit hot in the Arizona desert sun (temperatures in the high 30s). We had to start our days at 6am, at sunrise.&lt;/p&gt;
 
 &lt;p&gt;This was a great trip, and I am really grateful to Gloria Degrandi-Hoffman and USDA Carl Hayden Bee Research Center for hooking me up with a field vehicle and two excellent techs, as well as for giving me a opportunity to give a talk about my research.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 00:00:00 +0900</pubDate>
-        <link>/collecting-bees-in-arizona/</link>
-        <guid isPermaLink="true">/collecting-bees-in-arizona/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</guid>
         
         <category>news</category>
         
@@ -95,8 +95,8 @@
 &lt;p&gt;You can read this paper online for free in &lt;a href=&quot;http://www.mdpi.com/2072-6651/7/6/2272/html&quot;&gt;&lt;em&gt;Toxins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jun 2015 00:00:00 +0900</pubDate>
-        <link>/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
-        <guid isPermaLink="true">/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
         
         <category>news</category>
         
@@ -110,8 +110,8 @@
 &lt;p&gt;You can read the OIST press release &lt;a href=&quot;https://www.oist.jp/news-center/news/2015/4/16/evolution-puts-checks-virgin-births&quot;&gt;here&lt;/a&gt;, and find the actual paper on the &lt;a href=&quot;http://link.springer.com/article/10.1007%2Fs00114-015-1265-8&quot;&gt;Science of Nature web site&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Apr 2015 00:00:00 +0900</pubDate>
-        <link>/press%20release/publication/evolutionary-constraints/</link>
-        <guid isPermaLink="true">/press%20release/publication/evolutionary-constraints/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</guid>
         
         <category>ants</category>
         
@@ -127,8 +127,8 @@
         <description>&lt;p&gt;Ant worker traits are remarkable in that they evolve despite the fact that the workers themselves do not reproduce. As a part of our ongong collaboration with the &lt;a href=&quot;http://sites.sas.upenn.edu/linksvayer-lab&quot;&gt;Linksvayer Lab&lt;/a&gt;, in a &lt;a href=&quot;http://elifesciences.org/content/4/e04775?_ga=1.25883067.769126097.1432248984&quot;&gt;recently published paper in eLife&lt;/a&gt; we showed that the evolution of genes involved in social behavior is constrained by the effects of gene co-expression networks. You can listen to a podcast where Tim Linksvayer describes this work &lt;a href=&quot;http://elifesciences.org/podcast/episode18&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 00:00:00 +0900</pubDate>
-        <link>/ants/evolution-of-division-of-labor/</link>
-        <guid isPermaLink="true">/ants/evolution-of-division-of-labor/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</guid>
         
         <category>press release</category>
         
@@ -150,8 +150,8 @@
 
 </description>
         <pubDate>Thu, 23 Oct 2014 19:42:49 +0900</pubDate>
-        <link>/gspe-genomics-of-social-parasite-evolution-workshop/</link>
-        <guid isPermaLink="true">/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
         
         <category>Lab news</category>
         
@@ -166,8 +166,8 @@
 
 </description>
         <pubDate>Mon, 01 Sep 2014 19:42:49 +0900</pubDate>
-        <link>/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
-        <guid isPermaLink="true">/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
         
         <category>Lab news</category>
         
@@ -180,8 +180,8 @@
 
 </description>
         <pubDate>Wed, 27 Aug 2014 19:42:49 +0900</pubDate>
-        <link>/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
-        <guid isPermaLink="true">/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
+        <link>http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
         
         <category>Lab news</category>
         
