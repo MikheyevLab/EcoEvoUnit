@@ -1,3 +1,11 @@
+---
+layout: page
+title: Papers of the Ecology and Evolution Unit
+tags: [about, Jekyll, theme, responsive]
+comments: true
+image:
+  feature: oist2.jpg
+---
 
 
 # Publications
