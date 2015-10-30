@@ -58,7 +58,6 @@ img {
 }
 </style>
 
-# Publications
 
 * M.O. Miyakawa and A.S. Mikheyev, QTL mapping of sex determination loci supports an ancient pathway in ants and honey bees. PLoS Genetics, *in press*
 
