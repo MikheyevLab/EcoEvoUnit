@@ -14,7 +14,7 @@
   {"name" : "Claire", "latitude": 43.604652, "longitude":1.444209, "photo": "img/claire.jpg"},
   {"name" : "Jatin", "latitude": 30.396192, "longitude":76.751377, "photo": "img/jatin.jpg"},
   {"name" : "Shikha", "latitude": 30, "longitude":78, "photo": "img/shikha.jpg"},
-  {"name" : "Rob","latitude": 42.0667, "longitude":71.3286,"photo":"img/Rob.jpg"},
-  {"name" : "Michael","latitude": 32.7167, "longitude":151.5500,"photo":"img/Michael.jpg"},
+  {"name" : "Rob","latitude": 42.0664746, "longitude":-71.330745,"photo":"img/Rob.jpg"},
+  {"name" : "Michael","latitude": -32.717948, "longitude":151.5496143,"photo":"img/Michael.jpg"},
   {"name" : "Lauren","latitude": 39.4093021, "longitude":-80.5254794,"photo":"img/Lauren.jpg"}
  ]
