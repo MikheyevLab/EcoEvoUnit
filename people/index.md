@@ -51,11 +51,17 @@ Konnichiwa! I'm a lab technician in the Mikheyev Unit which is under the Ecology
 I have a long-time interest in molecular biology and genetics. Before joining the lab, I spent 5 years working on molecular genetics of castor bean. Now I am working as a research technician on ancient DNA, including ancient DNA extraction, sequencing and so on. So I have the chance to work with different precious samples such as museum samples; it is work requiring special care. In the meantime, I also help Misato with a project on the reproductive system of the ant *Vollenhovia emeryi*, which is really a new world for me. As a Chinese person, I enjoy the peaceful life and beautiful landscape here.
 <!-- 30.77 N 120.75E  -->
 
-<br><br>
-
 ### Michael Holmes, postdoc
+![Michael]({{ site.url }}/people/img_full/Michael.jpg ){: .profile-image }
+Primarily, I am a behavioural ecologist with interests in the evolution of social behaviour. Recently, I completed my PhD at the University of Sydney, Australia, where I studied reproductive conflict in honeybees. Honeybee workers are incapable of mating, but can reproduce asexually at a cost to the colony. My major interest was understanding these multiple levels of selection - how selfish individuals within a honeybee colony can exist despite being detrimental to the collective, and how this conflict is resolved. I worked on this in various honeybee species in South Africa, Thailand and China, as well as in Australia. Here in the Mikheyev unit, I will continue to work on honeybees, but this time aiming to understand the genetic basis of the suite of complex behavioural traits that exist within honeybee societies. I can’t imagine a better place to carry out my first postdoc! In my spare time, I enjoy traveling, reading, spending time with friends and hopefully making new ones! 
 
 ### Lauren Dembek
+![Lauren]({{ site.url }}/people/img_full/Lauren.jpg ){: .profile-image }
+I am fascinated by the immense diversity and peculiarity of life on Earth. In order to understand how complex traits evolve, potentially resulting in richer biodiversity, we must identify the genetic variants that underlie variation in those traits. I am currently studying behavioral and genetic variation in the honey bee. In addition to my research, I am a writer for the Association for Women in Science and a member of the Genetics Society of America's Mentoring and Professional Development Committee.
+   During my Ph.D., I researched the genetic architecture of natural variation in body pigmentation and cuticular hydrocarbon composition in the Drosophila melanogaster Genetic Reference Panel with Prof. Trudy Mackay at North Carolina State University and W. M. Keck Center for Behavioral Biology. I also studied mimicry, mate choice, and the speciation continuum in Heliconius butterflies with Dr. W. Owen McMillan at the Smithsonian Tropical Research Institute in Panama. I graduated with a B.S. in Biology and B.A. in Foreign Languages from West Virginia University. While there, I worked with Dr. David A. Ray using accumulated genetic variation in retrotransposons to reconstruct the phylogenetic relationships of crocodiles, alligators, and gharials. I was fortunate to continue this research as a McNair Scholar through the Ronald E. McNair Post-Baccalaureate Achievement Program at WVU.
+   Natively, I come from Wallace, WV. During my youth, I trained to be a skilled outdoorswoman, fishing, catching crawdads and salamanders, climbing trees, shooting inanimate objects, driving vehicles through large mud holes, and rescuing kittens. These days, I enjoy exploring nature and meeting new organisms, yoga, knitting, photography, and cuddling with my feline companions Dennis and Merriam.
+
+<br><br>
 
 ## Ph.D. Students
 
@@ -68,6 +74,12 @@ Being a special research student, I have had a really unique opportunity to comp
 I am a PhD student at the Centre of Excellence in Biological interactions at Helsinki University, co-supervized by Dr Mikheyev. For my PhD thesis, I study the evolution and maintenance of female castes (queen and worker) in ants, focusing on the evolution of caste-biased gene expression. In particular, I work on comparative transcriptomics to investigate the transcriptional architecture associated with reproductive division of labor in ants, and how it correlates with parallel evolution of other complex phenotypic traits. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. In September 2015, I will defend my thesis and start a Postdoc at Helsinki University in collaboration with the Mikheyev lab to carry on our work on the evolution of co-expressed networks in ants. I have had the chance to visit OIST and beautiful Okinawa four times already, and I absolutely love it, I always come back!
 
 <!-- ## Interns -->
+
+## Rotation students
+
+### Rob Campbell
+![Rob]({{ site.url }}/people/img_full/Rob.jpg ){: .profile-image }
+I completed my undergraduate studies at Skidmore College (United States), earning a dual degree in physics and international affairs. I then spent several years working in communications and international sustainable development before returning to the research world and arriving here at OIST for my PhD. I came to OIST for the chance to integrate my interest in micro and nano-scale physics with my childhood passion for ecology, which was what propelled me into science in the first place, and I’m thrilled to spend my first rotation in the EcoEvo Lab. My project is focused on the parasitoid phorid fly genus Pseudacteon, using x-ray microtomography (micro-CT) to visualize different stages of Pseudacteon obtusus’ development inside their fire ant hosts. In my free time I’m all about food, foreign language, and the ocean, and I love taking advantage of all three here in Okinawa!
 
 <br>
 

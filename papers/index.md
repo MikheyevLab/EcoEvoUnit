@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers of the Ecology and Evolution Unit
+title: Publications
 tags: [about, Jekyll, theme, responsive]
 comments: true
 image:
