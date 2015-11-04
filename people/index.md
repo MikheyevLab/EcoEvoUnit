@@ -51,7 +51,9 @@ Primarily, I am a behavioural ecologist with interests in the evolution of socia
 ### Lauren Dembek, postdoc
 ![Lauren]({{ site.url }}/people/img_full/Lauren.jpg ){: .profile-image }
 I am fascinated by the immense diversity and peculiarity of life on Earth. In order to understand how complex traits evolve, potentially resulting in richer biodiversity, we must identify the genetic variants that underlie variation in those traits. I am currently studying behavioral and genetic variation in the honey bee. In addition to my research, I am a writer for the Association for Women in Science and a member of the Genetics Society of America's Mentoring and Professional Development Committee.
+
    During my Ph.D., I researched the genetic architecture of natural variation in body pigmentation and cuticular hydrocarbon composition in the Drosophila melanogaster Genetic Reference Panel with Prof. Trudy Mackay at North Carolina State University and W. M. Keck Center for Behavioral Biology. I also studied mimicry, mate choice, and the speciation continuum in Heliconius butterflies with Dr. W. Owen McMillan at the Smithsonian Tropical Research Institute in Panama. I graduated with a B.S. in Biology and B.A. in Foreign Languages from West Virginia University. While there, I worked with Dr. David A. Ray using accumulated genetic variation in retrotransposons to reconstruct the phylogenetic relationships of crocodiles, alligators, and gharials. I was fortunate to continue this research as a McNair Scholar through the Ronald E. McNair Post-Baccalaureate Achievement Program at WVU.
+
    Natively, I come from Wallace, WV. During my youth, I trained to be a skilled outdoorswoman, fishing, catching crawdads and salamanders, climbing trees, shooting inanimate objects, driving vehicles through large mud holes, and rescuing kittens. These days, I enjoy exploring nature and meeting new organisms, yoga, knitting, photography, and cuddling with my feline companions Dennis and Merriam.
 
 ## Kasia, postdoc
@@ -69,7 +71,9 @@ I am a Postdoc at the Centre of Excellence in Biological interactions at Helsink
 
 ### Carmen Emborski, special student
 ![Carmen]({{ site.url }}/people/img_full/Carmen.jpg ){: .profile-image }
-Being a special research student, I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
+Being a special research student, I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. 
+
+While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
 <!-- ## Interns -->
 
@@ -83,7 +87,7 @@ I completed my undergraduate studies at Skidmore College (United States), earnin
 
 ## Alumni
 
-### Mandy Tin, [research technician] 2012-2015 (http://sotak.info/sci.jpg)
+### Mandy Tin, [research technician](http://sotak.info/sci.jpg) 2012-2015
 ![Mandy]({{ site.url }}/people/img_full/chuck.jpg ){: .profile-image }
 I mainly work on projects involve research and development of innovative ways to retrieve valuable genomic information from archival museum specimens while preserving their morphology for taxonomic purpose. Our very first version of library preparation method has been published recently. The method is under active development, and we are extending the technology to ancient human DNA research. Lab automation is a big part of my interest as well. We have successfully automated some of the routine library preparation procedures. Robots allow us to increase throughput with high reproducibility. I also deal with general molecular work in the lab. As I have seen a lot of degraded DNA, now I am always amazed when I see good quality RNA and DNA.
 
