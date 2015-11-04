@@ -60,7 +60,7 @@ I am fascinated by the immense diversity and peculiarity of life on Earth. In or
 
 ## Collaborators
 
-## Kasia, postdoc at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
+### Kasia, postdoc at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
 ![Kasia]({{ site.url }}/people/img_full/Kasia.jpg ){: .profile-image }
 I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
 
