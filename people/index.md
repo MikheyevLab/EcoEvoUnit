@@ -79,6 +79,8 @@ Being a special research student, I have had a really unique opportunity to comp
 
 While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
+<br><br>
+
 <!-- ## Interns -->
 
 ## Rotation students
@@ -135,6 +137,8 @@ I am from Delhi, the capital city of India. Born and brought up in the second mo
 ### Jigyasa Arora, intern spring 2015
 ![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
 I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball.
+
+<br><br>
 
 ### Dorothy J. Immaculate, intern, spring 2015
 ![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
