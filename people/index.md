@@ -136,12 +136,10 @@ I am from Delhi, the capital city of India. Born and brought up in the second mo
 ![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
 I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball.
 
-<br><br>
-
 ### Dorothy J. Immaculate, intern, spring 2015
 ![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
 The Biological questions that I am interested in lie broadly in Evolution. Tracing the signatures of an organism’s adaptation to changing environmental conditions is an exciting research to undertake. I am currently enrolled in Bachelor of Technology, Genetic Engineering at SRM University, India. I am taking the Research Internship opportunity here at OIST to complete my undergraduate thesis. I love my stay here at the Mikheyev Unit. The work environment is great with plenty of resources and encouraging lab mates. My work involves the study of transgenerational epigenetic inheritance of metabolism in the model organism *Drosophila melanogaster*. This study aims to understand how prenatal nutritional environment affects the metabolism of an organism and if it can be epigenetically inherited and sustained through generations. Significant benefits can be obtained from this study if translated to the human model. Apart from my interest in Biology, I am an avid reader and enjoy travelling.
-<br><br>
+
 ### Carolina Diaz, postdoc, 2014-2015
 ![Carolina]({{ site.url }}/people/img_full/Carolina.jpg ){: .profile-image }
 I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
