@@ -29,13 +29,6 @@ The Ecology and Evolution research group is part of the <a href="http://www.oist
 ![Sasha]({{ site.url }}/people/img_full/sasha.jpg ){: .profile-image }
 I have broad interests in evolutionary biology, focusing mainly on leveraging the power of next-generation tools for answering long-standing basic questions. As a result, I like to explore new techniques, be they laboratory, computational, or involving new sequencing technologies. Although I started my career in the laboratory and in the field, presently I am more of a bioinformatician. Over the past couple of years, I became increasingly interested in applying short-read sequencing to degraded DNA, such as that found in museum, archaeological or other poorly preserved specimens. Having developed a range of tools for high-throughput processing of degraded insects, are harnessing these tools for projects ranging from ecosystem phylogenetics and phylogeography, to studying evolutionary processes using museum samples. Additionally, I maintain an interest in social insect systems, which I worked on during my graduate studies, and also nurture a more recently acquired research program using snake venoms to understand adaptation. In my spare time, I enjoy long runs, and playing the violin.
 
-### Mandy Tin, [research technician](http://sotak.info/sci.jpg)
-
-![Mandy]({{ site.url }}/people/img_full/chuck.jpg ){: .profile-image }
-I mainly work on projects involve research and development of innovative ways to retrieve valuable genomic information from archival museum specimens while preserving their morphology for taxonomic purpose. Our very first version of library preparation method has been published recently. The method is under active development, and we are extending the technology to ancient human DNA research. Lab automation is a big part of my interest as well. We have successfully automated some of the routine library preparation procedures. Robots allow us to increase throughput with high reproducibility. I also deal with general molecular work in the lab. As I have seen a lot of degraded DNA, now I am always amazed when I see good quality RNA and DNA.
-
-I started working on non-model organisms in this lab and have learnt a lot of fascinating stories about them. For example, *Wasmannia auropunctata*, the little fire ant, has clonal reproductive system for queens and males but sexual reproduction for workers. Some ant species have evolved strategies to exploit resources of other ant species without being discovered (social parasitism). I hope you find evolution interesting too!
-
 ### Miquel Grau-Lopez, research technician
 ![Miquel]({{ site.url }}/people/img_full/Miquel.png ){: .profile-image }
 I obtained my degree in Computer Systems Engineering from the Universitat Jaume I at Castello (Spain) where I developed, for my final degree project, a web application for the main hospital. After that, I worked for several years designing tools to facilitate researchers' work related with photovoltaic and optoelectronic devices for Physics Department at the University. I arrived to Ecology and Evolution Unit on 2013 where I am working with several projects, testing apps and building pipeline tools. My interest in this field grows up as I read and learn more. We have focused in the genome study of several species like ants, birds or snakes and it is very exciting.  
@@ -55,23 +48,28 @@ I have a long-time interest in molecular biology and genetics. Before joining th
 ![Michael]({{ site.url }}/people/img_full/Michael.jpg ){: .profile-image }
 Primarily, I am a behavioural ecologist with interests in the evolution of social behaviour. Recently, I completed my PhD at the University of Sydney, Australia, where I studied reproductive conflict in honeybees. Honeybee workers are incapable of mating, but can reproduce asexually at a cost to the colony. My major interest was understanding these multiple levels of selection - how selfish individuals within a honeybee colony can exist despite being detrimental to the collective, and how this conflict is resolved. I worked on this in various honeybee species in South Africa, Thailand and China, as well as in Australia. Here in the Mikheyev unit, I will continue to work on honeybees, but this time aiming to understand the genetic basis of the suite of complex behavioural traits that exist within honeybee societies. I can’t imagine a better place to carry out my first postdoc! In my spare time, I enjoy traveling, reading, spending time with friends and hopefully making new ones! 
 
-### Lauren Dembek
+### Lauren Dembek, postdoc
 ![Lauren]({{ site.url }}/people/img_full/Lauren.jpg ){: .profile-image }
 I am fascinated by the immense diversity and peculiarity of life on Earth. In order to understand how complex traits evolve, potentially resulting in richer biodiversity, we must identify the genetic variants that underlie variation in those traits. I am currently studying behavioral and genetic variation in the honey bee. In addition to my research, I am a writer for the Association for Women in Science and a member of the Genetics Society of America's Mentoring and Professional Development Committee.
    During my Ph.D., I researched the genetic architecture of natural variation in body pigmentation and cuticular hydrocarbon composition in the Drosophila melanogaster Genetic Reference Panel with Prof. Trudy Mackay at North Carolina State University and W. M. Keck Center for Behavioral Biology. I also studied mimicry, mate choice, and the speciation continuum in Heliconius butterflies with Dr. W. Owen McMillan at the Smithsonian Tropical Research Institute in Panama. I graduated with a B.S. in Biology and B.A. in Foreign Languages from West Virginia University. While there, I worked with Dr. David A. Ray using accumulated genetic variation in retrotransposons to reconstruct the phylogenetic relationships of crocodiles, alligators, and gharials. I was fortunate to continue this research as a McNair Scholar through the Ronald E. McNair Post-Baccalaureate Achievement Program at WVU.
    Natively, I come from Wallace, WV. During my youth, I trained to be a skilled outdoorswoman, fishing, catching crawdads and salamanders, climbing trees, shooting inanimate objects, driving vehicles through large mud holes, and rescuing kittens. These days, I enjoy exploring nature and meeting new organisms, yoga, knitting, photography, and cuddling with my feline companions Dennis and Merriam.
 
+## Kasia, postdoc
+![Kasia]({{ site.url }}/people/img_full/Kasia.jpg ){: .profile-image }
+I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
+
+### Claire Morandin, external postdoc
+![Claire]({{ site.url }}/people/img_full/claire.jpg ){: .profile-image }
+I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
+
 <br><br>
+
 
 ## Ph.D. Students
 
 ### Carmen Emborski, special student
 ![Carmen]({{ site.url }}/people/img_full/Carmen.jpg ){: .profile-image }
 Being a special research student, I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
-
-### Claire Morandin, external student
-![Claire]({{ site.url }}/people/img_full/claire.jpg ){: .profile-image }
-I am a PhD student at the Centre of Excellence in Biological interactions at Helsinki University, co-supervized by Dr Mikheyev. For my PhD thesis, I study the evolution and maintenance of female castes (queen and worker) in ants, focusing on the evolution of caste-biased gene expression. In particular, I work on comparative transcriptomics to investigate the transcriptional architecture associated with reproductive division of labor in ants, and how it correlates with parallel evolution of other complex phenotypic traits. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. In September 2015, I will defend my thesis and start a Postdoc at Helsinki University in collaboration with the Mikheyev lab to carry on our work on the evolution of co-expressed networks in ants. I have had the chance to visit OIST and beautiful Okinawa four times already, and I absolutely love it, I always come back!
 
 <!-- ## Interns -->
 
@@ -84,6 +82,12 @@ I completed my undergraduate studies at Skidmore College (United States), earnin
 <br>
 
 ## Alumni
+
+### Mandy Tin, [research technician] 2012-2015 (http://sotak.info/sci.jpg)
+![Mandy]({{ site.url }}/people/img_full/chuck.jpg ){: .profile-image }
+I mainly work on projects involve research and development of innovative ways to retrieve valuable genomic information from archival museum specimens while preserving their morphology for taxonomic purpose. Our very first version of library preparation method has been published recently. The method is under active development, and we are extending the technology to ancient human DNA research. Lab automation is a big part of my interest as well. We have successfully automated some of the routine library preparation procedures. Robots allow us to increase throughput with high reproducibility. I also deal with general molecular work in the lab. As I have seen a lot of degraded DNA, now I am always amazed when I see good quality RNA and DNA.
+
+I started working on non-model organisms in this lab and have learnt a lot of fascinating stories about them. For example, *Wasmannia auropunctata*, the little fire ant, has clonal reproductive system for queens and males but sexual reproduction for workers. Some ant species have evolved strategies to exploit resources of other ant species without being discovered (social parasitism). I hope you find evolution interesting too!
 
 ### Misato Okamoto Miyakawa, postdoc 2012-2014
 ![Misato]({{ site.url }}/people/img_full/Misato.png ){: .profile-image }
@@ -102,7 +106,6 @@ I’m really happy to work at OIST for my first postdoc, particularly because of
 <br><br>
 
 ### Yafei Mao, rotation student, fall 2014
-
 ![Yafei]({{ site.url }}/people/img_full/Yafei.jpg ){: .profile-image }
 I am a first year PhD student at OIST and choose the Ecology and Evolution Unit for my first rotation. In my rotation project, I am working on estimating the effective population size for ant fauna in Cocos Island using temporal samples collected at different times. I graduated form Nanjing University in Life sciences. I have some experience on molecular biology and protein purification, but I want to come into contact with different areas of life sciences, especially for ecology and evolution. In my spare time, I enjoy swimming and traveling.
 <!-- Latitude 32.060255 | Longitude : 118.796877 -->
