@@ -56,11 +56,15 @@ I am fascinated by the immense diversity and peculiarity of life on Earth. In or
 
    Natively, I come from Wallace, WV. During my youth, I trained to be a skilled outdoorswoman, fishing, catching crawdads and salamanders, climbing trees, shooting inanimate objects, driving vehicles through large mud holes, and rescuing kittens. These days, I enjoy exploring nature and meeting new organisms, yoga, knitting, photography, and cuddling with my feline companions Dennis and Merriam.
 
-## Kasia, postdoc
+<br><br>
+
+## Collaborators
+
+## Kasia, postdoc at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
 ![Kasia]({{ site.url }}/people/img_full/Kasia.jpg ){: .profile-image }
 I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
 
-### Claire Morandin, external postdoc
+### Claire Morandin, postdoc at the [University of Helsinki, Centre of Excellence in Biological Interactions](http://www.helsinki.fi/science/ants/Antzz.html)
 ![Claire]({{ site.url }}/people/img_full/claire.jpg ){: .profile-image }
 I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
 
