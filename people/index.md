@@ -48,13 +48,7 @@ I have a long-time interest in molecular biology and genetics. Before joining th
 ![Michael]({{ site.url }}/people/img_full/Michael.jpg ){: .profile-image }
 Primarily, I am a behavioural ecologist with interests in the evolution of social behaviour. Recently, I completed my PhD at the University of Sydney, Australia, where I studied reproductive conflict in honeybees. Honeybee workers are incapable of mating, but can reproduce asexually at a cost to the colony. My major interest was understanding these multiple levels of selection - how selfish individuals within a honeybee colony can exist despite being detrimental to the collective, and how this conflict is resolved. I worked on this in various honeybee species in South Africa, Thailand and China, as well as in Australia. Here in the Mikheyev unit, I will continue to work on honeybees, but this time aiming to understand the genetic basis of the suite of complex behavioural traits that exist within honeybee societies. I can’t imagine a better place to carry out my first postdoc! In my spare time, I enjoy traveling, reading, spending time with friends and hopefully making new ones! 
 
-### Lauren Dembek, postdoc
-![Lauren]({{ site.url }}/people/img_full/Lauren.jpg ){: .profile-image }
-I am fascinated by the immense diversity and peculiarity of life on Earth. In order to understand how complex traits evolve, potentially resulting in richer biodiversity, we must identify the genetic variants that underlie variation in those traits. I am currently studying behavioral and genetic variation in the honey bee. In addition to my research, I am a writer for the Association for Women in Science and a member of the Genetics Society of America's Mentoring and Professional Development Committee.
 
-   During my Ph.D., I researched the genetic architecture of natural variation in body pigmentation and cuticular hydrocarbon composition in the Drosophila melanogaster Genetic Reference Panel with Prof. Trudy Mackay at North Carolina State University and W. M. Keck Center for Behavioral Biology. I also studied mimicry, mate choice, and the speciation continuum in Heliconius butterflies with Dr. W. Owen McMillan at the Smithsonian Tropical Research Institute in Panama. I graduated with a B.S. in Biology and B.A. in Foreign Languages from West Virginia University. While there, I worked with Dr. David A. Ray using accumulated genetic variation in retrotransposons to reconstruct the phylogenetic relationships of crocodiles, alligators, and gharials. I was fortunate to continue this research as a McNair Scholar through the Ronald E. McNair Post-Baccalaureate Achievement Program at WVU.
-
-   Natively, I come from Wallace, WV. During my youth, I trained to be a skilled outdoorswoman, fishing, catching crawdads and salamanders, climbing trees, shooting inanimate objects, driving vehicles through large mud holes, and rescuing kittens. These days, I enjoy exploring nature and meeting new organisms, yoga, knitting, photography, and cuddling with my feline companions Dennis and Merriam.
 
 <br><br>
 
@@ -93,11 +87,26 @@ I completed my undergraduate studies at Skidmore College (United States), earnin
 
 ## Alumni
 
+### Lauren Dembek, postdoc, 2014-2015
+![Lauren]({{ site.url }}/people/img_full/Lauren.jpg ){: .profile-image }
+I am fascinated by the immense diversity and peculiarity of life on Earth. In order to understand how complex traits evolve, potentially resulting in richer biodiversity, we must identify the genetic variants that underlie variation in those traits. I am currently studying behavioral and genetic variation in the honey bee. In addition to my research, I am a writer for the Association for Women in Science and a member of the Genetics Society of America's Mentoring and Professional Development Committee.
+
+   During my Ph.D., I researched the genetic architecture of natural variation in body pigmentation and cuticular hydrocarbon composition in the Drosophila melanogaster Genetic Reference Panel with Prof. Trudy Mackay at North Carolina State University and W. M. Keck Center for Behavioral Biology. I also studied mimicry, mate choice, and the speciation continuum in Heliconius butterflies with Dr. W. Owen McMillan at the Smithsonian Tropical Research Institute in Panama. I graduated with a B.S. in Biology and B.A. in Foreign Languages from West Virginia University. While there, I worked with Dr. David A. Ray using accumulated genetic variation in retrotransposons to reconstruct the phylogenetic relationships of crocodiles, alligators, and gharials. I was fortunate to continue this research as a McNair Scholar through the Ronald E. McNair Post-Baccalaureate Achievement Program at WVU.
+
+   Natively, I come from Wallace, WV. During my youth, I trained to be a skilled outdoorswoman, fishing, catching crawdads and salamanders, climbing trees, shooting inanimate objects, driving vehicles through large mud holes, and rescuing kittens. These days, I enjoy exploring nature and meeting new organisms, yoga, knitting, photography, and cuddling with my feline companions Dennis and Merriam.
+
 ### Mandy Tin, [research technician](http://sotak.info/sci.jpg) 2012-2015
 ![Mandy]({{ site.url }}/people/img_full/chuck.jpg ){: .profile-image }
 I mainly work on projects involve research and development of innovative ways to retrieve valuable genomic information from archival museum specimens while preserving their morphology for taxonomic purpose. Our very first version of library preparation method has been published recently. The method is under active development, and we are extending the technology to ancient human DNA research. Lab automation is a big part of my interest as well. We have successfully automated some of the routine library preparation procedures. Robots allow us to increase throughput with high reproducibility. I also deal with general molecular work in the lab. As I have seen a lot of degraded DNA, now I am always amazed when I see good quality RNA and DNA.
 
 I started working on non-model organisms in this lab and have learnt a lot of fascinating stories about them. For example, *Wasmannia auropunctata*, the little fire ant, has clonal reproductive system for queens and males but sexual reproduction for workers. Some ant species have evolved strategies to exploit resources of other ant species without being discovered (social parasitism). I hope you find evolution interesting too!
+
+### Carolina Diaz, postdoc, 2014-2015
+![Carolina]({{ site.url }}/people/img_full/Carolina.jpg ){: .profile-image }
+I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
+I worked on the molecular origins of life using bottleneck population sizes of ribozymes evolved continuously to test the effect of the accumulation of mutations in the survival of the populations, and the potential routes that they can explore to escape extinction. I also worked on a project to measure the effect of mutations recently acquired depending on their interactions with other genes, epistasis, using natural isolates of *E. coli*.
+During my career I have had several teaching and mentoring opportunities, including teaching science classes for fourth, fifth and sixth graders in Colombia, planning and doing science projects, teaching general chemistry laboratory for first and second year college students. I have also volunteered mentoring science projects at a charter school in Houston.
+In addition to my career in science, I have painted in fabric with acrylics, gouache, oils, and on paper with water colors, black color, pastels, and ink.
 
 ### Misato Okamoto Miyakawa, postdoc 2012-2014
 ![Misato]({{ site.url }}/people/img_full/Misato.png ){: .profile-image }
@@ -144,10 +153,5 @@ I am from New Delhi, India. I am a research intern in The Ecology and Evolution 
 ![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
 The Biological questions that I am interested in lie broadly in Evolution. Tracing the signatures of an organism’s adaptation to changing environmental conditions is an exciting research to undertake. I am currently enrolled in Bachelor of Technology, Genetic Engineering at SRM University, India. I am taking the Research Internship opportunity here at OIST to complete my undergraduate thesis. I love my stay here at the Mikheyev Unit. The work environment is great with plenty of resources and encouraging lab mates. My work involves the study of transgenerational epigenetic inheritance of metabolism in the model organism *Drosophila melanogaster*. This study aims to understand how prenatal nutritional environment affects the metabolism of an organism and if it can be epigenetically inherited and sustained through generations. Significant benefits can be obtained from this study if translated to the human model. Apart from my interest in Biology, I am an avid reader and enjoy travelling.
 
-### Carolina Diaz, postdoc, 2014-2015
-![Carolina]({{ site.url }}/people/img_full/Carolina.jpg ){: .profile-image }
-I am a researcher in molecular evolution, my research interests has revolved around the role of mutations as a source of phenotypic diversity or genetic deterioration.
-I worked on the molecular origins of life using bottleneck population sizes of ribozymes evolved continuously to test the effect of the accumulation of mutations in the survival of the populations, and the potential routes that they can explore to escape extinction. I also worked on a project to measure the effect of mutations recently acquired depending on their interactions with other genes, epistasis, using natural isolates of *E. coli*.
-During my career I have had several teaching and mentoring opportunities, including teaching science classes for fourth, fifth and sixth graders in Colombia, planning and doing science projects, teaching general chemistry laboratory for first and second year college students. I have also volunteered mentoring science projects at a charter school in Houston.
-In addition to my career in science, I have painted in fabric with acrylics, gouache, oils, and on paper with water colors, black color, pastels, and ink.
+
 <br>
