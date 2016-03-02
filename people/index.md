@@ -77,6 +77,17 @@ While here in Okinawa, and particularly while here at OIST, I have enjoyed getti
 
 <!-- ## Interns -->
 
+## Research intern
+
+### Marie Uemura
+![Marie]({{ site.url }}/people/img_full/Marie.jpg ){: .profile-image }
+I have interests in ecosystem and ecological interaction. Especially I’m interested in relationship with forest and river ecology. At OIST in this Ecology and Evolution unit, I have researched about phylogenetic tree of insects using genomic data. During my research, I also study about computing method and how to use genetic information. Because I wanted to study about another field from mine, it was a great opportunity to studying about new thing and acquire skills or knowledge.
+I’m junior in Hokkaido University now, and going to start my senior year in this spring. I want to make use of this experience at OIST in my research. Actually, I’m going to research about microorganisms that relates to denitrification and quality of water in rivers. And how they are affected by adjacent forest form, e.g. artificial forest, conifer forest.
+
+I enjoy the relax lifestyle in Okinawa and beautiful scenery of blue ocean. In my free time, I love watching musical show, playing with dogs and traveling.
+
+<br>
+
 ## Rotation students
 
 ### Rob Campbell
