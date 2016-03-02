@@ -1,150 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/our-first-student-defends-her-phd-thesis/</loc>
-    <lastmod>2015-09-16T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</loc>
-    <lastmod>2015-09-10T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</loc>
-    <lastmod>2015-08-25T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</loc>
-    <lastmod>2015-08-20T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</loc>
-    <lastmod>2015-06-12T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</loc>
-    <lastmod>2015-04-17T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</loc>
-    <lastmod>2015-03-02T00:00:00+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</loc>
-    <lastmod>2014-10-23T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</loc>
-    <lastmod>2014-09-01T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</loc>
-    <lastmod>2014-08-27T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/shikha-scores-at-the-top-of-her-class/</loc>
-    <lastmod>2014-08-25T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/museum/</loc>
-    <lastmod>2014-05-22T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</loc>
-    <lastmod>2014-04-26T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/oist-ntu-invasive-ant-symposium/</loc>
-    <lastmod>2014-04-01T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/shikha-visits-mikheyev-unit/</loc>
-    <lastmod>2014-01-10T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/habu-study-press-release-by-oist/</loc>
-    <lastmod>2013-12-10T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/nichole-bennett-visiting-mikheyev-unit/</loc>
-    <lastmod>2013-11-29T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/goodbye-invitrogen-ripoff-product/</loc>
-    <lastmod>2013-11-27T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/quantitative-proteomics-of-snake-venoms-paper-published/</loc>
-    <lastmod>2013-11-14T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/host-associated-genomic-differentiation-paper-recommended-by-f1000/</loc>
-    <lastmod>2013-11-06T19:42:49+09:00</lastmod>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/methods/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/people/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/posts/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/21.gbrowse/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/24.webapollo/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/0.genome-annotation-tutorial/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/11.introduction-to-genetics/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/31.getting-started/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/13.gene-annotation/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/22.blast/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/14.ants/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/32.focal-genes/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/12.genome-sequencing/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/25.file-formats/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/41.homology-assessment/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/tutorial/23.align_sequences/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/theme-setup/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/internal/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/data/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/b02-course-information/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/</loc>
-  </url>
-  <url>
-    <loc>http://ecoevo.unit.oist.jp/site/site/people/map.html</loc>
-    <lastmod>2015-10-26T17:11:22+09:00</lastmod>
-  </url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/were-profiled-in-science/</loc>
+<lastmod>2016-02-18T00:00:00+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/evolution-of-sex-determination-in-ants/</loc>
+<lastmod>2015-11-29T00:00:00+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis/</loc>
+<lastmod>2015-09-16T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint/</loc>
+<lastmod>2015-09-10T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis/</loc>
+<lastmod>2015-08-25T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona/</loc>
+<lastmod>2015-08-20T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</loc>
+<lastmod>2015-06-12T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/press%2520release/publication/evolutionary-constraints/</loc>
+<lastmod>2015-04-17T00:00:00+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor/</loc>
+<lastmod>2015-03-02T00:00:00+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/</loc>
+<lastmod>2014-10-23T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</loc>
+<lastmod>2014-09-01T20:42:49+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</loc>
+<lastmod>2014-08-27T20:42:49+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/shikha-scores-at-the-top-of-her-class/</loc>
+<lastmod>2014-08-25T20:42:49+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/museum/</loc>
+<lastmod>2014-05-22T20:42:49+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/</loc>
+<lastmod>2014-04-26T20:42:49+10:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/oist-ntu-invasive-ant-symposium/</loc>
+<lastmod>2014-04-01T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/shikha-visits-mikheyev-unit/</loc>
+<lastmod>2014-01-10T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/habu-study-press-release-by-oist/</loc>
+<lastmod>2013-12-10T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit/</loc>
+<lastmod>2013-11-29T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/</loc>
+<lastmod>2013-11-27T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published/</loc>
+<lastmod>2013-11-14T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000/</loc>
+<lastmod>2013-11-06T21:42:49+11:00</lastmod>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/12.genome-sequencing/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/internal/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/methods/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/papers/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/people/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/posts/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/theme-setup/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/0.genome-annotation-tutorial/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/11.introduction-to-genetics/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/data/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/b02-course-information/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/14.ants/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/21.gbrowse/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/22.blast/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/23.align_sequences/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/24.webapollo/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/25.file-formats/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/31.getting-started/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/32.focal-genes/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/41.homology-assessment/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/</loc>
+</url>
+<url>
+<loc>http://ecoevo.unit.oist.jp/site/people/map.html</loc>
+<lastmod>2015-06-04T12:51:56+10:00</lastmod>
+</url>
 </urlset>

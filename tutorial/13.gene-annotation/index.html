@@ -9,7 +9,6 @@
 
 <meta name="keywords" content="">
 
-  
 
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="The basics of gene annotation">
@@ -85,38 +84,24 @@
 		    <ul>
 		        
 				    
-				        
-				    
 				    <li><a href="http://ecoevo.unit.oist.jp/site/people/" >People</a></li>
 				
-				    
-				        
 				    
 				    <li><a href="http://ecoevo.unit.oist.jp/site/posts/" >Posts</a></li>
 				
 				    
-				        
-				    
 				    <li><a href="http://ecoevo.unit.oist.jp/site/papers/" >Papers</a></li>
 				
-				    
-				        
 				    
 				    <li><a href="http://ecoevo.unit.oist.jp/site/methods/" >Methods</a></li>
 				
 				    
-				        
-				    
 				    <li><a href="http://ecoevo.unit.oist.jp/site/data/" >Data</a></li>
 				
-				    
-				        
 				    
 				    <li><a href="http://ecoevo.unit.oist.jp/site/tutorial/0.genome-annotation-tutorial/" >Gene annotation tutorial</a></li>
 				
 				    
-				        
-				        
 				    <li><a href="https://groups.oist.jp/evolution" target="_blank">Official web page</a></li>
 				
 		    </ul>
@@ -129,7 +114,6 @@
 <div id="main" role="main">
   <div class="article-author-side">
     
-  
 
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -170,8 +154,8 @@
   </header>
 <div id="drawer">
 <ul id="markdown-toc">
-  <li><a href="#automatic-gene-annotation">Automatic gene annotation</a></li>
-  <li><a href="#manual-gene-annotation">Manual gene annotation</a></li>
+  <li><a href="#automatic-gene-annotation" id="markdown-toc-automatic-gene-annotation">Automatic gene annotation</a></li>
+  <li><a href="#manual-gene-annotation" id="markdown-toc-manual-gene-annotation">Manual gene annotation</a></li>
 </ul>
 
   </div>
@@ -186,13 +170,13 @@
 
 <p>Automatic annotation relies on a variety of software tools and different data sources to create gene annotations. Typically, these tools are combined into programs referred to as pipelines. The process consists of two main phases, the computation phase and the synthesis phase.</p>
 
-<p>The <strong>computation phase</strong> itself can be broken down into the following steps: </p>
+<p>The <strong>computation phase</strong> itself can be broken down into the following steps:</p>
 
 <ul>
   <li>Repeat identification</li>
   <li>Transcript evidence alignment</li>
   <li>Protein evidence alignment</li>
-  <li><em>Ab initio</em> gene prediction </li>
+  <li><em>Ab initio</em> gene prediction</li>
 </ul>
 
 <p>Most genomes of more complex organisms harbor an abundance of repetitive sequence which need to be excluded from subsequent steps. These repeats range from simple cases consisting of a dozen to several hundred repeats of the same 2–6 nucleotide long motif (like TATATATATATATATATATATATATATATATA) to transposable elements, mobile genes or gene fragments of viral origin cluttering their host genomes. Repetitive sequence may comprise up to well over half the total sequence of a genome, and can lead to spurious annotation results if left unchecked. Identifying and excluding (often referred to as “masking”) repeats is therefore the first step during automatic gene annotation and performed by specialized tools like RepeatMasker.</p>
@@ -215,7 +199,7 @@
 
 <p>The first step in reviewing and editing a gene of interest is identifying its <strong>location</strong> in the genome. This can  be accomplished by using <a href="../22.blast">BLAST</a> and a reference gene – usually a curated ortholog from a related organism – as a query, either against the genome assembly, or a set of consensus gene models produced by an automatic gene annotation pipeline.</p>
 
-<p>The genomic region harboring the gene of interest can then be inspected using a genome browser and editor like WebApollo, and the <strong>structure</strong> of the gene can be reviewed, including the <a href="../11.introduction-to-genetics/#Gene structure">following features</a>: </p>
+<p>The genomic region harboring the gene of interest can then be inspected using a genome browser and editor like WebApollo, and the <strong>structure</strong> of the gene can be reviewed, including the <a href="../11.introduction-to-genetics/#Gene structure">following features</a>:</p>
 
 <ul>
   <li><span style="line-height: 13px;">Coding sequence (CDS)</span></li>
@@ -255,13 +239,13 @@
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/index.html" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/index.html" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/index.html" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://ecoevo.unit.oist.jp/site/tutorial/13.gene-annotation/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
@@ -275,7 +259,7 @@
   <footer>
     
 
-<span>&copy; 2015 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+<span>&copy; 2016 Eco Evo Lab. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
 
   </footer>
 </div><!-- /.footer-wrap -->

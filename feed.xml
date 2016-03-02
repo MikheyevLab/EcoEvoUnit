@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://ecoevo.unit.oist.jp/site/feed.xml" />
 <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site" />
-<updated>2015-10-26T17:55:41+09:00</updated>
+<updated>2016-03-02T17:40:09+11:00</updated>
 <id>http://ecoevo.unit.oist.jp/site/</id>
 <author>
   <name>Eco Evo Lab</name>
@@ -13,14 +13,73 @@
 </author>
 
 
-  
+<entry>
+  <title type="html"><![CDATA[We're profiled in Science!]]></title>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/were-profiled-in-science/" />
+  <id>http://ecoevo.unit.oist.jp/site/were-profiled-in-science</id>
+  <published>2016-02-18T00:00:00+11:00</published>
+  <updated>2016-02-18T00:00:00+11:00</updated>
+  <author>
+    <name>Sasha</name>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
+    <email>alexander.mikheyev@oist.jp</email>
+  </author>
+  <content type="html">
+    &lt;table class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;PHOTO: Y. N. Su, Australian National Insect Collection, CSIRO&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.sciencemag.org/sites/default/files/styles/article_main_medium/public/custom-publishing/12-Feb-Genomics-Lead-850-wide.jpg?itok=i0FgCKTx&quot; alt=&quot;PHOTO: Y. N. Su, Australian National Insect Collection, CSIRO&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Our work was highlighted in a recent Technology Feature in &lt;a href=&quot;http://www.sciencemag.org/custom-publishing/technology-features/hard-core-sequencing&quot;&gt;Science&lt;/a&gt; called &lt;em&gt;Hardcore Sequencing&lt;/em&gt;, which focused on working with difficult specimens. I had a great chat with Alan Dove, the feature’s author, about our past and ongoing work, including a collaboration with CSIRO on the population genetics of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dryococelus_australis&quot;&gt;Lord Howe stick insect&lt;/a&gt;, pictured above. It was believed to have gone extinct with the introduction of rats to Lord Howe Island in the early 20th century, but what appears to be a relic population was found on a nearby island. There is now an active conservation program, and a great little animated movie called &lt;a href=&quot;https://vimeo.com/jillirose/wwwvimeocomsticky&quot;&gt;Sticky&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alan also pointed me to another story the mysterious disappearance of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Rocky_Mountain_locust&quot;&gt;Rocky Mountain locus&lt;/a&gt;, which I would love to follow up.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/were-profiled-in-science/&quot;&gt;We&#39;re profiled in Science!&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on February 18, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Evolution of sex determination in ants]]></title>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/evolution-of-sex-determination-in-ants/" />
+  <id>http://ecoevo.unit.oist.jp/site/evolution-of-sex-determination-in-ants</id>
+  <published>2015-11-29T00:00:00+11:00</published>
+  <updated>2015-11-29T00:00:00+11:00</updated>
+  <author>
+    <name>Eco Evo Lab</name>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
+    <email>ecoevo@oist.jp</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;An important limitation in many social insect species is that they can’t be bred in the lab. Many ants are romantics at heart, and require just the right set of conditions to embark on a mating flight. This aspect of their biology makes them difficult subjects for functional genomic studies, since we are generally limited to the study of just two generations – the queen and her offspring. For many genetic studies, such as pedigree-based mapping of phenotypic traits, we need to analyze at least three generations.&lt;/p&gt;
+
+&lt;p&gt;For many years I have sought to find an ant species that could be bred in the lab and had interesting biological features to map. The ant &lt;em&gt;Vollenhovia emeryi&lt;/em&gt; seemed like a good candidate. It has a remarkable reproductive strategy, reproducing in at least three different ways:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://journals.plos.org/plosgenetics/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pgen.1005656.g001&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My former postdoc Misato is an expert at handling these ants and could cross them. Our idea was to map a wide variety of interesting traits, such as genes responsible for caste determination, and the various reproductive strategies. However, to our surprise, families produced by a backcross started to produce sterile diploid males.&lt;/p&gt;
+
+&lt;p&gt;In retrospect this should have made sense. It is generally known that ants, bees and wasps have a reproductive system called “complementary sex determination”, and this is what happens when you inbreed them. How sex is determined in clonal ants such as &lt;em&gt;V. emeryi&lt;/em&gt; has not been known, but it makes sense that they would also use the same system.&lt;/p&gt;
+
+&lt;p&gt;In any case, the backcrossed ants stubbornly refused to produce appreciable numbers of queens and ordinary males, which we wanted to have for our other studies, but we did get plenty of diploid males. So, we pivoted the study to try to understand mechanisms of sex determination in this species, and what they mean for the evolution of sex determination.&lt;/p&gt;
+
+&lt;p&gt;Through a series of elegant studies, the research groups of &lt;a href=&quot;http://www.evolutionsgenetik.hhu.de/en.html&quot;&gt;Martin Beye&lt;/a&gt; and &lt;a href=&quot;http://www.popbee.uni-koeln.de/&quot;&gt;Martin Hasselmann&lt;/a&gt; have determined the specific molecular machinery of sex determination in honey bees, but whether this mechanism is conserved in other species has remained controversial. Our data suggest that &lt;em&gt;V. emeryi&lt;/em&gt; also uses this mechanism, but also another completely separate sex determination pathway. This suggests that the honey bee-type mechanism might be very old (&amp;gt; 100 million years), but there might also other pathways that remain to be discovered. We are currently checking whether these loci are involved in other insects, such as wasps and bumblebees, which would suggest that they are even more ancient.&lt;/p&gt;
+
+&lt;p&gt;Although this was just side-note in the paper, complementary sex determination may be the reason why so many invasive ants are clonal, or have really bizarre reproductive systems that involve clonality to some extent. By their very nature they have to inbreed, and clonality may be a way around that.&lt;/p&gt;
+
+&lt;p&gt;The study was just published in &lt;a href=&quot;http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005656#pgen-1005656-g003&quot;&gt;PLoS Genetics&lt;/a&gt; and Letizia Diamante from OIST’s media section has written up a nice &lt;a href=&quot;http://www.oist.jp/news-center/news/2015/11/25/sex-determination-ants&quot;&gt;summary&lt;/a&gt;. This study was a tremendous amount of work for just two authors to do, but it is one of my favorite ones to date, because of the clean results that we obtained.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/evolution-of-sex-determination-in-ants/&quot;&gt;Evolution of sex determination in ants&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 29, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
 
 <entry>
   <title type="html"><![CDATA[Our first student defends her PhD thesis!]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis/" />
   <id>http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis</id>
-  <published>2015-09-16T00:00:00+09:00</published>
-  <updated>2015-09-16T00:00:00+09:00</updated>
+  <published>2015-09-16T00:00:00+10:00</published>
+  <updated>2015-09-16T00:00:00+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -41,21 +100,19 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[T5 lab now a PeerJ pre-print]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint/" />
   <id>http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint</id>
-  <published>2015-09-10T00:00:00+09:00</published>
-  <updated>2015-09-10T00:00:00+09:00</updated>
+  <published>2015-09-10T00:00:00+10:00</published>
+  <updated>2015-09-10T00:00:00+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
     <email>alexander.mikheyev@oist.jp</email>
   </author>
   <content type="html">
-    &lt;p&gt;Last fall our intern Jigyasa Arora and I developed a teaching module that uses experimental evolution and next-generation sequencing to teach lab skills and bioinformatics. It is based on &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895413&quot;&gt;Paul Hyman’s lab&lt;/a&gt; (Ashland University), which uses the evolution of resistance by the bacterium &lt;em&gt;Escerichia coli&lt;/em&gt; to the T5 bacteriophage to explore tha nature of coevolution and resistance. We modified the lab to include a next-generation sequencing and analysis component, which works spectacularly well. The teaching module and ssociated materials are now available as a &lt;a href=&quot;https://peerj.com/manuscripts/6635/&quot;&gt;PeerJ preprint&lt;/a&gt;. Reviewers  requested that we provide a teaching assessment for this module to pass muster as a peer-reviewed teaching tool, so I hope carry out such an assessment with this fall’s batch of students. &lt;/p&gt;
+    &lt;p&gt;Last fall our intern Jigyasa Arora and I developed a teaching module that uses experimental evolution and next-generation sequencing to teach lab skills and bioinformatics. It is based on &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895413&quot;&gt;Paul Hyman’s lab&lt;/a&gt; (Ashland University), which uses the evolution of resistance by the bacterium &lt;em&gt;Escerichia coli&lt;/em&gt; to the T5 bacteriophage to explore tha nature of coevolution and resistance. We modified the lab to include a next-generation sequencing and analysis component, which works spectacularly well. The teaching module and ssociated materials are now available as a &lt;a href=&quot;https://peerj.com/manuscripts/6635/&quot;&gt;PeerJ preprint&lt;/a&gt;. Reviewers  requested that we provide a teaching assessment for this module to pass muster as a peer-reviewed teaching tool, so I hope carry out such an assessment with this fall’s batch of students.&lt;/p&gt;
 
 &lt;p&gt;If you want to give this lab a try in your own class, don’t hesitate to contact me with questions.&lt;/p&gt;
 
@@ -64,14 +121,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Dorothy gets A+ for her thesis]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis/" />
   <id>http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis</id>
-  <published>2015-08-25T00:00:00+09:00</published>
-  <updated>2015-08-25T00:00:00+09:00</updated>
+  <published>2015-08-25T00:00:00+10:00</published>
+  <updated>2015-08-25T00:00:00+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -85,14 +140,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Collecting bees in Arizona]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona/" />
   <id>http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona</id>
-  <published>2015-08-20T00:00:00+09:00</published>
-  <updated>2015-08-20T00:00:00+09:00</updated>
+  <published>2015-08-20T00:00:00+10:00</published>
+  <updated>2015-08-20T00:00:00+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -124,14 +177,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Don't tread on me: How well do we really understand stingray venom?]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/" />
   <id>http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom</id>
-  <published>2015-06-12T00:00:00+09:00</published>
-  <updated>2015-06-12T00:00:00+09:00</updated>
+  <published>2015-06-12T00:00:00+10:00</published>
+  <updated>2015-06-12T00:00:00+10:00</updated>
   <author>
     <name>Steve Aird</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -147,14 +198,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Males are here to stay!]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints/" />
   <id>http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints</id>
-  <published>2015-04-17T00:00:00+09:00</published>
-  <updated>2015-04-17T00:00:00+09:00</updated>
+  <published>2015-04-17T00:00:00+10:00</published>
+  <updated>2015-04-17T00:00:00+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -170,14 +219,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Evolution of division of labor]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor/" />
   <id>http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor</id>
-  <published>2015-03-02T00:00:00+09:00</published>
-  <updated>2015-03-02T00:00:00+09:00</updated>
+  <published>2015-03-02T00:00:00+11:00</published>
+  <updated>2015-03-02T00:00:00+11:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -191,14 +238,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[GSPE: Genomics of Social Parasite Evolution Workshop]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/" />
   <id>http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop</id>
-  <published>2014-10-23T19:42:49+09:00</published>
-  <updated>2014-10-23T19:42:49+09:00</updated>
+  <published>2014-10-23T21:42:49+11:00</published>
+  <updated>2014-10-23T21:42:49+11:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -218,14 +263,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Snake photography at the Okinawa Prefectural Institute of Health and Environment]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/" />
   <id>http://ecoevo.unit.oist.jp/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment</id>
-  <published>2014-09-01T19:42:49+09:00</published>
-  <updated>2014-09-01T19:42:49+09:00</updated>
+  <published>2014-09-01T20:42:49+10:00</published>
+  <updated>2014-09-01T20:42:49+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -242,14 +285,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[&#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&#8221; paper published!]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/" />
   <id>http://ecoevo.unit.oist.jp/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published</id>
-  <published>2014-08-27T19:42:49+09:00</published>
-  <updated>2014-08-27T19:42:49+09:00</updated>
+  <published>2014-08-27T20:42:49+10:00</published>
+  <updated>2014-08-27T20:42:49+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -264,14 +305,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Shikha scores at the top of her class]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/shikha-scores-at-the-top-of-her-class/" />
   <id>http://ecoevo.unit.oist.jp/site/shikha-scores-at-the-top-of-her-class</id>
-  <published>2014-08-25T19:42:49+09:00</published>
-  <updated>2014-08-25T19:42:49+09:00</updated>
+  <published>2014-08-25T20:42:49+10:00</published>
+  <updated>2014-08-25T20:42:49+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -286,14 +325,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[It belongs in a museum!]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/museum/" />
   <id>http://ecoevo.unit.oist.jp/site/museum</id>
-  <published>2014-05-22T19:42:49+09:00</published>
-  <updated>2014-05-22T19:42:49+09:00</updated>
+  <published>2014-05-22T20:42:49+10:00</published>
+  <updated>2014-05-22T20:42:49+10:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -308,14 +345,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Jatin visits Mikheyev&#8217;s unit as Research Intern]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern/" />
   <id>http://ecoevo.unit.oist.jp/site/lab/news/jatin-visits-mikheyevs-unit-as-research-intern</id>
-  <published>2014-04-26T19:42:49+09:00</published>
-  <updated>2014-04-26T19:42:49+09:00</updated>
+  <published>2014-04-26T20:42:49+10:00</published>
+  <updated>2014-04-26T20:42:49+10:00</updated>
   <author>
     <name>Jatin Aora</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -329,14 +364,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[OIST-NTU Invasive Ant Symposium]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/oist-ntu-invasive-ant-symposium/" />
   <id>http://ecoevo.unit.oist.jp/site/oist-ntu-invasive-ant-symposium</id>
-  <published>2014-04-01T19:42:49+09:00</published>
-  <updated>2014-04-01T19:42:49+09:00</updated>
+  <published>2014-04-01T21:42:49+11:00</published>
+  <updated>2014-04-01T21:42:49+11:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -350,7 +383,7 @@
 
 &lt;p&gt;We were the proud hosts of Dr. Scotty Yang’s research group and his colleagues from Taiwan National University. His research group specializes in studying the patterns of  dispersal in a variety of invasive ant species. We were treated to a wide range of topics, including a few fascinating finding about Wolbachia distributions in invasive ants.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Taiwan talks&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Taiwan talks&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Global invasion history and Wolbachia infection patterns of crazy ant &lt;em&gt;Paratrechina longicornis&lt;/em&gt; I (Dr. Chin-Cheng Yang)&lt;/li&gt;
@@ -359,7 +392,7 @@
   &lt;li&gt;Chemical ecology and seed collecting behaviors of invasive fire ants in Taiwan (Dr. Li-Chuan Lai)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;OIST talks&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OIST talks&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Sex determination in &lt;em&gt;Vollenhovia emeryi&lt;/em&gt; (Dr. Misato Okamoto)&lt;/li&gt;
@@ -371,14 +404,12 @@
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Shikha Visits Mikheyev Unit]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/shikha-visits-mikheyev-unit/" />
   <id>http://ecoevo.unit.oist.jp/site/shikha-visits-mikheyev-unit</id>
-  <published>2014-01-10T19:42:49+09:00</published>
-  <updated>2014-01-10T19:42:49+09:00</updated>
+  <published>2014-01-10T21:42:49+11:00</published>
+  <updated>2014-01-10T21:42:49+11:00</updated>
   <author>
     <name>Shikha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -404,14 +435,12 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Habu study press release by OIST!]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/habu-study-press-release-by-oist/" />
   <id>http://ecoevo.unit.oist.jp/site/habu-study-press-release-by-oist</id>
-  <published>2013-12-10T19:42:49+09:00</published>
-  <updated>2013-12-10T19:42:49+09:00</updated>
+  <published>2013-12-10T21:42:49+11:00</published>
+  <updated>2013-12-10T21:42:49+11:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -425,14 +454,12 @@ I joined Prof. Alexander Mikheyev lab in January 2014 as a research intern. I wi
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Nichole Bennett visiting Mikheyev Unit]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit/" />
   <id>http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit</id>
-  <published>2013-11-29T19:42:49+09:00</published>
-  <updated>2013-11-29T19:42:49+09:00</updated>
+  <published>2013-11-29T21:42:49+11:00</published>
+  <updated>2013-11-29T21:42:49+11:00</updated>
   <author>
     <name>Nichole Bennett</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -463,14 +490,12 @@ In addition to her research interests, Nichole is also involved in science educa
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Goodbye Invitrogen ripoff product]]></title>
   <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/" />
   <id>http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product</id>
-  <published>2013-11-27T19:42:49+09:00</published>
-  <updated>2013-11-27T19:42:49+09:00</updated>
+  <published>2013-11-27T21:42:49+11:00</published>
+  <updated>2013-11-27T21:42:49+11:00</updated>
   <author>
     <name>Sasha</name>
     <uri>http://ecoevo.unit.oist.jp/site</uri>
@@ -485,54 +510,6 @@ In addition to her research interests, Nichole is also involved in science educa
 
 
     &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/&quot;&gt;Goodbye Invitrogen ripoff product&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 27, 2013.&lt;/p&gt;
-  </content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Quantitative proteomics of snake venoms paper published]]></title>
-  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published/" />
-  <id>http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published</id>
-  <published>2013-11-14T19:42:49+09:00</published>
-  <updated>2013-11-14T19:42:49+09:00</updated>
-  <author>
-    <name>Sasha</name>
-    <uri>http://ecoevo.unit.oist.jp/site</uri>
-    <email>alexander.mikheyev@oist.jp</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Thanks to the hard work of Steve, and the help of Alex and Roy in mass spec, we were able to quantitatively measure protein concentrations in the venoms of two local snake species. The paper just went online in &lt;a href=&quot;http://www.biomedcentral.com/1471-2164/14/790/abstract&quot;&gt;BMC Genomics&lt;/a&gt;.&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/quantitative-proteomics-of-snake-venoms-paper-published/&quot;&gt;Quantitative proteomics of snake venoms paper published&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 14, 2013.&lt;/p&gt;
-  </content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Host-associated genomic differentiation paper recommended by F1000]]></title>
-  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000/" />
-  <id>http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000</id>
-  <published>2013-11-06T19:42:49+09:00</published>
-  <updated>2013-11-06T19:42:49+09:00</updated>
-  <author>
-    <name>Sasha</name>
-    <uri>http://ecoevo.unit.oist.jp/site</uri>
-    <email>alexander.mikheyev@oist.jp</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;It was a long, hard road, but our &lt;a href=&quot;http://ecoevo.unit.oist.jp/lab/?attachment_id=1027&quot;&gt;paper&lt;/a&gt; is getting some recognition! F1000′s Dr. Ian Wang &lt;a href=&quot;http://f1000.com/prime/718063447&quot;&gt;writes&lt;/a&gt; that “this finding highlights the importance of considering multiple factors, including dispersal, population sizes, spatial variation in ecologically-important traits, and population histories, for understanding how ecological adaptation contributes to patterns of differentiation throughout the genome.”&lt;/p&gt;
-
-&lt;p&gt;I hope we the next phase of the study, &lt;a href=&quot;https://github.com/mikheyev/euphies&quot;&gt;taking it next-generation&lt;/a&gt; is as successful.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://f1000.com/prime/718063447?bd=1&amp;amp;ui=30390&quot; target=&quot;_blank&quot;&gt;&lt;img id=&quot;bg&quot; alt=&quot;Access the recommendation on F1000Prime&quot; src=&quot;http://cdn.f1000.com.s3.amazonaws.com/images/badges/badgef1000.gif&quot; class=&quot;grouped_elements&quot; rel=&quot;tc-fancybox-group1026&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/host-associated-genomic-differentiation-paper-recommended-by-f1000/&quot;&gt;Host-associated genomic differentiation paper recommended by F1000&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 06, 2013.&lt;/p&gt;
   </content>
 </entry>
 

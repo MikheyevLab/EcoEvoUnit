@@ -3,11 +3,56 @@
   <channel>
     <title>Ecology and Evolution Unit</title>
     <description></description>
-    <link>http://ecoevo.unit.oist.jp/site/site/</link>
-    <atom:link href="http://ecoevo.unit.oist.jp/site/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Oct 2015 17:55:41 +0900</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2015 17:55:41 +0900</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://ecoevo.unit.oist.jp/site/</link>
+    <atom:link href="http://ecoevo.unit.oist.jp/site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Mar 2016 17:40:09 +1100</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 17:40:09 +1100</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>We&#39;re profiled in Science!</title>
+        <description>&lt;table class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;PHOTO: Y. N. Su, Australian National Insect Collection, CSIRO&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://www.sciencemag.org/sites/default/files/styles/article_main_medium/public/custom-publishing/12-Feb-Genomics-Lead-850-wide.jpg?itok=i0FgCKTx&quot; alt=&quot;PHOTO: Y. N. Su, Australian National Insect Collection, CSIRO&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Our work was highlighted in a recent Technology Feature in &lt;a href=&quot;http://www.sciencemag.org/custom-publishing/technology-features/hard-core-sequencing&quot;&gt;Science&lt;/a&gt; called &lt;em&gt;Hardcore Sequencing&lt;/em&gt;, which focused on working with difficult specimens. I had a great chat with Alan Dove, the feature’s author, about our past and ongoing work, including a collaboration with CSIRO on the population genetics of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dryococelus_australis&quot;&gt;Lord Howe stick insect&lt;/a&gt;, pictured above. It was believed to have gone extinct with the introduction of rats to Lord Howe Island in the early 20th century, but what appears to be a relic population was found on a nearby island. There is now an active conservation program, and a great little animated movie called &lt;a href=&quot;https://vimeo.com/jillirose/wwwvimeocomsticky&quot;&gt;Sticky&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alan also pointed me to another story the mysterious disappearance of the &lt;a href=&quot;https://en.wikipedia.org/wiki/Rocky_Mountain_locust&quot;&gt;Rocky Mountain locus&lt;/a&gt;, which I would love to follow up.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Feb 2016 00:00:00 +1100</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/were-profiled-in-science/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/were-profiled-in-science/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Evolution of sex determination in ants</title>
+        <description>&lt;p&gt;An important limitation in many social insect species is that they can’t be bred in the lab. Many ants are romantics at heart, and require just the right set of conditions to embark on a mating flight. This aspect of their biology makes them difficult subjects for functional genomic studies, since we are generally limited to the study of just two generations – the queen and her offspring. For many genetic studies, such as pedigree-based mapping of phenotypic traits, we need to analyze at least three generations.&lt;/p&gt;
+
+&lt;p&gt;For many years I have sought to find an ant species that could be bred in the lab and had interesting biological features to map. The ant &lt;em&gt;Vollenhovia emeryi&lt;/em&gt; seemed like a good candidate. It has a remarkable reproductive strategy, reproducing in at least three different ways:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://journals.plos.org/plosgenetics/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pgen.1005656.g001&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My former postdoc Misato is an expert at handling these ants and could cross them. Our idea was to map a wide variety of interesting traits, such as genes responsible for caste determination, and the various reproductive strategies. However, to our surprise, families produced by a backcross started to produce sterile diploid males.&lt;/p&gt;
+
+&lt;p&gt;In retrospect this should have made sense. It is generally known that ants, bees and wasps have a reproductive system called “complementary sex determination”, and this is what happens when you inbreed them. How sex is determined in clonal ants such as &lt;em&gt;V. emeryi&lt;/em&gt; has not been known, but it makes sense that they would also use the same system.&lt;/p&gt;
+
+&lt;p&gt;In any case, the backcrossed ants stubbornly refused to produce appreciable numbers of queens and ordinary males, which we wanted to have for our other studies, but we did get plenty of diploid males. So, we pivoted the study to try to understand mechanisms of sex determination in this species, and what they mean for the evolution of sex determination.&lt;/p&gt;
+
+&lt;p&gt;Through a series of elegant studies, the research groups of &lt;a href=&quot;http://www.evolutionsgenetik.hhu.de/en.html&quot;&gt;Martin Beye&lt;/a&gt; and &lt;a href=&quot;http://www.popbee.uni-koeln.de/&quot;&gt;Martin Hasselmann&lt;/a&gt; have determined the specific molecular machinery of sex determination in honey bees, but whether this mechanism is conserved in other species has remained controversial. Our data suggest that &lt;em&gt;V. emeryi&lt;/em&gt; also uses this mechanism, but also another completely separate sex determination pathway. This suggests that the honey bee-type mechanism might be very old (&amp;gt; 100 million years), but there might also other pathways that remain to be discovered. We are currently checking whether these loci are involved in other insects, such as wasps and bumblebees, which would suggest that they are even more ancient.&lt;/p&gt;
+
+&lt;p&gt;Although this was just side-note in the paper, complementary sex determination may be the reason why so many invasive ants are clonal, or have really bizarre reproductive systems that involve clonality to some extent. By their very nature they have to inbreed, and clonality may be a way around that.&lt;/p&gt;
+
+&lt;p&gt;The study was just published in &lt;a href=&quot;http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005656#pgen-1005656-g003&quot;&gt;PLoS Genetics&lt;/a&gt; and Letizia Diamante from OIST’s media section has written up a nice &lt;a href=&quot;http://www.oist.jp/news-center/news/2015/11/25/sex-determination-ants&quot;&gt;summary&lt;/a&gt;. This study was a tremendous amount of work for just two authors to do, but it is one of my favorite ones to date, because of the clean results that we obtained.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Nov 2015 00:00:00 +1100</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/evolution-of-sex-determination-in-ants/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/evolution-of-sex-determination-in-ants/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Our first student defends her PhD thesis!</title>
@@ -20,9 +65,9 @@
 &lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/claire_defense/claire-defense-post-defense.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 16 Sep 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/our-first-student-defends-her-phd-thesis/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/our-first-student-defends-her-phd-thesis/</guid>
+        <pubDate>Wed, 16 Sep 2015 00:00:00 +1000</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/our-first-student-defends-her-phd-thesis/</guid>
         
         <category>news</category>
         
@@ -31,13 +76,13 @@
     
       <item>
         <title>T5 lab now a PeerJ pre-print</title>
-        <description>&lt;p&gt;Last fall our intern Jigyasa Arora and I developed a teaching module that uses experimental evolution and next-generation sequencing to teach lab skills and bioinformatics. It is based on &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895413&quot;&gt;Paul Hyman’s lab&lt;/a&gt; (Ashland University), which uses the evolution of resistance by the bacterium &lt;em&gt;Escerichia coli&lt;/em&gt; to the T5 bacteriophage to explore tha nature of coevolution and resistance. We modified the lab to include a next-generation sequencing and analysis component, which works spectacularly well. The teaching module and ssociated materials are now available as a &lt;a href=&quot;https://peerj.com/manuscripts/6635/&quot;&gt;PeerJ preprint&lt;/a&gt;. Reviewers  requested that we provide a teaching assessment for this module to pass muster as a peer-reviewed teaching tool, so I hope carry out such an assessment with this fall’s batch of students. &lt;/p&gt;
+        <description>&lt;p&gt;Last fall our intern Jigyasa Arora and I developed a teaching module that uses experimental evolution and next-generation sequencing to teach lab skills and bioinformatics. It is based on &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3895413&quot;&gt;Paul Hyman’s lab&lt;/a&gt; (Ashland University), which uses the evolution of resistance by the bacterium &lt;em&gt;Escerichia coli&lt;/em&gt; to the T5 bacteriophage to explore tha nature of coevolution and resistance. We modified the lab to include a next-generation sequencing and analysis component, which works spectacularly well. The teaching module and ssociated materials are now available as a &lt;a href=&quot;https://peerj.com/manuscripts/6635/&quot;&gt;PeerJ preprint&lt;/a&gt;. Reviewers  requested that we provide a teaching assessment for this module to pass muster as a peer-reviewed teaching tool, so I hope carry out such an assessment with this fall’s batch of students.&lt;/p&gt;
 
 &lt;p&gt;If you want to give this lab a try in your own class, don’t hesitate to contact me with questions.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 10 Sep 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/t5-lab-now-a-peerj-preprint/</guid>
+        <pubDate>Thu, 10 Sep 2015 00:00:00 +1000</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/t5-lab-now-a-peerj-preprint/</guid>
         
         <category>news</category>
         
@@ -48,9 +93,9 @@
         <title>Dorothy gets A+ for her thesis</title>
         <description>&lt;p&gt;Our last spring’s intern Dorothy Immaculate has graduated from university, and received an A+ for the thesis that she did in our lab. Excellnt job Dorothy, and, Carmen, who was the one actually reposible for thesis supervision!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Aug 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/dorothy-gets-a-for-her-thesis/</guid>
+        <pubDate>Tue, 25 Aug 2015 00:00:00 +1000</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/dorothy-gets-a-for-her-thesis/</guid>
         
         <category>news</category>
         
@@ -79,9 +124,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://ecoevo.unit.oist.jp/site/images/arizona-collecting-team.jpg&quot; alt=&quot;&quot; width=&quot;400px&quot; /&gt; Mona, Henry and Gerry.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 20 Aug 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/collecting-bees-in-arizona/</guid>
+        <pubDate>Thu, 20 Aug 2015 00:00:00 +1000</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/collecting-bees-in-arizona/</guid>
         
         <category>news</category>
         
@@ -94,9 +139,9 @@
 
 &lt;p&gt;You can read this paper online for free in &lt;a href=&quot;http://www.mdpi.com/2072-6651/7/6/2272/html&quot;&gt;&lt;em&gt;Toxins&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jun 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
+        <pubDate>Fri, 12 Jun 2015 00:00:00 +1000</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/dont-tread-on-me-how-well-do-we-really-understand-stingray-venom/</guid>
         
         <category>news</category>
         
@@ -109,9 +154,9 @@
 
 &lt;p&gt;You can read the OIST press release &lt;a href=&quot;https://www.oist.jp/news-center/news/2015/4/16/evolution-puts-checks-virgin-births&quot;&gt;here&lt;/a&gt;, and find the actual paper on the &lt;a href=&quot;http://link.springer.com/article/10.1007%2Fs00114-015-1265-8&quot;&gt;Science of Nature web site&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Apr 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/press%20release/publication/evolutionary-constraints/</guid>
+        <pubDate>Fri, 17 Apr 2015 00:00:00 +1000</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/press%20release/publication/evolutionary-constraints/</guid>
         
         <category>ants</category>
         
@@ -126,9 +171,9 @@
         <title>Evolution of division of labor</title>
         <description>&lt;p&gt;Ant worker traits are remarkable in that they evolve despite the fact that the workers themselves do not reproduce. As a part of our ongong collaboration with the &lt;a href=&quot;http://sites.sas.upenn.edu/linksvayer-lab&quot;&gt;Linksvayer Lab&lt;/a&gt;, in a &lt;a href=&quot;http://elifesciences.org/content/4/e04775?_ga=1.25883067.769126097.1432248984&quot;&gt;recently published paper in eLife&lt;/a&gt; we showed that the evolution of genes involved in social behavior is constrained by the effects of gene co-expression networks. You can listen to a podcast where Tim Linksvayer describes this work &lt;a href=&quot;http://elifesciences.org/podcast/episode18&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 02 Mar 2015 00:00:00 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/ants/evolution-of-division-of-labor/</guid>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 +1100</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/ants/evolution-of-division-of-labor/</guid>
         
         <category>press release</category>
         
@@ -149,43 +194,11 @@
 &lt;/figure&gt;
 
 </description>
-        <pubDate>Thu, 23 Oct 2014 19:42:49 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
+        <pubDate>Thu, 23 Oct 2014 21:42:49 +1100</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
         
         <category>Lab news</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Snake photography at the Okinawa Prefectural Institute of Health and Environment</title>
-        <description>&lt;p&gt;Yesterday, Steve and I went to photograph some of the snakes kept at the Okinawa Prefectural Institute of Health and Environment in the care of our long-time collaborator Terada-san. To get a sense of what the snakes look like, you can see my photographs &lt;a href=&quot;https://plus.google.com/photos/118288632229735393241/albums/6054082162370620497&quot; title=&quot;here&quot;&gt;here&lt;/a&gt;. The first two individuals are &lt;em&gt;Protobothrops flavoviridis&lt;/em&gt;, &lt;em&gt;P. elegans&lt;/em&gt;, the Okinawa and Sakishima habus, respectively. The third individual is their hybrid that occurs in Okinawa. Note that it its shape is more similar to Okinawa habu, but its pigmentation, and particularly eye color is more similar to the Sakishima habu.&lt;/p&gt;
-
-&lt;p&gt;The Sakishima habu is the one you most often see in Awamori containers; it is smaller than the Okinawa habu, being about half the size, and, I presume, is easier to stuff into a jar. They have escaped and have been spreading through parts of Okinawa, hybridizing with the native speces.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Sep 2014 19:42:49 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/snake-photography-at-the-okinawa-prefectural-institute-of-health-and-environment/</guid>
-        
-        <category>Lab news</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>&amp;#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&amp;#8221; paper published!</title>
-        <description>&lt;p&gt;Together with our collaborators from the National University of Singapore we just published a &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12314/abstract&quot;&gt;paper&lt;/a&gt; describing an improved method for making double-digest RAD-tag libraries. By adding a small run of degenerate nucleotides to the end of one of the Illumina indexes, you can barcode each individual ligation reaction and determine how many molecules participate in each reaction. This is a simple modification, that allows us to confidently make RAD-tag libraries using just a few nanograms of input material. The actual library preparation is not different — in this paper we describe a protocol that we use to process thousands of samples using a liquid handling robot, making 96 libraries at once.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 27 Aug 2014 19:42:49 +0900</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/site/degenerate-adaptor-sequences-for-detecting-pcr-duplicates-in-reduced-representation-sequencing-data-improve-genotype-calling-accuracy-paper-published/</guid>
-        
-        <category>Lab news</category>
-        
-        <category>Papers</category>
         
         
       </item>
