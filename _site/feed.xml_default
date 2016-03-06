@@ -5,9 +5,27 @@
     <description></description>
     <link>http://ecoevo.unit.oist.jp/site/</link>
     <atom:link href="http://ecoevo.unit.oist.jp/site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Mar 2016 17:40:09 +1100</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2016 17:40:09 +1100</lastBuildDate>
+    <pubDate>Sun, 06 Mar 2016 19:38:28 +1100</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 19:38:28 +1100</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>Coral development paper published</title>
+        <description>&lt;table class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;The coral on the  right is &lt;i&gt;Acropora digitifera&lt;/i&gt;, which we studied&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/pauljill/5822469420/in/photolist-9SvFiN-nvLMaw-nwbn5j-nwb7Hy&quot; title=&quot;thicklipped goatfish Parupeneus crassilabris (doublebar goatfish)&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3257/5822469420_7fdde7da81.jpg&quot; width=&quot;500&quot; height=&quot;333&quot; alt=&quot;thicklipped goatfish Parupeneus crassilabris (doublebar goatfish)&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;About a year after I started my lab, I was approached by Alejandro, who just started his JSPS postdoc. He was interested in looking at transcriptional networks during coral development. Although corals and development more generally were pretty much outside my field, I was intrigued by this collaboration. As it happens, we were just beginning to make transcriptional data sets, and I was excited to try a new system. Now, our work is finally published in &lt;a href=&quot;http://gbe.oxfordjournals.org/content/early/2016/03/03/gbe.evw042.full.pdf&quot;&gt;&lt;em&gt;Genome Biology and Evolution&lt;/em&gt;&lt;/a&gt;. This was a fun project, resulting from collaboration with Ryukyu University and OIST.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Mar 2016 00:00:00 +1100</pubDate>
+        <link>http://ecoevo.unit.oist.jp/site/coral-development-paper-published/</link>
+        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/coral-development-paper-published/</guid>
+        
+        
+      </item>
     
       <item>
         <title>We&#39;re profiled in Science!</title>
@@ -181,25 +199,6 @@
         
         
         <category>ants</category>
-        
-      </item>
-    
-      <item>
-        <title>GSPE: Genomics of Social Parasite Evolution Workshop</title>
-        <description>&lt;p&gt;We were happy to host our excellent US and European-based collaborators to jointly work on the evolution of social parasite genomes. In the few days of the workshop we made major progress, finally bringing the project over the hill and hopefully en route to eventual publication.
-&lt;br /&gt;&lt;/p&gt;
-&lt;figure&gt;
-	&lt;a href=&quot;../images/GSPE.jpg&quot;&gt; &lt;img src=&quot;../images/GSPE.jpg&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Participants (as ordered in photo): Ti Eriksson (Arizona State University), Sara Helms Cahan (University of Vermont), Karsten Kemena (Muenster University), Andy Suarez (University of Illinois), Sasha Mikheyev (OIST) Misato Miyakawa (OIST), Juergen Gadau (ASU), Chris Smith (Earlham College), Martin Helmkampf (ASU). &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-</description>
-        <pubDate>Thu, 23 Oct 2014 21:42:49 +1100</pubDate>
-        <link>http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/</link>
-        <guid isPermaLink="true">http://ecoevo.unit.oist.jp/site/gspe-genomics-of-social-parasite-evolution-workshop/</guid>
-        
-        <category>Lab news</category>
-        
         
       </item>
     

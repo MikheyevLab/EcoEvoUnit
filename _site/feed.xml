@@ -4,13 +4,39 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://ecoevo.unit.oist.jp/site/feed.xml" />
 <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site" />
-<updated>2016-03-02T17:40:09+11:00</updated>
+<updated>2016-03-06T19:38:28+11:00</updated>
 <id>http://ecoevo.unit.oist.jp/site/</id>
 <author>
   <name>Eco Evo Lab</name>
   <uri>http://ecoevo.unit.oist.jp/site/</uri>
   <email>ecoevo@oist.jp</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Coral development paper published]]></title>
+  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/coral-development-paper-published/" />
+  <id>http://ecoevo.unit.oist.jp/site/coral-development-paper-published</id>
+  <published>2016-03-06T00:00:00+11:00</published>
+  <updated>2016-03-06T00:00:00+11:00</updated>
+  <author>
+    <name>Sasha</name>
+    <uri>http://ecoevo.unit.oist.jp/site</uri>
+    <email>alexander.mikheyev@oist.jp</email>
+  </author>
+  <content type="html">
+    &lt;table class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;The coral on the  right is &lt;i&gt;Acropora digitifera&lt;/i&gt;, which we studied&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;
+&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/pauljill/5822469420/in/photolist-9SvFiN-nvLMaw-nwbn5j-nwb7Hy&quot; title=&quot;thicklipped goatfish Parupeneus crassilabris (doublebar goatfish)&quot;&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3257/5822469420_7fdde7da81.jpg&quot; width=&quot;500&quot; height=&quot;333&quot; alt=&quot;thicklipped goatfish Parupeneus crassilabris (doublebar goatfish)&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;About a year after I started my lab, I was approached by Alejandro, who just started his JSPS postdoc. He was interested in looking at transcriptional networks during coral development. Although corals and development more generally were pretty much outside my field, I was intrigued by this collaboration. As it happens, we were just beginning to make transcriptional data sets, and I was excited to try a new system. Now, our work is finally published in &lt;a href=&quot;http://gbe.oxfordjournals.org/content/early/2016/03/03/gbe.evw042.full.pdf&quot;&gt;&lt;em&gt;Genome Biology and Evolution&lt;/em&gt;&lt;/a&gt;. This was a fun project, resulting from collaboration with Ryukyu University and OIST.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/coral-development-paper-published/&quot;&gt;Coral development paper published&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on March 06, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
@@ -486,30 +512,6 @@ In addition to her research interests, Nichole is also involved in science educa
 
 
     &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/nichole-bennett-visiting-mikheyev-unit/&quot;&gt;Nichole Bennett visiting Mikheyev Unit&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 29, 2013.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Goodbye Invitrogen ripoff product]]></title>
-  <link rel="alternate" type="text/html" href="http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/" />
-  <id>http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product</id>
-  <published>2013-11-27T21:42:49+11:00</published>
-  <updated>2013-11-27T21:42:49+11:00</updated>
-  <author>
-    <name>Sasha</name>
-    <uri>http://ecoevo.unit.oist.jp/site</uri>
-    <email>alexander.mikheyev@oist.jp</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;With the help of Ken Meacham of the &lt;a href=&quot;https://groups.oist.jp/ciu/mahesh-m-bandi&quot;&gt;Bandi Unit&lt;/a&gt;, we have successfully used some magnets to inexpensively 3D print our own magnetic stands based on &lt;a href=&quot;http://www.thingiverse.com/thing:79424&quot;&gt;this design&lt;/a&gt; and some inexpensive &lt;a href=&quot;http://www.kjmagnetics.com/proddetail.asp?prod=B824&quot;&gt;magnets&lt;/a&gt;. They look like cheap imitations, but just as well, if not better, and cost orders of magnitude less (last I checked the commercial stand in the background would set you back a cool &lt;a href=&quot;http://www.lifetechnologies.com/order/catalog/product/12321D&quot;&gt;US$531&lt;/a&gt;).&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;a href=&quot;../images/home-made-rack.jpg&quot;&gt; &lt;img src=&quot;../images/home-made-rack.jpg&quot; /&gt;&lt;/a&gt;	 
-&lt;/figure&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://ecoevo.unit.oist.jp/site/goodbye-invitrogen-ripoff-product/&quot;&gt;Goodbye Invitrogen ripoff product&lt;/a&gt; was originally published by Eco Evo Lab at &lt;a href=&quot;http://ecoevo.unit.oist.jp/site&quot;&gt;Ecology and Evolution Unit&lt;/a&gt; on November 27, 2013.&lt;/p&gt;
   </content>
 </entry>
 
