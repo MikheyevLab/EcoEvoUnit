@@ -67,9 +67,9 @@ I am a Postdoc at the Centre of Excellence in Biological interactions at Helsink
 
 ## Ph.D. Students
 
-### Carmen Emborski, special student
+### Carmen Emborski, special research
 ![Carmen]({{ site.url }}/people/img_full/Carmen.jpg ){: .profile-image }
-Being a special research student, I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. 
+I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. 
 
 While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
