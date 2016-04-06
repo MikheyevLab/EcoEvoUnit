@@ -73,28 +73,27 @@ I have had a really unique opportunity to complete my studies at Texas Tech Univ
 
 While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
+### Valentin Churavy, PhD student
+![Valentin]({{ site.url }}/people/img_full/Valentin.jpg ){: .profile-image }
+I am a PhD student at OIST in the Ecology and Evolution Lab. I came to Okinawa because of the interdisciplinary atmosphere and the fantastic research environment.
+
+I did my undergraduate studies in Cognitive Science at the University of Osnabrück (Germany) on social robotics and neurodynamics. My primary focus was on biologically inspired artificial systems -- evolutionary robotics, artificial life and artificial neural networks.
+For my PhD I am shifting from artificial systems to living systems. I plan to model large scale social behaviour in social insects, particularly interest to me are the social dynamics in honeybee colonies. 
+Here at OIST I am in the lucky position of applying my knowledge and passion for programming and machine learning to develop new approaches to research topics in biology.
+
+I enjoy long-distance hiking, bouldering and discovering/cooking new food. I am also involved in  open-source software development and in my free time I read books and play the basson.
+
 <br><br>
 
 <!-- ## Interns -->
 
-## Research intern
+<!--## Research intern 
 
-### Marie Uemura
-![Marie]({{ site.url }}/people/img_full/Marie.jpg ){: .profile-image }
-I have interests in ecosystem and ecological interaction. Especially I’m interested in relationship with forest and river ecology. At OIST in this Ecology and Evolution unit, I have researched about phylogenetic tree of insects using genomic data. During my research, I also study about computing method and how to use genetic information. Because I wanted to study about another field from mine, it was a great opportunity to studying about new thing and acquire skills or knowledge.
-I’m junior in Hokkaido University now, and going to start my senior year in this spring. I want to make use of this experience at OIST in my research. Actually, I’m going to research about microorganisms that relates to denitrification and quality of water in rivers. And how they are affected by adjacent forest form, e.g. artificial forest, conifer forest.
-
-I enjoy the relax lifestyle in Okinawa and beautiful scenery of blue ocean. In my free time, I love watching musical show, playing with dogs and traveling.
-
-<br>
+<br> 
 
 ## Rotation students
 
-### Rob Campbell
-![Rob]({{ site.url }}/people/img_full/Rob.jpg ){: .profile-image }
-I completed my undergraduate studies at Skidmore College (United States), earning a dual degree in physics and international affairs. I then spent several years working in communications and international sustainable development before returning to the research world and arriving here at OIST for my PhD. I came to OIST for the chance to integrate my interest in micro and nano-scale physics with my childhood passion for ecology, which was what propelled me into science in the first place, and I’m thrilled to spend my first rotation in the EcoEvo Lab. My project is focused on the parasitoid phorid fly genus Pseudacteon, using x-ray microtomography (micro-CT) to visualize different stages of Pseudacteon obtusus’ development inside their fire ant hosts. In my free time I’m all about food, foreign language, and the ocean, and I love taking advantage of all three here in Okinawa!
-
-<br>
+<br>-->
 
 ## Alumni
 
@@ -125,20 +124,29 @@ I am interested in the evolution of conflict in organisms. Conflicts can be dete
 I’m really happy to work at OIST for my first postdoc, particularly because of my great lab members, the beautiful working environment, and the almost infinite budget for research. The Ecology and Evolution unit is a great place to improve molecular experimental techniques and increase your mental powers!
 <!-- 34.9793 N and long. 135.7032 E  -->
 
-### Leonidas Georgiou, rotation student, fall 2014
-![Leonidas]({{ site.url }}/people/img_full/Leonidas.jpg ){: .profile-image }
-**Origin:** Cyprus
-**Background:** Neuroscience
-**Aspiration:** Combine my background with mathematics and the physical sciences to understand how life works systematically.
-**Interest:** Biological thermodynamics. How life "captures" order. How is life related to energy and information?
-**Current work:** Error detection and repair of ancient mitochondrial DNA using computational methods **Future work:** Hopefully my interest and aspiration (see above).
+<br><br><br>
 
-<br><br>
+### Marie Uemura, intern, 2016
+![Marie]({{ site.url }}/people/img_full/Marie.jpg ){: .profile-image }
+I have interests in ecosystem and ecological interaction. Especially I’m interested in relationship with forest and river ecology. At OIST in this Ecology and Evolution unit, I have researched about phylogenetic tree of insects using genomic data. During my research, I also study about computing method and how to use genetic information. Because I wanted to study about another field from mine, it was a great opportunity to studying about new thing and acquire skills or knowledge.
+I’m junior in Hokkaido University now, and going to start my senior year in this spring. I want to make use of this experience at OIST in my research. Actually, I’m going to research about microorganisms that relates to denitrification and quality of water in rivers. And how they are affected by adjacent forest form, e.g. artificial forest, conifer forest.
 
-### Yafei Mao, rotation student, fall 2014
-![Yafei]({{ site.url }}/people/img_full/Yafei.jpg ){: .profile-image }
-I am a first year PhD student at OIST and choose the Ecology and Evolution Unit for my first rotation. In my rotation project, I am working on estimating the effective population size for ant fauna in Cocos Island using temporal samples collected at different times. I graduated form Nanjing University in Life sciences. I have some experience on molecular biology and protein purification, but I want to come into contact with different areas of life sciences, especially for ecology and evolution. In my spare time, I enjoy swimming and traveling.
-<!-- Latitude 32.060255 | Longitude : 118.796877 -->
+I enjoy the relax lifestyle in Okinawa and beautiful scenery of blue ocean. In my free time, I love watching musical show, playing with dogs and traveling.
+
+
+### Rob Campbell, rotation student, fall 2015
+![Rob]({{ site.url }}/people/img_full/Rob.jpg ){: .profile-image }
+I completed my undergraduate studies at Skidmore College (United States), earning a dual degree in physics and international affairs. I then spent several years working in communications and international sustainable development before returning to the research world and arriving here at OIST for my PhD. I came to OIST for the chance to integrate my interest in micro and nano-scale physics with my childhood passion for ecology, which was what propelled me into science in the first place, and I’m thrilled to spend my first rotation in the EcoEvo Lab. My project is focused on the parasitoid phorid fly genus Pseudacteon, using x-ray microtomography (micro-CT) to visualize different stages of Pseudacteon obtusus’ development inside their fire ant hosts. In my free time I’m all about food, foreign language, and the ocean, and I love taking advantage of all three here in Okinawa!
+
+### Jigyasa Arora, intern spring 2015
+![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
+I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball.
+
+<br>
+
+### Dorothy J. Immaculate, intern, spring 2015
+![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
+The Biological questions that I am interested in lie broadly in Evolution. Tracing the signatures of an organism’s adaptation to changing environmental conditions is an exciting research to undertake. I am currently enrolled in Bachelor of Technology, Genetic Engineering at SRM University, India. I am taking the Research Internship opportunity here at OIST to complete my undergraduate thesis. I love my stay here at the Mikheyev Unit. The work environment is great with plenty of resources and encouraging lab mates. My work involves the study of transgenerational epigenetic inheritance of metabolism in the model organism *Drosophila melanogaster*. This study aims to understand how prenatal nutritional environment affects the metabolism of an organism and if it can be epigenetically inherited and sustained through generations. Significant benefits can be obtained from this study if translated to the human model. Apart from my interest in Biology, I am an avid reader and enjoy travelling.
 
 ### Maggi Mars Brisbin, rotation student, fall 2014
 ![Maggi]({{ site.url }}/people/img_full/Maggi.jpg ){: .profile-image }
@@ -152,17 +160,19 @@ It fascinates me that four nucleotides with different permutations and combinati
 ![Shikha]({{ site.url }}/people/img_full/Shikha.jpg ){: .profile-image }
 I am from Delhi, the capital city of India. Born and brought up in the second most crowded metropolis city in India, I always yearned to be close to nature.  I have a background in biological sciences (bachelors) and Biodiversity and conservation (Masters). I am interested in ecology and appreciated its role in corroborating the many theories and principles in evolutionary biology. My broad area of interest is population genetics, molecular phylogeny and wildlife forensics. My internship project involved the proteomic analysis of venom characterization from a local snake (*Protobothrops flavoviridis* : Okinawa habu), an invasive snake (*Protobothrops elegans* :Sakishima habu) and their naturally produced hybrid. I learned designing of several protein cleavage protocols, cDNA sequencing combined with MS profiling. This definitely helped to enhance my knowledge and working skills. This internship project proved out to be the best dissertation thesis report of my masters in my college and helped me to score very well.  During my stay in OIST, I also learned to photograph and digitize landmarks on pinned bee specimens from museum, using a sophisticated imaging setup. OIST is a great place to work at because of friendly and beautiful environment, great lab members belonging to different cultures and origin, best mentor and well equipped labs. I wish to adopt challenging profession in wildlife research, with opportunity for advancement and would like to explore my innovative skills, where I can put forth my efforts for the conservation of wildlife. In my free time, I love photography, dancing, music and painting.
 
-<!-- "latitude": 29.6490, "longitude":78.1226 -->
 
-### Jigyasa Arora, intern spring 2015
-![Jigyasa]({{ site.url }}/people/img_full/jigyasa.png ){: .profile-image }
-I am from New Delhi, India. I am a research intern in The Ecology and Evolution Unit at OIST. I am working on snake venomics to understand venom evolution and adaptation in response to prey population. I am really enjoying learning molecular biology techniques required for this project. I have a masters in Molecular Medicine from University of Essex, U.K. In my spare time, I love dancing and basketball.
+### Leonidas Georgiou, rotation student, fall 2014
+![Leonidas]({{ site.url }}/people/img_full/Leonidas.jpg ){: .profile-image }
+**Origin:** Cyprus
+**Background:** Neuroscience
+**Aspiration:** Combine my background with mathematics and the physical sciences to understand how life works systematically.
+**Interest:** Biological thermodynamics. How life "captures" order. How is life related to energy and information?
+**Current work:** Error detection and repair of ancient mitochondrial DNA using computational methods **Future work:** Hopefully my interest and aspiration (see above).
 
-<br><br>
+<br>
 
-### Dorothy J. Immaculate, intern, spring 2015
-![Dorothy]({{ site.url }}/people/img_full/dorothy.jpg ){: .profile-image }
-The Biological questions that I am interested in lie broadly in Evolution. Tracing the signatures of an organism’s adaptation to changing environmental conditions is an exciting research to undertake. I am currently enrolled in Bachelor of Technology, Genetic Engineering at SRM University, India. I am taking the Research Internship opportunity here at OIST to complete my undergraduate thesis. I love my stay here at the Mikheyev Unit. The work environment is great with plenty of resources and encouraging lab mates. My work involves the study of transgenerational epigenetic inheritance of metabolism in the model organism *Drosophila melanogaster*. This study aims to understand how prenatal nutritional environment affects the metabolism of an organism and if it can be epigenetically inherited and sustained through generations. Significant benefits can be obtained from this study if translated to the human model. Apart from my interest in Biology, I am an avid reader and enjoy travelling.
-
+### Yafei Mao, rotation student, fall 2014
+![Yafei]({{ site.url }}/people/img_full/Yafei.jpg ){: .profile-image }
+I am a first year PhD student at OIST and choose the Ecology and Evolution Unit for my first rotation. In my rotation project, I am working on estimating the effective population size for ant fauna in Cocos Island using temporal samples collected at different times. I graduated form Nanjing University in Life sciences. I have some experience on molecular biology and protein purification, but I want to come into contact with different areas of life sciences, especially for ecology and evolution. In my spare time, I enjoy swimming and traveling.
 
 <br>
