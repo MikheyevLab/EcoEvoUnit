@@ -48,7 +48,11 @@ I have a long-time interest in molecular biology and genetics. Before joining th
 ![Michael]({{ site.url }}/people/img_full/Michael.jpg ){: .profile-image }
 Primarily, I am a behavioural ecologist with interests in the evolution of social behaviour. Recently, I completed my PhD at the University of Sydney, Australia, where I studied reproductive conflict in honeybees. Honeybee workers are incapable of mating, but can reproduce asexually at a cost to the colony. My major interest was understanding these multiple levels of selection - how selfish individuals within a honeybee colony can exist despite being detrimental to the collective, and how this conflict is resolved. I worked on this in various honeybee species in South Africa, Thailand and China, as well as in Australia. Here in the Mikheyev unit, I will continue to work on honeybees, but this time aiming to understand the genetic basis of the suite of complex behavioural traits that exist within honeybee societies. I can’t imagine a better place to carry out my first postdoc! In my spare time, I enjoy traveling, reading, spending time with friends and hopefully making new ones! 
 
+### Quoc Viet, research technician
+![Viet]({{ site.url }}/people/img_full/Viet.png ){: .profile-image }
+I am an engineer in Aeronautics, with a double degree from Supaero (France), and a MSc from Cranfield University (UK) in Computational Fluid Dynamics. After a career of 15 years in the Professional Services with a focus on Open Source software, I have acquired a strong competency in hunting for Research grants from European entities such as the EUREKA/ITEA, the FP6-IST, or the french RNTL, for which I also acted as a project reviewer. I have submitted and won 12 collaborative research projects, with a recurring ouput of 900 k€ per year in research grants. I have climbed the hierarchy, from support engineer to head of Research & Innovation for two SMEs, until I felt the need to apply my abilities to more rewarding objects. I now enjoy a peaceful and quiet life on the small and beautiful Okinawa island as a technician, applying my dual competencies in HPC and in Science, to various subjects, ranging from Evolution to Genomics, with some incursions into Fluid Dynamics.
 
+In my spare time, I am a referee on local karate tournaments, and a member of the 小林流小林館協会. I also enjoy playing Chopin on my piano, especially during the typhoons. 
 
 <br><br>
 
@@ -87,11 +91,17 @@ I enjoy long-distance hiking, bouldering and discovering/cooking new food. I am 
 
 <!-- ## Interns -->
 
-<!--## Research intern 
+## Research intern 
+
+### Agneesh Barua, research intern 
+![Agneesh]({{ site.url }}/people/img_full/Agneesh.jpg ){: .profile-image }
+Evolution is a process at the background of all biological phenomenon, and is one that has given shape to our world as we know it. I have been interested in evolutionary biology ever since I first read about Lamarck and Darwin at school, since then I have always wondered why, and how, life decided to take the trajectory it did and produce us intelligent beings. In biology , the 'what', 'how', and 'when' can be fairly well answered, but it is the 'why' that is riddled in deep mystery and speculation, and I feel evolutionary biology is the field that will provide us valuable insights to solving these mysteries. I did my undergrads in Zoology from Delhi University where I got a taste for what higher studies in biology meant , and it was my masters, in Genetics, which I did from Calcutta University, that helped me attain the mind-set I would need to become a researcher . Here at OIST I work on snake venom genes and try to understand how they might have evolved. Snake venom genes are interesting wherein, in spite of being absolutely essential for the survival of the animal, they show a level of diversity that is similar to that of non essential regions, how this form of diversity still manages to maintain a functional relevance is still unknown. By using bioinformatic tools I am aligning and annotating the entire snake genome to locate the genes that encode the proteins of the venom, following which I will perform phylogenetic analysis on these genes to shed some light on the evolutionary forces that might have caused the venom genes to acquire their unique traits. 
+
+Apart from working in the lab, I enjoy reading books, listening to music, doing yoga, and exploring the joyful and vibrant island that is Okinawa.
 
 <br> 
 
-## Rotation students
+<!--## Rotation students
 
 <br>-->
 

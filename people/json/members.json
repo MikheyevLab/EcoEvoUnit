@@ -19,5 +19,7 @@
   {"name" : "Lauren","latitude": 39.4093021, "longitude":-80.5254794,"photo":"img/Lauren.jpg"},
   {"name" : "Kasia","latitude": 52.11779, "longitude":20.6718481,"photo":"img/Kasia.jpg"},
   {"name" : "Marie","latitude": 35.8575, "longitude":139.6489,"photo":"img/Marie.jpg"},
-  {"name" : "Valentin","latitude": 49.3284557, "longitude":11.0247098,"photo":"img/Valentin.jpg"}
+  {"name" : "Valentin","latitude": 49.3284557, "longitude":11.0247098,"photo":"img/Valentin.jpg"},
+  {"name" : "Viet","latitude": 48.768353, "longitude":2.254005,"photo":"img/Viet.jpg"},
+  {"name" : "Agneesh","latitude": 22.5726, "longitude":88.3639,"photo":"img/Agneesh.jpg"}  
  ]
