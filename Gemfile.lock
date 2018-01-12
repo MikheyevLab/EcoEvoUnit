@@ -161,4 +161,3 @@ DEPENDENCIES
   jekyll-sitemap
   json
   octopress (~> 3.0.0.rc.12)
-  pygments.rb
