@@ -1,9 +1,7 @@
 # Site wide configuration
 
-title: |
-   Ecology and Evolution Unit @ OIST
-   Evolutionary Genomics Lab  @ ANU
-locale:           en-JP
+title: Mikheyev Labs
+locale:           en-US
 url: https://mikheyevlab.github.io/EcoEvoUnit
 
 # Jekyll configuration
@@ -29,7 +27,8 @@ kramdown:
 owner:
   name: Eco Evo Lab
   avatar: logo.png
-  bio: "Better living through sequencing chemistry"
+  bio: "Ecology and Evolution Unit @ OIST
+  Evolutionary Genomics Lab @ ANU"
   email: ecoevo@oist.jp
   disqus-shortname: 
   twitter: #username
