@@ -8,6 +8,8 @@ published: True
 featured-img: /images/stick-insect-phd.jpg
 ---
 
+![Stick insect]({{ "/images/stick-insect-phd.jpg" }})
+
 The Lord Howe Island Stick Insect, thought to be extinct but recently rediscovered, has become emblematic of the dangers faced by island species in the face of anthropogenic change. A planned reintroduction effort aims to rescue this species, one of the rarest insects in the world, from the brink of extinction. This project aims to assess the genetic diversity of the re-discovered population, currently maintained in a captive breeding program, and aid the development of plans for release. The project will combine cutting-edge molecular techniques and innovative approaches to genotyping of unusual material (historical and non-destructively sampled in the field) with analysis of next-generation sequencing data. In addition to the primary objectives, the unique biology of this insect provides opportunities to investigate more general biological questions, ranging from the effect of polyploidy on the animal body, to how massive body size evolves. Crucially, research outcomes of this project will directly contribute to ongoing conservation efforts.
 
 Suitable applicants need to be highly motivated with a strong academic and research background. Demonstrated ability to conduct independent research is required, with experience in the molecular lab, and some experience in programming or data analysis being desirable. Applicants should hold first class honours or equivalent experience. The successful student will need to apply to ANU for enrollment. The successful applicant will receive a stipend scholarship and research funds including computer and travel funding.
