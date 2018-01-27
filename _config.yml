@@ -27,8 +27,7 @@ kramdown:
 owner:
   name: Eco Evo Lab
   avatar: logo.png
-  bio: "Ecology and Evolution Unit @ OIST
-  Evolutionary Genomics Lab @ ANU"
+  bio: Ecology and Evolution Unit @ OIST <br> Evolutionary Genomics Lab @ ANU
   email: ecoevo@oist.jp
   disqus-shortname: 
   twitter: #username
