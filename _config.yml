@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Ecology and Evolution Unit
-locale:           en-JP
+title: Ecology & Evolution @ OIST <br> Evolutionary Genomics @ ANU
+locale:           en-US
 url: https://mikheyevlab.github.io/EcoEvoUnit
 
 # Jekyll configuration
@@ -25,9 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Eco Evo Lab
+  name: Mikheyev Labs
   avatar: logo.png
-  bio: "Better living through sequencing chemistry"
+  bio: This is a joint website for the Ecology and Evolution Unit at the Okinawa Institute of Science and Technology and the Evolutionary Genomics Lab at the Auntralian National University
   email: ecoevo@oist.jp
   disqus-shortname: 
   twitter: #username
