@@ -3,7 +3,6 @@ title: Aligning sequences
 author: martin_helmkampf
 layout: page 
 ---
-{% include _toc.html %}
 
 Many bioinformatic applications require an alignment between two or more biological sequences. Alignments reveal regions of similarity between sequences due to shared function, structure or evolutionary history. Typically, aligned sequences are represented as rows in a matrix, like in this example of two *yellow* genes from the honeybee *Apis mellifera* and the Red harvester ant *P. barbatus*:
 
