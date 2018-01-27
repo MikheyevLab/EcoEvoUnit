@@ -5,8 +5,7 @@ author: alexander_mikheyev
 categories: []
 tags: ['news', 'Australia']
 published: True
-header:
-  image: /images/stick-insect-phd.jpg
+featured-img: /images/stick-insect-phd.jpg
 ---
 
 The Lord Howe Island Stick Insect, thought to be extinct but recently rediscovered, has become emblematic of the dangers faced by island species in the face of anthropogenic change. A planned reintroduction effort aims to rescue this species, one of the rarest insects in the world, from the brink of extinction. This project aims to assess the genetic diversity of the re-discovered population, currently maintained in a captive breeding program, and aid the development of plans for release. The project will combine cutting-edge molecular techniques and innovative approaches to genotyping of unusual material (historical and non-destructively sampled in the field) with analysis of next-generation sequencing data. In addition to the primary objectives, the unique biology of this insect provides opportunities to investigate more general biological questions, ranging from the effect of polyploidy on the animal body, to how massive body size evolves. Crucially, research outcomes of this project will directly contribute to ongoing conservation efforts.
