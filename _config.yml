@@ -23,6 +23,7 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+
 defaults:
   - scope:
       path: ""
@@ -32,6 +33,9 @@ defaults:
       author_profile: true
       share: true
 
+paginate: 5 # amount of posts to show on home page
+paginate_path: /page:num/
+
 # Site owner
 owner:
   name: Mikheyev Labs
@@ -40,10 +44,9 @@ owner:
   email: ecoevo@oist.jp
   disqus-shortname: 
   twitter: #username
-  facebook: #username
   google:
     analytics: UA-45186360-8
-  bing-verify: 
+
   github: MikheyevLab
   stackoverflow: #http://stackoverflow.com/users/123456/username
 
