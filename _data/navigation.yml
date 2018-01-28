@@ -1,14 +1,11 @@
 # Site navigation links
 main:
 - title: People
-  url: /people/
-
-- title: Posts
-  url: /posts/
+  url: /people/index
 
 - title: Papers
-  url: /papers/
+  url: /papers
 
 - title: Methods
-  url: /methods/
+  url: /methods
     

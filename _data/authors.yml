@@ -6,8 +6,13 @@ alexander_mikheyev:
   bio: "PI"
   avatar: images/bio-sasha.jpg
   twitter: amikheyev
-  google:
-    plus:  
+
+mikheyevlab:
+  name: Mikheyev Labs
+  email: sasha at homologo.us
+  bio: "Spanning the Eastern Hemisphere"
+  avatar: images/logo.png
+
     
 miquel_grau:
   name: miquel
