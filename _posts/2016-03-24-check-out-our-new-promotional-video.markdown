@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Check out our new promotional video"
 date: "2016-03-24"
 author: alexander_mikheyev
