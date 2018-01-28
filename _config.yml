@@ -22,6 +22,14 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Site owner
 owner:
@@ -33,29 +41,9 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
     analytics: UA-45186360-8
-    verify: 
-    ad-client: 
-    ad-slot: 
   bing-verify: 
   github: MikheyevLab
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 remote_theme: "mmistakes/minimal-mistakes"
