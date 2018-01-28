@@ -2,7 +2,8 @@
 
 title: Ecology & Evolution @ OIST <br> Evolutionary Genomics @ ANU
 locale:           en-US
-url: https://homologo.us
+url: https://mikheyevlab.github.io
+baseurl: /EcoEvoUnit
 
 # Jekyll configuration
 
