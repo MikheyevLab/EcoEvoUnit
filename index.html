@@ -1,9 +1,15 @@
 ---
 layout: splash
 author_profile: true
-excerpt: "Ecology and Evolution Unit Page"
+excerpt: "Mikheyev Labs"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: images/wall1.jpg
 ---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
