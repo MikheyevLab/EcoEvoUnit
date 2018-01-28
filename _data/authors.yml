@@ -5,7 +5,7 @@ alexander_mikheyev:
   email: sasha at homologo.us
   bio: "PI"
   avatar: images/bio-sasha.jpg
-  twitter:  
+  twitter: amikheyev
   google:
     plus:  
     
@@ -62,3 +62,27 @@ steve_aird:
   twitter:  
   google:
     plus: 
+
+maeva_techer:
+  name: Maeva
+  email: maeva.techer@oist.jp
+  bio:
+  avatar: images/bio-maeva.png
+
+vienna_kowallik:
+  name: Vienna
+  email: vienna.kowallik@oist.jp
+  bio:
+  avatar: images/bio-vienna.png
+
+ivan_koludarov:
+  name: Ivan
+  email: ivan.koludarov@oist.jp
+  bio:
+  avatar: images/bio-ivan.png
+
+mariana_velasque:
+  name: Mariana
+  email: mariana.velasque@oist.jp
+  bio:
+  avatar: images/bio-mariana.png
