@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ph.D. student position to work on Lord Howe stick insect
 header:
   overlay_image: images/stick-insect-phd.jpg
