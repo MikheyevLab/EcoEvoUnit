@@ -16,8 +16,6 @@ sass:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-  - jemoji
 
 kramdown:
   auto_ids: true
