@@ -23,15 +23,19 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
+# Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: # true
       share: true
+      related: true
 
 paginate: 5 # amount of posts to show on home page
 paginate_path: /page:num/
