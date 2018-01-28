@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 author_profile: true
 excerpt: "Ecology and Evolution Unit Page"
 image:
