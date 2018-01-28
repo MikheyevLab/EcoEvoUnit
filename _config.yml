@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Ecology & Evolution @ OIST <br> Evolutionary Genomics @ ANU
+title: Mikheyev Labs
 locale:           en-US
 url: https://mikheyevlab.github.io
 baseurl: /EcoEvoUnit
