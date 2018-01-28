@@ -1,7 +1,7 @@
 ---
 title: Ph.D. student position to work on Lord Howe stick insect
 header:
-  overlay_image: images/stick-insect-phd.jpg
+  image: images/stick-insect-phd.jpg
 author: alexander_mikheyev
 categories: []
 tags: ['news', 'Australia']
