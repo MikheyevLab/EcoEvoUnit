@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "We're profiled in Science!"
 date: "2016-02-18"
 author: alexander_mikheyev

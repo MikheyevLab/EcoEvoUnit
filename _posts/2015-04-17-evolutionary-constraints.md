@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Males are here to stay!
 author: alexander_mikheyev
 categories: ["press release", "publication"]

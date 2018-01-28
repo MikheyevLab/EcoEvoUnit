@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Quantitative proteomics of snake venoms paper published"
 date:   2013-11-14 10:42:49
 author: alexander_mikheyev

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "OIST-NTU Invasive Ant Symposium"
 date:   2014-04-01 10:42:49
 author: alexander_mikheyev

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "&#8220;Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype-calling accuracy&#8221; paper published!"
 date:   2014-08-27 10:42:49
 author: alexander_mikheyev

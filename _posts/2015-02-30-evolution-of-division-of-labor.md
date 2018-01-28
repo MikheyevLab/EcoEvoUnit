@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Evolution of division of labor
 categories: ["ants"]
 tags: ['press release', 'publication']

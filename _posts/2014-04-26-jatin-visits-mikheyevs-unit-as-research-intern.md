@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Jatin visits Mikheyev&#8217;s unit as Research Intern"
 date:   2014-04-26 10:42:49
 author: jatin_aora

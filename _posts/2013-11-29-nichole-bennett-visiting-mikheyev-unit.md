@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Nichole Bennett visiting Mikheyev Unit"
 date:   2013-11-29 10:42:49
 author: nichole_bennett

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Habu study press release by OIST!"
 date:   2013-12-10 10:42:49
 author: alexander_mikheyev

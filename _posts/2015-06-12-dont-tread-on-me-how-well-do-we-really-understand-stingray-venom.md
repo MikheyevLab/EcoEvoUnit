@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Don't tread on me: How well do we really understand stingray venom?"
 categories: []
 tags: ['news']

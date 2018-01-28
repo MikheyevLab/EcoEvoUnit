@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Dorothy gets A+ for her thesis
 categories: []
 tags: ['news']

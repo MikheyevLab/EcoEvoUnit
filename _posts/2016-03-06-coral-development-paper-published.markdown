@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Coral development paper published"
 date: "2016-03-06"
 author: alexander_mikheyev

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ant transcriptome study published"
 date: "2016-04-12"
 author: alexander_mikheyev

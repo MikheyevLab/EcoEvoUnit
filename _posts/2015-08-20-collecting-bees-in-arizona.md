@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Collecting bees in Arizona
 categories: []
 tags: ['news']

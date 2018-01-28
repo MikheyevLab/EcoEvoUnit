@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Host-associated genomic differentiation paper recommended by F1000"
 date:   2013-11-06 10:42:49
 author: alexander_mikheyev

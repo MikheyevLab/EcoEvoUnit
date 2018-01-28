@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Snake photography at the Okinawa Prefectural Institute of Health and Environment"
 date:   2014-09-01 10:42:49
 author: alexander_mikheyev

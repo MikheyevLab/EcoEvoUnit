@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Shikha Visits Mikheyev Unit"
 date:   2014-01-10 10:42:49
 author: shikha

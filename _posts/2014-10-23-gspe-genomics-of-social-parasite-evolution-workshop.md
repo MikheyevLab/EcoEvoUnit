@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "GSPE: Genomics of Social Parasite Evolution Workshop"
 date:   2014-10-23 10:42:49
 author: alexander_mikheyev

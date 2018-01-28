@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Shikha scores at the top of her class"
 date:   2014-08-25 10:42:49
 author: alexander_mikheyev

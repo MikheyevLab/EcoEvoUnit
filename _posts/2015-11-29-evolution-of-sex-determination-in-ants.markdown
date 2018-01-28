@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Evolution of sex determination in ants"
 date: "2015-11-29"
 image:

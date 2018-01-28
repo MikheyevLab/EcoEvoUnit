@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Goodbye Invitrogen ripoff product"
 date:   2013-11-27 10:42:49
 author: alexander_mikheyev

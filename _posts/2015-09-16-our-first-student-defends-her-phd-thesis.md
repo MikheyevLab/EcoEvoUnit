@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our first student defends her PhD thesis!
 categories: []
 tags: ['news']
