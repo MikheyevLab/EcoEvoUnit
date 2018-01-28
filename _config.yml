@@ -16,6 +16,11 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 kramdown:
   auto_ids: true
