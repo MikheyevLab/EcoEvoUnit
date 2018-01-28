@@ -2,9 +2,9 @@
 
 alexander_mikheyev:
   name: Sasha
-  email: alexander.mikheyev@oist.jp
-  bio: "PI of the Ecology and Evolution Unit"
-  avatar: bio-sasha.jpg
+  email: sasha at homologo.us
+  bio: "PI"
+  avatar: images/bio-sasha.jpg
   twitter:  
   google:
     plus:  
@@ -13,7 +13,7 @@ miquel_grau:
   name: miquel
   email: miguel.graulopez@oist.jp
   bio: "my bio"
-  avatar: bio-miquel.jpg
+  avatar: images/bio-miquel.jpg
   twitter:  
   google:
     plus:  
@@ -22,7 +22,7 @@ jatin_aora:
   name: Jatin Aora
   email: 
   bio:
-  avatar: bio-jatin.jpg
+  avatar: images/bio-jatin.jpg
   twitter:  
   google:
     plus:  
@@ -31,7 +31,7 @@ shikha:
   name: Shikha
   email: 
   bio:
-  avatar: bio-shikha.jpg
+  avatar: images/bio-shikha.jpg
   twitter:  
   google:
     plus: 
@@ -40,7 +40,7 @@ nichole_bennett:
   name: Nichole Bennett
   email: 
   bio:
-  avatar: bio-nichole_bennett.jpg
+  avatar: images/bio-nichole_bennett.jpg
   twitter:  
   google:
     plus: 
@@ -49,7 +49,7 @@ martin_helmkampf:
   name: Martin Helmkampf
   email: 
   bio:
-  avatar: bio-martin.jpg
+  avatar: images/bio-martin.jpg
   twitter:  
   google:
     plus: 
@@ -58,7 +58,7 @@ steve_aird:
   name: Steve Aird
   email: 
   bio: I’ve been working with venomous snakes since 1971 and started work on venom chemistry in 1975.
-  avatar: bio-steve.png
+  avatar: images/bio-steve.png
   twitter:  
   google:
     plus: 
