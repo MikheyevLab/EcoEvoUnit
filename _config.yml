@@ -15,9 +15,9 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-sitemap
- - jekyll-feed
- - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
 
 kramdown:
   auto_ids: true
