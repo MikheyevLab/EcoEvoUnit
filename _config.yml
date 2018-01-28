@@ -16,9 +16,7 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-paginate
  - jekyll-sitemap
- - jekyll-gist
  - jekyll-feed
  - jemoji
 
@@ -44,7 +42,6 @@ defaults:
 
 paginate: 5 # amount of posts to show on home page
 paginate_path: /page:num/
-breadcrumbs: true
 
 # Site owner
 owner:
