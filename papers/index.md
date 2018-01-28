@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Publications
 tags: [about, Jekyll, theme, responsive]
 comments: true

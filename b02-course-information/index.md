@@ -1,11 +1,7 @@
 ---
 title: B02 Course Information
 author: sasha
-layout: page
-layout_key:
-  - 
-post_slider_check_key:
-  - 0
+layout: single
 ---
 # Biology B02: Intro to biology via bioinformatics
 
