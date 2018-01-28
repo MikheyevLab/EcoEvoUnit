@@ -13,11 +13,8 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
+gems:
   - jekyll-sitemap
-  - jekyll-feed
-  - jemoji
 
 kramdown:
   auto_ids: true
@@ -35,6 +32,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
       comments: # true
       share: true
       related: true
