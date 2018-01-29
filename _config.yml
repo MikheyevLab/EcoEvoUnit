@@ -17,7 +17,8 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-
+  - jemoji
+ 
 kramdown:
   auto_ids: true
   footnote_nr: 1
