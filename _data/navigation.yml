@@ -1,10 +1,10 @@
 # Site navigation links
 main:
 - title: People
-  url: /people/index
+  url: /people
 
 - title: Papers
-  url: /papers/publications
+  url: /papers
 
 - title: Methods
   url: /methods
