@@ -1,0 +1,3 @@
+[submodule "papers"]
+	path = papers
+	url = git@github.com:mikheyev/publications.git

@@ -1,10 +1,8 @@
 ---
 layout: single
 title: Publications
-tags: [about, Jekyll, theme, responsive]
-comments: true
 image:
-  feature: oist2.jpg
+  feature: images/oist2.jpg
 ---
 
 <style>
