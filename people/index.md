@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Members of the Ecology and Evolution Unit
+title: Members of the the Mikheyev Labs
 toc: true
 header:
   image: images/Mikheyev2017.png
@@ -15,13 +15,18 @@ header:
 }
 </style>
 
-The Ecology and Evolution research group is part of the <a href="http://www.oist.jp/" target="_blank">Okinawa Institute of Science and Technology Graduate University</a>.
+The Ecology and Evolution research group is part of the <a href="http://www.oist.jp/" target="_blank">Okinawa Institute of Science and Technology Graduate University</a>, where Sasha is currently an adjunct
 
-<iframe src="map.html" width="800" height="600" frameBorder="0" marginwidth="0"> </iframe>
+The [Evolutionary Genomics research group](http://biology.anu.edu.au/research/labs/mikheyev-lab-evolutionary-genomics) is part of the <a href="http://www.anu.edu.au/" target="_blank">Australian National University</a>, where Sasha is on an Australian Research Council-funded long-term fellowship.
+
+Despite the geographical distance, the units work closely with each other.
+
+<!-- <iframe src="map.html" width="800" height="600" frameBorder="0" marginwidth="0"> </iframe> -->
 
 # Lab members, in their own words
 
-## Staff (in order of tenure)
+## Staff 
+(in order of tenure)
 
 #### Alexander Mikheyev (aka Sasha), principal investigator
 
@@ -29,12 +34,12 @@ The Ecology and Evolution research group is part of the <a href="http://www.oist
 I have broad interests in evolutionary biology, focusing mainly on leveraging the power of next-generation tools for answering long-standing basic questions. As a result, I like to explore new techniques, be they laboratory, computational, or involving new sequencing technologies. Although I started my career in the laboratory and in the field, presently I am more of a bioinformatician. Over the past couple of years, I became increasingly interested in applying short-read sequencing to degraded DNA, such as that found in museum, archaeological or other poorly preserved specimens. Having developed a range of tools for high-throughput processing of degraded insects, are harnessing these tools for projects ranging from ecosystem phylogenetics and phylogeography, to studying evolutionary processes using museum samples. Additionally, I maintain an interest in social insect systems, which I worked on during my graduate studies, and also nurture a more recently acquired research program using snake venoms to understand adaptation. In my spare time, I enjoy long runs, and playing the violin.
 
 #### Lijun-Qiu, research technician
-![Qiu]({{ site.url }}/people/img_full/Qiu.jpg ){: .profile-image }
+![Qiu]({{ site.url }}{{ site.baseurl }}/people/img_full/Qiu.jpg ){: .profile-image }
 I have a long-time interest in molecular biology and genetics. Before joining the lab, I spent 5 years working on molecular genetics of castor bean. Now I am working as a research technician on ancient DNA, including ancient DNA extraction, sequencing and so on. So I have the chance to work with different precious samples such as museum samples; it is work requiring special care. In the meantime, I also help Misato with a project on the reproductive system of the ant *Vollenhovia emeryi*, which is really a new world for me. As a Chinese person, I enjoy the peaceful life and beautiful landscape here.
 <!-- 30.77 N 120.75E  -->
 
 #### Maeva Techer, postdoc
-![Maeva]({{ site.url }}/people/img_full/Maeva.jpg ){: .profile-image }
+![Maeva]({{ site.url }}{{ site.baseurl }}/people/img_full/Maeva.jpg ){: .profile-image }
 My primary research interests are mainly directed towards understanding how the evolutionary and ecological processes drive and maintain genetic diversity in populations, particularly in islands systems. I completed my PhD at the University of La Réunion on the genetic diversity and phylogeography of the honey bee Apis mellifera in the Indian Ocean hotspot of biodiversity. I really enjoyed using population genetics tool to understand patterns of colonization and how islands can shape divergence and diversification within an archipelago.
 
 Now as a postdoc in the Mikheyev unit, I will continue to study evolutionary and biogeographical patterns but this time at a global scale. Here my research will focus on honey bees Varroa mites Varroa destructor and V. jacobsoni which quite recently switch host and in several independent events. Using whole genome sequencing, we aimed to better understand the genetic basis that drove the successful host-switch from A. cerana to A. mellifera. Finally, we want to reconstruct V. destructor’s global spread by building a world mites collection and using Bayesian demographic analysis.
@@ -44,19 +49,19 @@ I really love the life in Okinawa and can’t imagine getting tired of the beaut
 [Research Gate profile](https://www.researchgate.net/profile/Maeva_Techer)
 
 #### Mariana Velasque Borges, postdoc
-![Mariana]({{ site.url }}/people/img_full/Mariana.png ){: .profile-image }
+![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
 Hi there!! I am a biologist with a Masters in Ecology from Federal University of Uberlandia (Brazil). My main research interests lie in ecology and behaviour, specifically in the behavioural ecology of individual variation in behaviour. I completed my PhD at Plymouth University, UK, where I investigated the relationship between consistent individual variation in behaviour (animal personality) and its relationship with other life history traits and decision-making in hermit crabs. In OIST, I hope to expand my knowledge, incorporating genetics into the study of individual and group behaviour in honey bees.
 
 In my free time, I enjoy discovering new things (from cooking to playing sports), long runs and books.
 
 #### Vienna Kowallik, postdoc
-![Vienna]({{ site.url }}/people/img_full/Vienna.jpg ){: .profile-image }
+![Vienna]({{ site.url }}{{ site.baseurl }}/people/img_full/Vienna.jpg ){: .profile-image }
 I would describe myself as a microbial-ecologist by heart, I am continuously getting excited about this field. Therefore, so far, my scientific work has focused on understanding the role of interspecific interactions in this field. I studied biology at the Christian-Albrechts University in Kiel, Germany continued doing my Ph.D. working on the natural ecology of Saccharomyces yeasts at the Max-Planck-Institute for Evolutionary Biology in Plön, Germany, followed by a year working on eco-evo dynamics in an algae-virus system. I generally enjoy combining different approaches like field work, metagenomics, lab experiments etc. to gain deeper insight into a study system. Here at OIST I want to study the microbiome of honey bees to see which diversity we find, which differences we might see under specific settings and finally which functions the core symbionts have on their host. The honey bee system is perfect to study host-microbiota related questions as it is experimentally tractable, the microbiome is relatively simple and all core bacterial symbionts are cultivable. Lastly, and importantly, it is hard to treat what we do not understand. Therefore, understanding potential benefits which naturally associated symbionts provide to their host can help in the future to systematically improve the health of our worldwide declining honey bee. 
 
 Coming from Northern Germany I am amazed by the nature surrounding OIST. The ocean, the forests, the biodiversity….great! In my free time, I enjoy hiking and snorkeling. I love Heavy Metal music and my mood cannot be bad enough that listening to a good, loud song would not make me feel better somehow. Festivals and concerts are clearly great events for me. 
 
 #### Ivan Koludarov, postdoc
-![Ivan]({{ site.url }}/people/img_full/Ivan.jpg ){: .profile-image }
+![Ivan]({{ site.url }}{{ site.baseurl }}/people/img_full/Ivan.jpg ){: .profile-image }
 My primary research interest lies in evolution of venom across the taxa. Not only it is one of the best models to study evolution of complex functional traits for it is relatively easy to connect the change in toxin with the change in function, but the interplay of selection forces between tagret organism and venomous animal create a complex yet accessible feedback structure that is extremely interesting to unravel.
 
 My background is relatively diverse. I did my bachelor degree in St. Petersburg State University, where I worked on modifying Pichia pastoris genome to produce a truncated version of human interferon. For my masters thesis I switched to enzymology and physics, using Brillouin light scattering to study changes that occur in lysozyme molecule during denaturation. After graduating, I spent several years doing various internships at different molecular biology labs both in Russia and abroad, until I settled on doing a PhD project on venom evolution in varanid lizards in the lab of Dr. Bryan Fry in University of Queensland. During my years at UQ I participated in numerous venom related projects that helped me to realise that evolution of venom is not only an interesting thing to study, it also allows me to utilise all my skills to its fullest.
@@ -64,22 +69,11 @@ My background is relatively diverse. I did my bachelor degree in St. Petersburg 
 At Prof. Mikheyev’s lab I am using genomic and bioinformatic tools to elucidate the mechanisms and selection forces that underlie the transformation of physiological genes into venom genes.
 
 #### Yoann Portugal, research technician
-![Yoann]({{ site.url }}/people/img_full/Yoann.jpg ){: .profile-image }
+![Yoann]({{ site.url }}{{ site.baseurl }}/people/img_full/Yoann.jpg ){: .profile-image }
 Hey! I am a technician in Mikheyev Unit here at OIST. My role in the group is to take care of the bee colonies we study and to make sure we have the optimum setup and facility to observe them. I also get involved in anything where engineering support is needed.
 Before joining the lab, I was working in China for about 8 years where I was building and starting chemical production factories. I graduated from the Hogeschool Zeeland University of Applied Science, my background is in engineering and project management and I basically like getting my hands dirty and build things. 
 
 I’m glad to have this opportunity of being in Okinawa and working on super interesting subjects with a great team. 
-
-## Collaborators
-
-#### Kasia, postdoc at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
-![Kasia]({{ site.url }}{{ site.baseurl }}/people/img_full/Kasia.jpg ){: .profile-image }
-I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
-
-#### Claire Morandin, postdoc at the [University of Helsinki, Centre of Excellence in Biological Interactions](http://www.helsinki.fi/science/ants/Antzz.html)
-![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
-I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
-
 
 ## Ph.D. Students
 
@@ -96,9 +90,20 @@ Evolution is a process at the background of all biological phenomenon, and is on
 Apart from working in the lab, I enjoy reading books, listening to music, doing yoga, and exploring the joyful and vibrant island that is Okinawa.
 
 #### Rob Campbell, PhD student
-![Rob]({{ site.url }}/people/img_full/Rob.jpg ){: .profile-image }
+![Rob]({{ site.url }}{{ site.baseurl }}/people/img_full/Rob.jpg ){: .profile-image }
 I am interested in the intersection of materials science and evolutionary ecology – how species take advantage of material properties for evolutionary advantage, and how biomaterial structures are influenced by their evolutionary and ecological context. In short -- spider silk! A polymer material with incredible properties and a finely controlled fabrication process essential to organism survival. My thesis looks at spider silk comparatively, bringing together tools from materials science, physics, chemistry, taxonomy, and bioinformatics to contextualize variation in silk production across spider species.
 
 My first project in the lab was as a rotation student, using x-ray microtomography (micro-CT) to visualize parasitoid fly larvae inside their fire ant hosts. Before OIST I did my bachelor’s in physics and international affairs at Skidmore College (United States) and worked in sustainable development, international policy, and communications (United States; China). Then and now, my free time is all about food, foreign languages, and cultural exchange!
 
-{% include_relative alumni.md %}
+
+## Collaborators and frequent visitors
+
+#### Kasia, postdoc at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
+![Kasia]({{ site.url }}{{ site.baseurl }}/people/img_full/Kasia.jpg ){: .profile-image }
+I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
+
+#### Claire Morandin, postdoc at the [University of Helsinki, Centre of Excellence in Biological Interactions](http://www.helsinki.fi/science/ants/Antzz.html)
+![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
+I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
+
+
