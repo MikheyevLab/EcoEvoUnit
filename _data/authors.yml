@@ -91,3 +91,9 @@ mariana_velasque:
   email: mariana.velasque@oist.jp
   bio:
   avatar: images/bio-mariana.png
+  
+  agneesh_barua:
+   name: Agneesh
+   email :agneesh.barua@oist.jp
+   bio: "PhD Student"
+   avatar: images/bio-agneesh.png
