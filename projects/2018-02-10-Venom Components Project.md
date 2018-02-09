@@ -1,7 +1,7 @@
 ---
 title: Venom Components Project
 header:
-  image: images/stick-insect-phd.jpg
+  image: images/gaboon.jpg
 author: Agneesh Barua
 categories: ['Okinawa', 'projects']
 tags: ['gene expression', 'transciptomics', 'venom evolution', 'complex trait']
