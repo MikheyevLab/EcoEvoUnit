@@ -40,13 +40,12 @@ I have a long-time interest in molecular biology and genetics. Before joining th
 
 #### Maeva Techer, postdoc
 ![Maeva]({{ site.url }}{{ site.baseurl }}/people/img_full/Maeva.jpg ){: .profile-image }
-My primary research interests are mainly directed towards understanding how the evolutionary and ecological processes drive and maintain genetic diversity in populations, particularly in islands systems. I completed my PhD at the University of La Réunion on the genetic diversity and phylogeography of the honey bee Apis mellifera in the Indian Ocean hotspot of biodiversity. I really enjoyed using population genetics tool to understand patterns of colonization and how islands can shape divergence and diversification within an archipelago.
+My primary research interests are mainly directed towards understanding how the evolutionary and ecological processes drive and maintain genetic diversity in populations, particularly in islands systems. I completed my PhD at the University of La Réunion on the genetic diversity and phylogeography of the honeybee populations in the Indian Ocean hotspot of biodiversity. I combined classical population genetics and demographic inferences approaches to better understand from where those populations may have originated, and which factors shaped their evolution since. Now focusing on Varroa-honeybee model, I have the opportunity to dig into large genomic data to understand what factors drove successful independent host switches and subsequent spread. Using the power and availability of NGS analysis tools, we will investigate likely complex history of invasive populations considering complex scenario as isolation with migration. 
 
-Now as a postdoc in the Mikheyev unit, I will continue to study evolutionary and biogeographical patterns but this time at a global scale. Here my research will focus on honey bees Varroa mites Varroa destructor and V. jacobsoni which quite recently switch host and in several independent events. Using whole genome sequencing, we aimed to better understand the genetic basis that drove the successful host-switch from A. cerana to A. mellifera. Finally, we want to reconstruct V. destructor’s global spread by building a world mites collection and using Bayesian demographic analysis.
+In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
-I really love the life in Okinawa and can’t imagine getting tired of the beautiful forests! I am really happy to be part of such great team with so many nationalities and culture. In my spare time, I can’t resist to “japanisation” with videos game and mangas but I still like to go to the gym and spend time with friends. Another of my interest is to collect insects and more particularly stick insects (my real life Pokémon)!
-
-[Research Gate profile](https://www.researchgate.net/profile/Maeva_Techer)
+[Research Gate](https://www.researchgate.net/profile/Maeva_Techer)
+[Google scholar](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en&oi=ao)
 
 #### Mariana Velasque Borges, postdoc
 ![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
