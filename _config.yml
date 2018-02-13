@@ -56,9 +56,4 @@ owner:
   github: MikheyevLab
   stackoverflow: #http://stackoverflow.com/users/123456/username
 
-# Variables for properly linking publication data
-papers:
-  pdf: https://homologo.us/papers/pdf
-  media: https://homologo.us/papers/media-coverage
-
 remote_theme: "mmistakes/minimal-mistakes"

@@ -75,6 +75,13 @@ Before joining the lab, I was working in China for about 8 years where I was bui
 
 I’m glad to have this opportunity of being in Okinawa and working on super interesting subjects with a great team. 
 
+#### Miyuki Suenaga, research technician
+![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.jpg ){: .profile-image }
+I'm working as a research technician in the Mikheyev Unit. Previously, I finished my master's degree in Agricultural Science at Kyushu University, studying cell regulation technologies as well as evaluating positive effects of functional food on metabolic diseases. In the moment, I'm working on a honeybee project with Vienna, trying to answer diverse interesting questions using total RNA sequencing of about 2000 frozen, historical honey bee samples which have been collected for more than a decade in the U.S. and Mexico. I'm happy to work here, having the opportunity to gain all that knowledge and experience on NGS technologies. 
+
+I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, as well as the beautiful beaches. In my free time, I also like driving around on the island to enjoy the great scenery.
+
+
 ## Ph.D. Students
 
 #### Carmen Emborski, special research
