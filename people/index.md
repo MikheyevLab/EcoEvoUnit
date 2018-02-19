@@ -62,11 +62,7 @@ Coming from Northern Germany I am amazed by the nature surrounding OIST. The oce
 
 #### Ivan Koludarov, postdoc
 ![Ivan]({{ site.url }}{{ site.baseurl }}/people/img_full/Ivan.jpg ){: .profile-image }
-My primary research interest lies in evolution of venom across the taxa. Not only it is one of the best models to study evolution of complex functional traits for it is relatively easy to connect the change in toxin with the change in function, but the interplay of selection forces between tagret organism and venomous animal create a complex yet accessible feedback structure that is extremely interesting to unravel.
-
-My background is relatively diverse. I did my bachelor degree in St. Petersburg State University, where I worked on modifying Pichia pastoris genome to produce a truncated version of human interferon. For my masters thesis I switched to enzymology and physics, using Brillouin light scattering to study changes that occur in lysozyme molecule during denaturation. After graduating, I spent several years doing various internships at different molecular biology labs both in Russia and abroad, until I settled on doing a PhD project on venom evolution in varanid lizards in the lab of Dr. Bryan Fry in University of Queensland. During my years at UQ I participated in numerous venom related projects that helped me to realise that evolution of venom is not only an interesting thing to study, it also allows me to utilise all my skills to its fullest.
-
-At Prof. Mikheyev’s lab I am using genomic and bioinformatic tools to elucidate the mechanisms and selection forces that underlie the transformation of physiological genes into venom genes.
+I am investigating gene neofunctionalization using venom genes as a model. I am interested in broad evolutionary questions, evolution of biodiversity, venoms and snakes. While I spent twelve years working in different kinds of wet labs, now I am mostly using bioinformatic methods for my research. I did my bachelor and masters in St. Petersburg State University and my PhD in University of Queensland in the lab of Dr. Bryan G. Fry.
 
 #### Yoann Portugal, research technician
 ![Yoann]({{ site.url }}{{ site.baseurl }}/people/img_full/Yoann.jpg ){: .profile-image }
