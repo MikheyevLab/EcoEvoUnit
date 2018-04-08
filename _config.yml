@@ -10,9 +10,6 @@ baseurl: /EcoEvoUnit
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
 
 plugins:
   - jekyll-sitemap
@@ -56,4 +53,4 @@ owner:
   github: MikheyevLab
   stackoverflow: #http://stackoverflow.com/users/123456/username
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@fbb7356d74995fb874258cfc37e74b31bd1b318b"
