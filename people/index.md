@@ -44,7 +44,7 @@ My primary research interests are mainly directed towards understanding how the 
 
 In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
-![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="20px"}(https://www.researchgate.net/profile/Maeva_Techer)![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="20px"}(https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en&oi=ao)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg)](https://www.researchgate.net/profile/Maeva_Techer)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg)](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en)
 
 #### Mariana Velasque Borges, postdoc
 ![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
