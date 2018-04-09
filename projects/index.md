@@ -8,24 +8,6 @@ toc_label: "Research projects"
 toc_icon: "cog"
 ---
 
-<style>
-.left-image
-{
-    height: 200px;
-    float: left;
-    padding: 10px;
-}
-</style>
-
-<style>
-.right-image
-{
-    height: 200px;
-    float: right;
-    padding: 10px;
-}
-</style>
-
 Our overarching goal is to understand the interaction between the genome and the environment. We have been taking advantage of the excellent infrastructure and generous funding available at OIST to explore how next-generation analytical tools can be used to answer a wide range of fundamental questions in ecology and evolution. As technological advances have equalized the playing field, decreasing disparity of analysis possible for model and non-model systems, we are particularly interested in working with unusual organisms, whose unique biology seems best suited to the questions at hand. Our major research projects are currently focused on  understanding the (a) genetic mechanisms involved in social insect caste determination, (b) exploring the genetic consequences of co-evolutionary interactions between symbionts, (c) understanding the interplay between time, geography and genomics structure. We are also interested in developing new next-generation sequencing tools to facilitate our research.
 
 
@@ -41,15 +23,14 @@ Coming soon
 ### Genetic basis of host switch by Varroa mites on the Western honeybee
 #### Maeva and Sasha
 
-The domestication of the Western honey bee and globalization have facilitated the arrival and spread of new parasites and pathogens including the Varroa mites. Since _Varroa destructor_ successfully switched host from the Asian honeybee (_Apis cerana_) to the Western honeybee (_Apis mellifera_) in multiple independent events, it has spread almost worldwide. Not only the ectoparasite induce direct damages via spoiling haemolymph but it is also a virus vector leading to its consideration as one of the main driver of honeybee global decline. Concerns rise as the sister species _V. jacobsoni_ has emerged as an additional threat with the recent jump reported 10 years ago in Papua New Guinea.
+![Honeybee-varroa]({{ site.url }}{{ site.baseurl }}/images/Varroa-bee.jpg "A phoretic Varroa mite on an honey bee worker"){:width="400px"}{: .align-left} The domestication of the Western honey bee and globalization have facilitated the arrival and spread of new parasites and pathogens including the Varroa mites. Since _Varroa destructor_ successfully switched host from the Asian honeybee (_Apis cerana_) to the Western honeybee (_Apis mellifera_) in multiple independent events, it has spread almost worldwide. Not only the ectoparasite induce direct damages via spoiling haemolymph but it is also a virus vector leading to its consideration as one of the main driver of honeybee global decline. Concerns rise as the sister species _V. jacobsoni_ has emerged as an additional threat with the recent jump reported 10 years ago in Papua New Guinea.
 
 How did those specialized organisms repeatedly "jump" and adapt onto a new host? What are the potential genetic and population key factors enabling such events?
 
 <figure class="half">
-    <a href="Vdvj-Ecoevo"><img src="{{ site.url }}{{ site.baseurl }}/images/Vdvj-Ecoevo.jpg" alt="Vdvj-Ecoevo" width="300"></a>
+    <a href="Vdvj-Ecoevo"><img src="{{ site.url }}{{ site.baseurl }}/images/Vdvj-Ecoevo.jpg" alt="Vdvj-Ecoevo" width="600"></a>
     <figcaption>The two vilains of the story: V. jacobsoni and V. destructor (magnified 6x)</figcaption>
 </figure>
-
 Our project aims to tackle some of these questions using next-generation sequencing technology and genetic analysis of mite populations from their original and new hosts. We sequenced and assembled de novo the genome of both [_V. destructor_](https://www.ncbi.nlm.nih.gov/genome/937) and [_V. jacobosoni_ mite](https://www.ncbi.nlm.nih.gov/genome/62339?genome_assembly_id=342322) in order to quantify the structure of the parasite genomes and to identify which genes have evolved due to recent selection. The comparison of whole mite genome collected from their native range will allow to i) identify genetic mechanisms associated with the host switches by the mites, ii) detect historical signatures of selection after the host switch, iii) determine if gene flow has or still occured among populations and between mites species.
 
 Since _V. destructor_ has spread globally, it offers the opportunity to reconstruct a novel parasite spread and population evolution at large scale. For that we have started to build a [world mite collection](https://mikheyevlab.github.io/varroa-map/) with the help of numerous collabotors to retrace the history of _V. destructor_ populations using IM and ABC demographic models. From where did the invasive Varroa came from? What could be the size of the source population(s)? Are the invasive populations genetically connected? So many questions that we hope to answered, to be continued... :honeybee: :honeybee:
@@ -75,7 +56,7 @@ The microbiome can provide its host with flexibility beyond that encoded in host
 We can take advantage of a historical, unique data set consisting of many hundreds of honey bees sampled for more than a decade in the U.S. and Mexico, to generate a detailed picture of the internal microbiome, as well as of associated virus and host transcriptome responses by total RNA sequencing. During this time, a hybridization event from introduced African with wild US-European bee lines occurred. This invasion of the western hemisphere by the African honey bee genotype in less than 50 years and the subsequent spread of the Africanized hybrids is one of the most successful and rapid biological invasions known. Diverse genetic bee backgrounds in the same natural environment, will allow me to examine how host genetics affect microbiomes in the field. 
 
 <figure class="half">
-    <a href="project1"><img src="{{ site.url }}{{ site.baseurl }}/images/project1.jpg" alt="project1" width="300"></a>
+    <a href="project1"><img src="{{ site.url }}{{ site.baseurl }}/images/project1.jpg" alt="project1" width="600"></a>
 </figure>
 
 **2)	Functional experimental tests on microbiota-mediated effects**
@@ -112,19 +93,17 @@ Our goal is to understand how those genes interact with each other forming a net
 
 Suites of genes underlie most phenotypes. Changes in these quantitative phenotypes can occur through changes in coding sequence, but more importantly occur through changes in gene expression. The relevance of gene expression change in phenotypic change has been established in a wide variety of organisms. However, what is still unclear is how changes in gene expression lead to evolution of a complex trait through deep time. 
 
-![Gaboon]({{ site.url }}{{ site.baseurl }}images/gaboon.jpg ){: .left-image }
-Snake venom is a combination of different proteins where the expression of each toxin can be traced and quantified to a specific genomic locus. The expression of each toxin alters its relative abundance in the venom inluencing the efficacy of the venom. Thus, we classify the toxin levels as the polygenic phentype that is snake venom. Drawing analogies from quantitative genetics, we model the effect of phylogeny on gene expression levels between different toxin genes in snake venom. This gives us a picture of how evolution has impacted relationships between toxin expression levels, which in turn effects how the snake venom phenotype is shaped. This project uses comparative transcriptomic data from 45 different snake species. We provide the first comprehensive look into snake venom evolution by combining quntitative, comparative, and phylogenetic concepts under a unified framework. This has allowed us to disucss a novel model snake venom evolution. 
+![Gaboon({{ site.url }}{{ site.baseurl }}/images/gaboon.jpg "Snake"){:width="400px"}{: .align-right} Snake venom is a combination of different proteins where the expression of each toxin can be traced and quantified to a specific genomic locus. The expression of each toxin alters its relative abundance in the venom inluencing the efficacy of the venom. Thus, we classify the toxin levels as the polygenic phentype that is snake venom. Drawing analogies from quantitative genetics, we model the effect of phylogeny on gene expression levels between different toxin genes in snake venom. This gives us a picture of how evolution has impacted relationships between toxin expression levels, which in turn effects how the snake venom phenotype is shaped. This project uses comparative transcriptomic data from 45 different snake species. We provide the first comprehensive look into snake venom evolution by combining quntitative, comparative, and phylogenetic concepts under a unified framework. This has allowed us to disucss a novel model snake venom evolution. 
 
 Stay tuned for updates about the manuscipt, which is presently under preparation.
 
-#### Key words: gene expression, transciptomics, venom evolution, complex trait
+#### <span style="color:red"> Key words: gene expression, transciptomics, venom evolution, complex trait </span>
 
 
 ### Gene Neofunctionalization Project
 #### Ivan and Sasha
 
-![Gaboon]({{ site.url }}{{ site.baseurl }}images/gaboon.jpg ){: .right-image }
-Essentially all the genes that constitute genetic makeup of any Eukaryot originally evolved for completely different role that they’re playing today. So if we want to uncover the history of life on Earth in its fullest, we should know what predisposes a gene to change function and how this change happens. The problem is, that most of those changes took place long time ago and it is almost impossible to reconstruct them. However there are several systems that evolved relatively recently or otherwise left enough evidence to trace their origin. That is the reason why we chose venom genes as our model to study gene neofunctionalization.
+![snake({{ site.url }}{{ site.baseurl }}/images/snake.jpg "Snake"){:width="400px"}{: .align-left} Essentially all the genes that constitute genetic makeup of any Eukaryot originally evolved for completely different role that they’re playing today. So if we want to uncover the history of life on Earth in its fullest, we should know what predisposes a gene to change function and how this change happens. The problem is, that most of those changes took place long time ago and it is almost impossible to reconstruct them. However there are several systems that evolved relatively recently or otherwise left enough evidence to trace their origin. That is the reason why we chose venom genes as our model to study gene neofunctionalization.
 
 All venom genes evolved from a physiological gene via the change of expression pattern, structure and very often – copy number. And even though all venomous lineages of animals got their venoms independently, they all share a core profile of gene classes, like phospholipases or serine proteases. So while venom of a honey-bee has a dramatically different effect than that of a viper, they are very similar in terms of their components and evolutionary paths that led to their existence.
 
