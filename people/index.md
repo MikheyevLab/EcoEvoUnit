@@ -33,7 +33,8 @@ Despite the geographical distance, the units work closely with each other.
 ![Sasha]({{ site.url }}{{ site.baseurl }}/people/img_full/sasha.jpg ){: .profile-image }
 I have broad interests in evolutionary biology, focusing mainly on leveraging the power of next-generation tools for answering long-standing basic questions. As a result, I like to explore new techniques, be they laboratory, computational, or involving new sequencing technologies. Although I started my career in the laboratory and in the field, presently I am more of a bioinformatician. Over the past couple of years, I became increasingly interested in applying short-read sequencing to degraded DNA, such as that found in museum, archaeological or other poorly preserved specimens. Having developed a range of tools for high-throughput processing of degraded insects, are harnessing these tools for projects ranging from ecosystem phylogenetics and phylogeography, to studying evolutionary processes using museum samples. Additionally, I maintain an interest in social insect systems, which I worked on during my graduate studies, and also nurture a more recently acquired research program using snake venoms to understand adaptation. In my spare time, I enjoy long runs, and playing the violin.
 
-[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=d1Q6iL0AAAAJ&hl=en&oi=ao)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/gitHub-icon.jpg){:width="40px"}](https://github.com/mikheyev)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/amikheyev)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](alexander.mikheyev@oist.jp)
+[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=d1Q6iL0AAAAJ&hl=en&oi=ao)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/mikheyev)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/amikheyev)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} alexander.mikheyev@oist.jp
 
 #### Lijun-Qiu, research technician
 ![Qiu]({{ site.url }}{{ site.baseurl }}/people/img_full/Qiu.jpg ){: .profile-image }
@@ -48,7 +49,8 @@ My primary research interests are mainly directed towards understanding how the 
 
 In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Maeva_Techer)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/gitHub-icon.jpg){:width="40px"}](https://github.com/MaevaTecher)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AlphaManae)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](maeva.techer@oist.jp)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Maeva_Techer)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/MaevaTecher)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AlphaManae)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} maeva.techer@oist.jp / maeva.angelique.techer@gmail.com
 
 #### Mariana Velasque Borges, postdoc
 ![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
@@ -56,7 +58,8 @@ Hi there!! I am a biologist with a Masters in Ecology from Federal University of
 
 In my free time, I enjoy discovering new things (from cooking to playing sports), long runs and books.
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Mariana_Velasque2)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](mariana.velasque@oist.jp)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Mariana_Velasque2)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} mariana.velasque@oist.jp
 
 #### Vienna Kowallik, postdoc
 ![Vienna]({{ site.url }}{{ site.baseurl }}/people/img_full/Vienna.jpg ){: .profile-image }
@@ -64,13 +67,15 @@ I would describe myself as a microbial-ecologist by heart, I am continuously get
 
 Coming from Northern Germany I am amazed by the nature surrounding OIST. The ocean, the forests, the biodiversity….great! In my free time, I enjoy hiking and snorkeling. I love Heavy Metal music and my mood cannot be bad enough that listening to a good, loud song would not make me feel better somehow. Festivals and concerts are clearly great events for me. 
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Vienna_Kowallik)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=csztAWwAAAAJ&hl=en&oi=ao)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](vienna.kowallik@oist.jp)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Vienna_Kowallik)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=csztAWwAAAAJ&hl=en&oi=ao)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} vienna.kowallik@oist.jp
 
 #### Ivan Koludarov, postdoc
 ![Ivan]({{ site.url }}{{ site.baseurl }}/people/img_full/Ivan.jpg ){: .profile-image }
 I am investigating gene neofunctionalization using venom genes as a model. I am interested in broad evolutionary questions, evolution of biodiversity, venoms and snakes. While I spent twelve years working in different kinds of wet labs, now I am mostly using bioinformatic methods for my research. I did my bachelor and masters in St. Petersburg State University and my PhD in University of Queensland in the lab of Dr. Bryan G. Fry.
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Ivan_Koludarov)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=ao)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](ivan.koludarov@oist.jp)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Ivan_Koludarov)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=ao)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} ivan.koludarov@oist.jp
 
 #### Yoann Portugal, research technician
 ![Yoann]({{ site.url }}{{ site.baseurl }}/people/img_full/Yoann.jpg ){: .profile-image }
@@ -100,7 +105,8 @@ Evolution is a process at the background of all biological phenomenon, and is on
 
 Apart from working in the lab, I enjoy reading books, listening to music, doing yoga, and exploring the joyful and vibrant island that is Okinawa.
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Agneesh_Barua)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/gitHub-icon.jpg){:width="40px"}](https://github.com/agneeshbarua)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AgneeshBarua)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](agneesh.barua@oist.jp)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Agneesh_Barua)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/agneeshbarua)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AgneeshBarua)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} agneesh.barua@oist.jp
 
 #### Rob Campbell, PhD student
 ![Rob]({{ site.url }}{{ site.baseurl }}/people/img_full/Rob.jpg ){: .profile-image }
@@ -108,7 +114,8 @@ I am interested in the intersection of materials science and evolutionary ecolog
 
 My first project in the lab was as a rotation student, using x-ray microtomography (micro-CT) to visualize parasitoid fly larvae inside their fire ant hosts. Before OIST I did my bachelor’s in physics and international affairs at Skidmore College (United States) and worked in sustainable development, international policy, and communications (United States; China). Then and now, my free time is all about food, foreign languages, and cultural exchange!
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Robert_Campbell40)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=aon)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/gitHub-icon.jpg){:width="40px"}](https://github.com/rob10campbell)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/rob10c)[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](robert.campbell@oist.jp)
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Robert_Campbell40)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=aon)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/rob10campbell)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/rob10c)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} robert.campbell@oist.jp
 
 ## Collaborators and frequent visitors
 
