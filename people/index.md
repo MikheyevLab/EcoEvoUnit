@@ -44,8 +44,7 @@ My primary research interests are mainly directed towards understanding how the 
 
 In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
-[Research Gate profile](https://www.researchgate.net/profile/Maeva_Techer)
-[Google scholar](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en&oi=ao)
+![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="20px"}(https://www.researchgate.net/profile/Maeva_Techer)![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="20px"}(https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en&oi=ao)
 
 #### Mariana Velasque Borges, postdoc
 ![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
@@ -107,7 +106,12 @@ I am interested in the intersection of materials science and evolutionary ecolog
 
 My first project in the lab was as a rotation student, using x-ray microtomography (micro-CT) to visualize parasitoid fly larvae inside their fire ant hosts. Before OIST I did my bachelor’s in physics and international affairs at Skidmore College (United States) and worked in sustainable development, international policy, and communications (United States; China). Then and now, my free time is all about food, foreign languages, and cultural exchange!
 
+[Personal webpage](https://rob10campbell.wixsite.com/research)
 [Research Gate profile](https://www.researchgate.net/profile/Robert_Campbell40)
+[Google scholar](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=ao)
+[Linkedin](https://www.linkedin.com/in/rob10campbell/)
+[Github](https://github.com/rob10campbell)
+Twitter: @rob10c
 
 ## Collaborators and frequent visitors
 
