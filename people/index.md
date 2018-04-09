@@ -50,8 +50,7 @@ My primary research interests are mainly directed towards understanding how the 
 In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Maeva_Techer)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/MaevaTecher)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AlphaManae)
-![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} maeva.techer@oist.jp / maeva.angelique.techer@gmail.com
-
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} maeva.techer@oist.jp
 #### Mariana Velasque Borges, postdoc
 ![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
 Hi there!! I am a biologist with a Masters in Ecology from Federal University of Uberlandia (Brazil). My main research interests lie in ecology and behaviour, specifically in the behavioural ecology of individual variation in behaviour. I completed my PhD at Plymouth University, UK, where I investigated the relationship between consistent individual variation in behaviour (animal personality) and its relationship with other life history traits and decision-making in hermit crabs. In OIST, I hope to expand my knowledge, incorporating genetics into the study of individual and group behaviour in honey bees.
@@ -105,7 +104,7 @@ Evolution is a process at the background of all biological phenomenon, and is on
 
 Apart from working in the lab, I enjoy reading books, listening to music, doing yoga, and exploring the joyful and vibrant island that is Okinawa.
 
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Agneesh_Barua)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/agneeshbarua)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AgneeshBarua)
+[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AgneeshBarua)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} agneesh.barua@oist.jp
 
 #### Rob Campbell, PhD student
