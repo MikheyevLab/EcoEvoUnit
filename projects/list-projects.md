@@ -96,10 +96,13 @@ Raymann, K. and Moran, N.A., 2018. The role of the gut microbiome in health and 
 #### Key words: host - microbiome, honey bee health, next-generation sequencing, experiments
 
 
-### Double sex
-#### Mariana and Sasha
+### Regulation of reproductive division of labour in honey bees
+#### Mari and Sasha
 
-Coming soon
+
+Among eusocial animals, honey bees (_Apis mellifera_) have one of the most extreme divisions of labour where one queen monopolizes all reproduction and thousands of sterile workers perform all other tasks in the colony. However, in few circumstances, their sterility can be reversible. For instance, in the absence of a chemical signal produced by queens (usually when the queen dies), called queen mandibular pheromone (QMP), workers activate their (rudimentary) ovaries and lay eggs. Such process is regulated by a set of genes that interact with the environment, coordinating worker sterility and even expression of secondary traits (e.g. behaviour and pheromones).
+
+Our goal is to understand how those genes interact with each other forming a network and how regulate reproductive division of labour in honey bees.
 
 
 ## Venom evolution

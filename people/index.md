@@ -45,7 +45,6 @@ My primary research interests are mainly directed towards understanding how the 
 In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
 [Research Gate profile](https://www.researchgate.net/profile/Maeva_Techer)
-
 [Google scholar](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en&oi=ao)
 
 #### Mariana Velasque Borges, postdoc
@@ -54,15 +53,23 @@ Hi there!! I am a biologist with a Masters in Ecology from Federal University of
 
 In my free time, I enjoy discovering new things (from cooking to playing sports), long runs and books.
 
+[Research Gate profile](https://www.researchgate.net/profile/Mariana_Velasque2)
+
 #### Vienna Kowallik, postdoc
 ![Vienna]({{ site.url }}{{ site.baseurl }}/people/img_full/Vienna.jpg ){: .profile-image }
 I would describe myself as a microbial-ecologist by heart, I am continuously getting excited about this field. Therefore, so far, my scientific work has focused on understanding the role of interspecific interactions in this field. I studied biology at the Christian-Albrechts University in Kiel, Germany continued doing my Ph.D. working on the natural ecology of Saccharomyces yeasts at the Max-Planck-Institute for Evolutionary Biology in Plön, Germany, followed by a year working on eco-evo dynamics in an algae-virus system. I generally enjoy combining different approaches like field work, metagenomics, lab experiments etc. to gain deeper insight into a study system. Here at OIST I want to study the microbiome of honey bees to see which diversity we find, which differences we might see under specific settings and finally which functions the core symbionts have on their host. The honey bee system is perfect to study host-microbiota related questions as it is experimentally tractable, the microbiome is relatively simple and all core bacterial symbionts are cultivable. Lastly, and importantly, it is hard to treat what we do not understand. Therefore, understanding potential benefits which naturally associated symbionts provide to their host can help in the future to systematically improve the health of our worldwide declining honey bee. 
 
 Coming from Northern Germany I am amazed by the nature surrounding OIST. The ocean, the forests, the biodiversity….great! In my free time, I enjoy hiking and snorkeling. I love Heavy Metal music and my mood cannot be bad enough that listening to a good, loud song would not make me feel better somehow. Festivals and concerts are clearly great events for me. 
 
+[Research Gate profile](https://www.researchgate.net/profile/Vienna_Kowallik)
+[Google scholar](https://scholar.google.co.jp/citations?user=csztAWwAAAAJ&hl=en&oi=ao)
+
 #### Ivan Koludarov, postdoc
 ![Ivan]({{ site.url }}{{ site.baseurl }}/people/img_full/Ivan.jpg ){: .profile-image }
 I am investigating gene neofunctionalization using venom genes as a model. I am interested in broad evolutionary questions, evolution of biodiversity, venoms and snakes. While I spent twelve years working in different kinds of wet labs, now I am mostly using bioinformatic methods for my research. I did my bachelor and masters in St. Petersburg State University and my PhD in University of Queensland in the lab of Dr. Bryan G. Fry.
+
+[Research Gate profile](https://www.researchgate.net/profile/Ivan_Koludarov)
+[Google scholar](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=ao)
 
 #### Yoann Portugal, research technician
 ![Yoann]({{ site.url }}{{ site.baseurl }}/people/img_full/Yoann.jpg ){: .profile-image }
@@ -92,12 +99,15 @@ Evolution is a process at the background of all biological phenomenon, and is on
 
 Apart from working in the lab, I enjoy reading books, listening to music, doing yoga, and exploring the joyful and vibrant island that is Okinawa.
 
+[Research Gate profile](https://www.researchgate.net/profile/Agneesh_Barua)
+
 #### Rob Campbell, PhD student
 ![Rob]({{ site.url }}{{ site.baseurl }}/people/img_full/Rob.jpg ){: .profile-image }
 I am interested in the intersection of materials science and evolutionary ecology – how species take advantage of material properties for evolutionary advantage, and how biomaterial structures are influenced by their evolutionary and ecological context. In short -- spider silk! A polymer material with incredible properties and a finely controlled fabrication process essential to organism survival. My thesis looks at spider silk comparatively, bringing together tools from materials science, physics, chemistry, taxonomy, and bioinformatics to contextualize variation in silk production across spider species.
 
 My first project in the lab was as a rotation student, using x-ray microtomography (micro-CT) to visualize parasitoid fly larvae inside their fire ant hosts. Before OIST I did my bachelor’s in physics and international affairs at Skidmore College (United States) and worked in sustainable development, international policy, and communications (United States; China). Then and now, my free time is all about food, foreign languages, and cultural exchange!
 
+[Research Gate profile](https://www.researchgate.net/profile/Robert_Campbell40)
 
 ## Collaborators and frequent visitors
 
