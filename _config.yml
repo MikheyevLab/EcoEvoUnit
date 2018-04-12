@@ -39,6 +39,11 @@ defaults:
 paginate: 5 # amount of posts to show on home page
 paginate_path: /page:num/
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-45186360-8"
+
 # Site owner
 owner:
   name: Mikheyev Labs
@@ -47,9 +52,6 @@ owner:
   email: ecoevo@oist.jp
   disqus-shortname: 
   twitter: #username
-  google:
-    analytics: UA-45186360-8
-
   github: MikheyevLab
   stackoverflow: #http://stackoverflow.com/users/123456/username
 
