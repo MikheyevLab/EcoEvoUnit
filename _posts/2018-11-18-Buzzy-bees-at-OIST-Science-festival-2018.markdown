@@ -7,14 +7,14 @@ author: maeva_techer
 
 Same as for the past two years, we had **observation beehives** :honeybee: in a display, and you could learn all about the hive life with our superstar Miyuki-san! You could see and touch what you can find inside a hive (wax, pollen, bee bread and honey) but also observed bee parasites like the wax moth and mites with the excellent guidance of Rob and Tracy. How about playing to the updated version of the **EcoEvo quest 2.0** and learn about our research with the amazing Qiu-chan and our volunteer Tanaka-san? Finally, one new activity was to show your interest in honey bee by **crafting your own set of antenna** and using your imagination with Vienna-chan (such a success that we ran out of material too quickly!)
 
-We hope to continue this tradition as it is essential for us to also share our research widely outside of the scientific community and especially to Okinawan. Besides we get to learn new Japanese words and meet so many people :D ! Who knows maybe in a few years, OIST will welcome future students who were inspired by such scicomm event?
-
-Here are some pictures of this year event and you can even check OIST Instagram photo contest #oist:
-
 <figure class="half">
     <a href="The EcoEvo Quest with Qiu"><img src="{{ site.url }}{{ site.baseurl }}/images/QiuOIST2018.jpg" alt="QiuOIST2018" width="300"></a>
     <a href="Inside a bee hive"><img src="{{ site.url }}{{ site.baseurl }}/images/TracyOIST2018.jpg" alt="TracyOIST2018" width="300"></a>
 </figure>
+
+We hope to continue this tradition as it is essential for us to also share our research widely outside of the scientific community and especially to Okinawan. Besides we get to learn new Japanese words and meet so many people :D ! Who knows maybe in a few years, OIST will welcome future students who were inspired by such scicomm event?
+
+Here are some pictures of this year event and you can even check OIST Instagram photo contest #oist:
 
 <figure class="half">
     <a href="Crafting with Vienna"><img src="{{ site.url }}{{ site.baseurl }}/images/ViennaOIST2018.jpg" alt="ViennaOIST2018" width="300"></a>
