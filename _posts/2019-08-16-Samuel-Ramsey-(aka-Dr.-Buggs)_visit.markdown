@@ -7,7 +7,7 @@ author: maeva_techer
 Dr. Samuel Ramsey (also know as Dr. Buggs), a postdoctoral researcher at the USDA Maryland is a honey bee mite expert and parasitologist and visited our unit from August 11 to 16, 2019. 
 
 <figure>
-    <a href="Samuel"><img src="{{ site.url }}{{ site.baseurl }}/images/Sammy.jpg" alt="Varroa-sammy" width="600"></a>
+    <a href="Samuel"><img src="{{ site.url }}{{ site.baseurl }}/images/Sammy.jpg" alt="Varroa-sammy" width="800"></a>
     <figcaption>Dr. Samuel Ramsey gave a talk about honey bee mites at OIST on 13/08/2019</figcaption>
 </figure>
 

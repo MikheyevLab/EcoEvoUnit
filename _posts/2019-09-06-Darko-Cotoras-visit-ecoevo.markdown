@@ -7,7 +7,7 @@ author: maeva_techer
 It is our pleasure to welcome again in our unit, Dr. Darko Cotoras, a [research associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras), from September 4th to October 6th, 2019. 
 
 <figure>
-    <a href="Darko"><img src="{{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg" alt="Darko" width="500"></a>
+    <a href="Darko"><img src="{{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg" alt="Darko" width="800"></a>
     <figcaption>Dr. Darko D. Cotoras</figcaption>
 </figure>
 
