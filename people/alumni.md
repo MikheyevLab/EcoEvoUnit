@@ -117,3 +117,32 @@ I am from Delhi, the capital city of India. Born and brought up in the second mo
 I am a first year PhD student at OIST and choose the Ecology and Evolution Unit for my first rotation. In my rotation project, I am working on estimating the effective population size for ant fauna in Cocos Island using temporal samples collected at different times. I graduated form Nanjing University in Life sciences. I have some experience on molecular biology and protein purification, but I want to come into contact with different areas of life sciences, especially for ecology and evolution. In my spare time, I enjoy swimming and traveling.
 
 <br>
+
+#### Rob Campbell, PhD student
+![Rob]({{ site.url }}{{ site.baseurl }}/people/img_full/Rob.jpg ){: .profile-image }
+I am interested in the intersection of materials science and evolutionary ecology – how species take advantage of material properties for evolutionary advantage, and how biomaterial structures are influenced by their evolutionary and ecological context. In short -- spider silk! A polymer material with incredible properties and a finely controlled fabrication process essential to organism survival. My thesis looks at spider silk comparatively, bringing together tools from materials science, physics, chemistry, taxonomy, and bioinformatics to contextualize variation in silk production across spider species.
+
+My first project in the lab was as a rotation student, using x-ray microtomography (micro-CT) to visualize parasitoid fly larvae inside their fire ant hosts. Before OIST I did my bachelor’s in physics and international affairs at Skidmore College (United States) and worked in sustainable development, international policy, and communications (United States; China). Then and now, my free time is all about food, foreign languages, and cultural exchange!
+
+
+#### Carmen Emborski, special research
+![Carmen]({{ site.url }}{{ site.baseurl }}/people/img_full/Carmen.jpg ){: .profile-image }
+I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. 
+
+While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
+
+#### Yoann Portugal, research technician
+![Yoann]({{ site.url }}{{ site.baseurl }}/people/img_full/Yoann.jpg ){: .profile-image }
+Hey! I am a technician in Mikheyev Unit here at OIST. My role in the group is to take care of the bee colonies we study and to make sure we have the optimum setup and facility to observe them. I also get involved in anything where engineering support is needed.
+Before joining the lab, I was working in China for about 8 years where I was building and starting chemical production factories. I graduated from the Hogeschool Zeeland University of Applied Science, my background is in engineering and project management and I basically like getting my hands dirty and build things. 
+
+I’m glad to have this opportunity of being in Okinawa and working on super interesting subjects with a great team. 
+
+#### Mariana Velasque Borges, postdoc
+![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
+Hi there!! I am a biologist with a Masters in Ecology from Federal University of Uberlandia (Brazil). My main research interests lie in ecology and behaviour, specifically in the behavioural ecology of individual variation in behaviour. I completed my PhD at Plymouth University, UK, where I investigated the relationship between consistent individual variation in behaviour (animal personality) and its relationship with other life history traits and decision-making in hermit crabs. In OIST, I hope to expand my knowledge, incorporating genetics into the study of individual and group behaviour in honey bees.
+
+In my free time, I enjoy discovering new things (from cooking to playing sports), long runs and books.
+
+[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Mariana_Velasque2)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} mariana.velasque@oist.jp

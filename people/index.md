@@ -51,14 +51,6 @@ In my spare time, I like to relax with videos game, discovering new places in Ok
 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Maeva_Techer)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/MaevaTecher)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AlphaManae)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} maeva.techer@oist.jp
-#### Mariana Velasque Borges, postdoc
-![Mariana]({{ site.url }}{{ site.baseurl }}/people/img_full/Mariana.png ){: .profile-image }
-Hi there!! I am a biologist with a Masters in Ecology from Federal University of Uberlandia (Brazil). My main research interests lie in ecology and behaviour, specifically in the behavioural ecology of individual variation in behaviour. I completed my PhD at Plymouth University, UK, where I investigated the relationship between consistent individual variation in behaviour (animal personality) and its relationship with other life history traits and decision-making in hermit crabs. In OIST, I hope to expand my knowledge, incorporating genetics into the study of individual and group behaviour in honey bees.
-
-In my free time, I enjoy discovering new things (from cooking to playing sports), long runs and books.
-
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Mariana_Velasque2)
-![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} mariana.velasque@oist.jp
 
 #### Vienna Kowallik, postdoc
 ![Vienna]({{ site.url }}{{ site.baseurl }}/people/img_full/Vienna.jpg ){: .profile-image }
@@ -76,12 +68,6 @@ I am investigating gene neofunctionalization using venom genes as a model. I am 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Ivan_Koludarov)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=ao)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} ivan.koludarov@oist.jp
 
-#### Yoann Portugal, research technician
-![Yoann]({{ site.url }}{{ site.baseurl }}/people/img_full/Yoann.jpg ){: .profile-image }
-Hey! I am a technician in Mikheyev Unit here at OIST. My role in the group is to take care of the bee colonies we study and to make sure we have the optimum setup and facility to observe them. I also get involved in anything where engineering support is needed.
-Before joining the lab, I was working in China for about 8 years where I was building and starting chemical production factories. I graduated from the Hogeschool Zeeland University of Applied Science, my background is in engineering and project management and I basically like getting my hands dirty and build things. 
-
-I’m glad to have this opportunity of being in Okinawa and working on super interesting subjects with a great team. 
 
 #### Miyuki Suenaga, research technician
 ![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.jpg ){: .profile-image }
@@ -92,11 +78,6 @@ I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, a
 
 ## Ph.D. Students
 
-#### Carmen Emborski, special research
-![Carmen]({{ site.url }}{{ site.baseurl }}/people/img_full/Carmen.jpg ){: .profile-image }
-I have had a really unique opportunity to complete my studies at Texas Tech University in the U.S.A. and pursue my dissertation research here at OIST. My educational background is in biology with a focus in environmental toxicology and human health. For my research, I am studying if and how exposure to extreme diets (i.e. starvation and diets very high in sugar) within a single-generation can lead to the inheritance of metabolic syndrome (i.e. diabetes and obesity) across several generations using *Drosophila melanogaster* as my model organism. I am also interested in the interplay between metabolism and fitness, and more specifically how extreme diets can transgenerationally alter fitness. 
-
-While here in Okinawa, and particularly while here at OIST, I have enjoyed getting to know people from many different disciplines and cultures, including the really awesome people that make up our lab. In my free time, I enjoy scuba diving, exploring the island, trying new restaurants, making new friends, and enjoying the company of friends already made. If you have any questions about OIST, this lab, or about Okinawa, feel free to email me and I'll be happy to share my perspective and experiences.
 
 #### Agneesh Barua, PhD student 
 ![Agneesh]({{ site.url }}{{ site.baseurl }}/people/img_full/Agneesh.jpg ){: .profile-image }
@@ -107,11 +88,6 @@ Apart from working in the lab, I enjoy reading books, listening to music, doing 
 [![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AgneeshBarua)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} agneesh.barua@oist.jp
 
-#### Rob Campbell, PhD student
-![Rob]({{ site.url }}{{ site.baseurl }}/people/img_full/Rob.jpg ){: .profile-image }
-I am interested in the intersection of materials science and evolutionary ecology – how species take advantage of material properties for evolutionary advantage, and how biomaterial structures are influenced by their evolutionary and ecological context. In short -- spider silk! A polymer material with incredible properties and a finely controlled fabrication process essential to organism survival. My thesis looks at spider silk comparatively, bringing together tools from materials science, physics, chemistry, taxonomy, and bioinformatics to contextualize variation in silk production across spider species.
-
-My first project in the lab was as a rotation student, using x-ray microtomography (micro-CT) to visualize parasitoid fly larvae inside their fire ant hosts. Before OIST I did my bachelor’s in physics and international affairs at Skidmore College (United States) and worked in sustainable development, international policy, and communications (United States; China). Then and now, my free time is all about food, foreign languages, and cultural exchange!
 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Robert_Campbell40)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.com/citations?view_op=list_works&hl=en&user=i8S54zYAAAAJ)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/rob10campbell)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/rob10c)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} robert.campbell@oist.jp
