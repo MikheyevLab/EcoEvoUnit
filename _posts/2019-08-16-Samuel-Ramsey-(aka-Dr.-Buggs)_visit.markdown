@@ -1,0 +1,17 @@
+---
+title: "Samuel Ramsey (aka Dr. Buggs) visit and talk at OIST"
+date: "2019-08-16"
+author: maeva_techer
+---
+
+<figure>
+    <a href="Samuel"><img src="{{ site.url }}{{ site.baseurl }}/images/Sammy.jpg" alt="Varroa species" width="600"></a>
+    <figcaption>Dr. Samuel Ramsey gave a talk about honey bee mite at OIST on 13/08/2019</figcaption>
+</figure>
+
+Dr. Samuel Ramsey (also know as Dr. Buggs), postdoctoral researcher at the USDA Maryland is an honey bee mite expert and parasitologist and visited our unit from August 11 to 16, 2019. We have been lucky to host his amazing talk __"Despicable Mites: Recent Findings in the Study of Two Honey Bee Parasites"__ with a big focus on his recently published work on the mysteries around *Varroa destructor* feeding on its honey host ([spoiler alert: it feeds on fat body and not hemolymph as though for decades!](https://www.pnas.org/content/116/5/1792). Samuel also shared about his ongoing project in Thailand to better understand the biology of another terrible mite *Tropilaelaps mercedesae* and its behavioral interactions with its honey bee host in the native range.
+
+He look forward to hearing more about his research and fieldwork in Asia which will also help us improving our Varroa world biogeography project.
+
+
+
