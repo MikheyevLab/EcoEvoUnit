@@ -1,6 +1,6 @@
 ---
 title: "The return of Darko: a spider's tale"
-date: "2019-09-"06
+date: "2019-09-06"
 author: maeva_techer
 ---
 
