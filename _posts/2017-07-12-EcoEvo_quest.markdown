@@ -15,7 +15,7 @@ author: maeva_techer
 
 Our large **observation beehive** :honeybee: encountered a huge success and kids were not the only curious ones. After trying to spot the queen, the public was invited to taste fresh honey from our experimental apiary while learning a bit more about the beehive life. We also wanted to make them aware of the different threats honeybees are facing. A small exhibition was set up with an example of a sick hive where the public could look at picture size frames with symptoms and disease details.
 
-![EcoEvo's Quest "video game" with our arcade avatars]({{ site.url }}{{ site.baseurl }}/images/opening_quest.png){:width="600px"}
+![EcoEvo's Quest "video game" with our arcade avatars]({{ site.url }}{{ site.baseurl }}/images/opening_quest.jpg){:width="600px"}
 
 One of our ideas was also to make our research playful and using PowerPoint, a bit of imagination and arcade design we created the video game **EcoEvo’s QUEST**. Player could virtually incarnate our lab members for some parts of their daily work, learning about bees and DNA. You could help Yoann finding a queen, collect varroa mites with Maeva, find deformed wings of infected bees with Jo, solve a DNA puzzle with Qiu and more. The game is available in both English and Japanese. 
 
