@@ -3,7 +3,7 @@ layout: single
 title: Members of the the Mikheyev Labs
 toc: true
 header:
-  image: images/Mikheyev2017.png
+  image: images/Mikheyev2017_2.jpg
 ---
 
 <style>
@@ -36,7 +36,10 @@ I have broad interests in evolutionary biology, focusing mainly on leveraging th
 [![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=d1Q6iL0AAAAJ&hl=en&oi=ao)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/mikheyev)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/amikheyev)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} alexander.mikheyev@oist.jp
 
+
   
+
+
 ### Research technicians
 #### Lijun-QIU, 2013-today
 ![Qiu]({{ site.url }}{{ site.baseurl }}/people/img_full/Qiu.jpg ){: .profile-image }
@@ -58,6 +61,8 @@ I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, a
   
 
 
+
+
 ### Postdoctoral researchers
 #### Maeva TECHER, JSPS postdoctoral fellow, 2016-today
 ![Maeva]({{ site.url }}{{ site.baseurl }}/people/img_full/Maeva.jpg ){: .profile-image }
@@ -69,6 +74,8 @@ In my spare time, I like to relax with videos game, discovering new places in Ok
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} maeva.techer@oist.jp
   
 
+
+
 #### Vienna KOWALLIK, DFG postdoctoral fellow, 2017-today
 ![Vienna]({{ site.url }}{{ site.baseurl }}/people/img_full/Vienna.jpg ){: .profile-image }
 I would describe myself as a microbial-ecologist by heart, I am continuously getting excited about this field. Therefore, so far, my scientific work has focused on understanding the role of interspecific interactions in this field. I studied biology at the Christian-Albrechts University in Kiel, Germany continued doing my Ph.D. working on the natural ecology of Saccharomyces yeasts at the Max-Planck-Institute for Evolutionary Biology in Plön, Germany, followed by a year working on eco-evo dynamics in an algae-virus system. I generally enjoy combining different approaches like field work, metagenomics, lab experiments etc. to gain deeper insight into a study system. Here at OIST I want to study the microbiome of honey bees to see which diversity we find, which differences we might see under specific settings and finally which functions the core symbionts have on their host. The honey bee system is perfect to study host-microbiota related questions as it is experimentally tractable, the microbiome is relatively simple and all core bacterial symbionts are cultivable. Lastly, and importantly, it is hard to treat what we do not understand. Therefore, understanding potential benefits which naturally associated symbionts provide to their host can help in the future to systematically improve the health of our worldwide declining honey bee. 
@@ -77,7 +84,9 @@ Coming from Northern Germany I am amazed by the nature surrounding OIST. The oce
 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Vienna_Kowallik)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=csztAWwAAAAJ&hl=en&oi=ao)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} vienna.kowallik@oist.jp
-  
+   
+
+
 
 #### Ivan KOLUDAROV, Postdoc, 2017-today
 ![Ivan]({{ site.url }}{{ site.baseurl }}/people/img_full/Ivan.jpg ){: .profile-image }
@@ -87,10 +96,16 @@ I am investigating gene neofunctionalization using venom genes as a model. I am 
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} ivan.koludarov@oist.jp
 
   
+  
+
 
 ### Research Unit Administrator
 #### Saori CHAPPELL チャペル 沙織, 2018-today
 ![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori.jpg ){: .profile-image }
+  
+
+
+
 
 
 ## Ph.D. Students
@@ -110,28 +125,40 @@ Apart from working in the lab, I enjoy reading books, listening to music, doing 
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} robert.campbell@oist.jp
 
   
+  
+
 
 ## Collaborators and frequent visitors
 
 #### Kasia, Group leader at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
 ![Kasia]({{ site.url }}{{ site.baseurl }}/people/img_full/Kasia.jpg ){: .profile-image }
 I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
-  
+   
+
 
 #### Claire Morandin, postdoc at the [University of Helsinki, Centre of Excellence in Biological Interactions](http://www.helsinki.fi/science/ants/Antzz.html)
 ![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
 I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
-  
+    
+
+
 
 #### Chao Dong, postdoc at the [Linksvayer Lab](https://web.sas.upenn.edu/linksvayer-lab/), University of Pennsylvania
 ![Chao]({{ site.url }}{{ site.baseurl }}/images/bio-Chao.jpg ){: .profile-image }
   
-  
+    
+
+
 
 #### Darko Cotoras, Research Associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras)
 ![Darko]({{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg ){: .profile-image }
   
-  
+     
+
+
+
+
+
 
 ## Alumni
 
