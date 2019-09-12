@@ -57,8 +57,8 @@ I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, a
 
   
 #### Endo TATSUYA 遠藤達矢, 2019-today
-![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }
-  
+![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }  
+    
 
 
 
@@ -101,8 +101,8 @@ I am investigating gene neofunctionalization using venom genes as a model. I am 
 
 ### Research Unit Administrator
 #### Saori CHAPPELL チャペル 沙織, 2018-today
-![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori.jpg ){: .profile-image }
-  
+![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori.jpg ){: .profile-image }  
+   
 
 
 
@@ -144,14 +144,14 @@ I am a Postdoc at the Centre of Excellence in Biological interactions at Helsink
 
 
 #### Chao Dong, postdoc at the [Linksvayer Lab](https://web.sas.upenn.edu/linksvayer-lab/), University of Pennsylvania
-![Chao]({{ site.url }}{{ site.baseurl }}/images/bio-Chao.jpg ){: .profile-image }
+![Chao]({{ site.url }}{{ site.baseurl }}/images/bio-Chao.jpg ){: .profile-image }  
   
     
 
 
 
 #### Darko Cotoras, Research Associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras)
-![Darko]({{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg ){: .profile-image }
+![Darko]({{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg ){: .profile-image }  
   
      
 
