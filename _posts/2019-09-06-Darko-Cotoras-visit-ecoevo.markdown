@@ -14,4 +14,4 @@ If you do not know about spiders or island biogeography principles and look for 
 
 We look forward to learning more about his results in a future talk (date and time to be communicated soon). 
 
-Also *congratulations on his Humboldt Research Fellowship* which will lead him to the Senckenberg Museum in Germany in a few months. Here he will study spiders evolution in a temperate rain forests of southern South America.
+Also *congratulations on his Humboldt Research Fellowship*, which will lead him to the Senckenberg Museum in Germany in a few months. Here he will study spiders evolution in temperate rain forests of southern South America.
