@@ -81,14 +81,6 @@ I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, a
 #### Endo TATSUYA 遠藤達矢, Research Technician, 2019-today
 ![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }
 
-
-#### Larisa KISELEVA, Staff Scientist, 2019-today
-![Larisa]({{ site.url }}{{ site.baseurl }}/people/img_full/Larisa.jpg ){: .profile-image }
-
-#### Nurit ELIASH, Postdoc, October 2019-today
-![Nurit]({{ site.url }}{{ site.baseurl }}/people/img_full/Nurit.jpg ){: .profile-image }
-
-
 ## Ph.D. Students
 
 
@@ -107,7 +99,7 @@ Apart from working in the lab, I enjoy reading books, listening to music, doing 
 
 ## Collaborators and frequent visitors
 
-#### Kasia, postdoc at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
+#### Kasia, Group leader at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
 ![Kasia]({{ site.url }}{{ site.baseurl }}/people/img_full/Kasia.jpg ){: .profile-image }
 I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
 
@@ -115,9 +107,11 @@ I am interested in applying computational methods to tacking life sciences quest
 ![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
 I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
 
-#### Chao Dong
+#### Chao Dong, postdoc at the [Linksvayer Lab](https://web.sas.upenn.edu/linksvayer-lab/), University of Pennsylvania
+![Chao]({{ site.url }}{{ site.baseurl }}/people/img_full/bio-Chao.jpg ){: .profile-image }
 
-#### Darko Cotoras
+#### Darko Cotoras, Research Associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras)
+![Darko]({{ site.url }}{{ site.baseurl }}/people/img_full/cotoras-molokai.jpg ){: .profile-image }
 
 ## Alumni
 
@@ -135,7 +129,7 @@ Shikha Aggarwal, 2014
 Elroy Kwan-Au, 2019
 
 ### Rotation Students
-Christine Guzman
+Christine Guzman, 2017
 Rob Campbell, 2015
 Maggi Mars Brisbin, 2014
 Leonidas Georgiou, 2014
@@ -155,7 +149,7 @@ Mandy Tin, 2012-2015
 Man Ying Tin. 2010-2011
 
 ### Postdoc
-Mariana Velasque Borges, 
+Mariana Velasque Borges, 2017-2019
 Lauren Dembek, 2014-2015
 Carolina Diaz, 2014-2015
 Misato Okamoto Miyakawa, 2012-2014
