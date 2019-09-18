@@ -143,14 +143,14 @@ I am a Postdoc at the Centre of Excellence in Biological interactions at Helsink
 
 
 
-#### Chao Dong, postdoc at the [Linksvayer Lab](https://web.sas.upenn.edu/linksvayer-lab/), University of Pennsylvania
+#### Chao Dong, postdoc at the [Linksvayer Lab](https://web.sas.upenn.edu/linksvayer-lab), University of Pennsylvania
 ![Chao]({{ site.url }}{{ site.baseurl }}/images/bio-Chao.jpg ){: .profile-image }  
   
     
 
 
 
-#### Darko Cotoras, Research Associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras)
+#### Darko Cotoras, [Research Associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras)
 ![Darko]({{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg ){: .profile-image }  
   
      
@@ -178,6 +178,7 @@ Elroy Kwan-Au, 2019
   
 
 ### Rotation Students
+Lazzat Aibekova, 2019
 Christine Guzman, 2017  
 Rob Campbell, 2015  
 Maggi Mars Brisbin, 2014  
