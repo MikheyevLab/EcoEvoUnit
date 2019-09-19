@@ -58,7 +58,8 @@ I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, a
   
 #### Endo TATSUYA 遠藤達矢, 2019-today
 ![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }  
-Bio coming soon....   
+I was born in Hokkaido and have lived in Okinawa since 2015. After joining the Unit as a research assistant, I am making libraries for NGS using my molecular biology background. A lot of honey bees and spiders in our freezers are waiting for me to change them to good libraries. Many visitors also give me interesting samples as well as funny stories. I like that!
+  
 
 
 
@@ -103,7 +104,14 @@ I am investigating gene neofunctionalization using venom genes as a model. I am 
 #### Saori CHAPPELL チャペル 沙織, 2018-today
 ![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori.jpg ){: .profile-image }  
 Bio coming soon....   
-   
+    
+
+
+    
+
+
+
+
 
 
 
@@ -144,24 +152,6 @@ I am a Postdoc at the Centre of Excellence in Biological interactions at Helsink
 
 
 
-#### Chao Dong, postdoc at the [Linksvayer Lab](https://web.sas.upenn.edu/linksvayer-lab), University of Pennsylvania
-![Chao]({{ site.url }}{{ site.baseurl }}/images/bio-Chao.jpg ){: .profile-image }  
-Bio coming soon....   
-  
-    
-
-
-
-#### Darko Cotoras, [Research Associate at the California Academy of Sciences](https://www.calacademy.org/staff/ibss/entomology/darko-d-cotoras)
-![Darko]({{ site.url }}{{ site.baseurl }}/images/cotoras-molokai.jpg ){: .profile-image }  
-Bio coming soon....   
- 
-     
-
-
-
-
-
 
 ## Alumni
 
@@ -180,8 +170,8 @@ Shikha Aggarwal, 2014
 Elroy Kwan-Au, 2019  
   
 
-### Rotation Students
-Lazzat Aibekova, 2019
+### Rotation Students  
+Lazzat Aibekova, 2019  
 Christine Guzman, 2017  
 Rob Campbell, 2015  
 Maggi Mars Brisbin, 2014  
