@@ -55,4 +55,4 @@ owner:
   github: MikheyevLab
   stackoverflow: #http://stackoverflow.com/users/123456/username
 
-remote_theme: "mmistakes/minimal-mistakes@fbb7356d74995fb874258cfc37e74b31bd1b318b"
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
