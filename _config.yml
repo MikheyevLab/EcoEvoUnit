@@ -15,6 +15,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
  
 kramdown:
   auto_ids: true
