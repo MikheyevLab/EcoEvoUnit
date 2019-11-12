@@ -87,17 +87,10 @@ Coming from Northern Germany I am amazed by the nature surrounding OIST. The oce
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} vienna.kowallik@oist.jp
    
 
-
-
-#### Ivan KOLUDAROV, Postdoc, 2017-today
-![Ivan]({{ site.url }}{{ site.baseurl }}/people/img_full/Ivan.jpg ){: .profile-image }
-I am investigating gene neofunctionalization using venom genes as a model. I am interested in broad evolutionary questions, evolution of biodiversity, venoms and snakes. While I spent twelve years working in different kinds of wet labs, now I am mostly using bioinformatic methods for my research. I did my bachelor and masters in St. Petersburg State University and my PhD in University of Queensland in the lab of Dr. Bryan G. Fry.
-
-[![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Ivan_Koludarov)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=D9tC51MAAAAJ&hl=en&oi=ao)
-![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} ivan.koludarov@oist.jp
-
+#### Larisa KISELEVA, Staff Scientist, 2019-today
   
-  
+
+#### Nurit ELIASH, Postdoctoral researcher, 2019-today
 
 
 ### Research Unit Administrator
@@ -192,7 +185,9 @@ Mandy Tin, 2012-2015
 Man Ying Tin. 2010-2011  
 
 ### Postdoc
-Mariana Velasque Borges, 2017-2019  
+Ivan Koludarov, 2017-2019
+Mariana Velasque Borges, 2017-2019 
+Michael Holmes, 2015-2016 
 Lauren Dembek, 2014-2015  
 Carolina Diaz, 2014-2015  
 Misato Okamoto Miyakawa, 2012-2014  
