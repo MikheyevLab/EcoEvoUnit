@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Members of the the Mikheyev Labs
+title: Members of the Mikheyev Labs
 toc: true
 header:
   image: images/Mikheyev2017_2.jpg
@@ -91,7 +91,15 @@ Coming from Northern Germany I am amazed by the nature surrounding OIST. The oce
   
 
 #### Nurit ELIASH, Postdoctoral researcher, 2019-today
+![Nurit]({{ site.url }}{{ site.baseurl }}/people/img_full/nurit_profile_pic.jpg ){: .profile-image }
+My main research interests are host-parasite co-evolution and the key traits that facilitate it. I completed my Phd. at the Hebrew university and the Agricultural Research Organization (ARO), at the Chemoecology lab of Dr. Vicky Soroker. Using chemical ecology, molecular biology and transcriptomic approaches, I was investigating the interaction of the honeybee and its horrible parasite, the Varroa mite. However, while writing the last chapter of my thesis, I got intrigued by broader questions about this system evolution, and so I fortunately find myself in Sasha's lab. Currently, Im interested in tackling host- parasites interactions through understating their co-evolution. By combining physiological studies and meta-omics analysis we use the triangle of honey bee - varroa mite - and their vectored viruses, as a model system aiming to reveal the mechanisms underlying host-parasite co-evolution.
 
+In the lab, I'm trying to balance between "wet-lab" experiments, playing with bees and mites in the hive, and running analysis/writing on the computer.
+  
+Born and raised on a top of a mountain in the north of Israel, Okinawa's dreamy beaches and tropical forests are inspiring new sceneries for my family's adventures. I love to explore them with my partner, Neri and our two offsprings, Anna and Naama.   
+  
+Most of the time I am just surprised for being able to make a living from asking questions, reading fascinating staff and playing with insects. I can say I am a grateful entomologist:)
+  
 
 ### Research Unit Administrator
 #### Saori CHAPPELL チャペル 沙織, 2018-today
@@ -126,8 +134,14 @@ Apart from working in the lab, I enjoy reading books, listening to music, doing 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Robert_Campbell40)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.com/citations?view_op=list_works&hl=en&user=i8S54zYAAAAJ)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/rob10campbell)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/rob10c)
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} robert.campbell@oist.jp
 
-  
-  
+   
+## Visiting researcher
+#### Nonno Hasegawa, Intern/Visiting researcher
+
+![Nonno]({{ site.url }}{{ site.baseurl }}/people/img_full/Nonno_pic.png ){: .profile-image }
+I was born in Nagano and grew up on the coasts of Kanagawa. My interest in science bloomed in high school and I pursued biochemistry during my bachelor degree at the University of Guelph in Canada. Over the years of completing my degree, I was enrolled in a coop program where we find four 4 month work terms in our field. I spent 8 months with Dr. Leonard Foster at the University of British Columbia, where I discovered the passion for bees. I then continued bee research with Dr. Rod Merrill at my home university for nearly 2 years, working on the causative agent of American Foulbrood, Paenibacillus larvae. Summer of 2019 I visited OIST as an intern at the Laurino unit, and came in contact with Sasha. I would love to expand my field in RNA on varroa research, and hope to be enrolled as a PhD student with Sasha in this coming year. 
+
+In my free time I love to venture out for waves to be surfed in the Okinawan coasts, playing volleyball, and spending time with my baby cousins. 
 
 
 ## Collaborators and frequent visitors
