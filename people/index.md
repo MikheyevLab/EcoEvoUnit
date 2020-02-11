@@ -3,7 +3,7 @@ layout: single
 title: Members of the Mikheyev Labs
 toc: true
 header:
-  image: images/Mikheyev2017_2.jpg
+  image: images/Mikheyev2019.png
 ---
 
 <style>
