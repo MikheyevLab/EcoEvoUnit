@@ -23,7 +23,7 @@ Despite the geographical distance, the units work closely with each other.
 
 <!-- <iframe src="map.html" width="800" height="600" frameBorder="0" marginwidth="0"> </iframe> -->
 
-# Lab members, in their own words
+# Lab members @OIST, in their own words
 
 ## Staff 
 
@@ -37,18 +37,7 @@ I have broad interests in evolutionary biology, focusing mainly on leveraging th
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} alexander.mikheyev@oist.jp
 
 
-  
-
-
 ### Research technicians
-#### Lijun-QIU, 2013-today
-![Qiu]({{ site.url }}{{ site.baseurl }}/people/img_full/Qiu.jpg ){: .profile-image }
-I have a long-time interest in molecular biology and genetics. Before joining the lab, I spent 5 years working on molecular genetics of castor bean. Now I am working as a research technician on ancient DNA, including ancient DNA extraction, sequencing and so on. So I have the chance to work with different precious samples such as museum samples; it is work requiring special care. In the meantime, I also help Misato with a project on the reproductive system of the ant *Vollenhovia emeryi*, which is really a new world for me. As a Chinese person, I enjoy the peaceful life and beautiful landscape here.
-<!-- 30.77 N 120.75E  -->
-
-[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.fr/citations?user=b0dSkuQAAAAJ&hl=en&oi=ao)
-  
-
 #### Miyuki SUENAGA 末永美由紀, 2018-today
 ![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.jpg ){: .profile-image }
 I'm working as a research technician in the Mikheyev Unit. Previously, I finished my master's degree in Agricultural Science at Kyushu University, studying cell regulation technologies as well as evaluating positive effects of functional food on metabolic diseases. In the moment, I'm working on a honeybee project with Vienna, trying to answer diverse interesting questions using total RNA sequencing of about 2000 frozen, historical honey bee samples which have been collected for more than a decade in the U.S. and Mexico. I'm happy to work here, having the opportunity to gain all that knowledge and experience on NGS technologies. 
@@ -60,8 +49,6 @@ I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, a
 ![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }  
 I was born in Hokkaido and have lived in Okinawa since 2015. After joining the Unit as a research assistant, I am making libraries for NGS using my molecular biology background. A lot of honey bees and spiders in our freezers are waiting for me to change them to good libraries. Many visitors also give me interesting samples as well as funny stories. I like that!
   
-
-
 
 
 ### Postdoctoral researchers
@@ -103,24 +90,12 @@ Most of the time I am just surprised for being able to make a living from asking
 
 ### Research Unit Administrator
 #### Saori CHAPPELL チャペル 沙織, 2018-today
-![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori.jpg ){: .profile-image }  
-Bio coming soon....   
-    
-
-
-    
-
-
-
-
-
-
+![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori_profile.jpg ){: .profile-image }  
+I am from Okinawa and have lived in the UK for ten years. In the Mikheyev unit, my role is to help the unit members achieve their objectives with wide-ranging administrative support. My background is in post-production, which may sounds different from supporting a science group, but adapting and enjoying changes, and being a flexible coordinator is surprisingly similar. I enjoy getting to know everyone’s projects and the opportunity to meet people from all over the world. Outside of work, I am passionate about art, film and also enjoy live music.  
 
 
 
 ## Ph.D. Students
-
-
 #### Agneesh Barua, PhD student 
 ![Agneesh]({{ site.url }}{{ site.baseurl }}/people/img_full/Agneesh.jpg ){: .profile-image }
 Evolution is a process at the background of all biological phenomenon, and is one that has given shape to our world as we know it. I have been interested in evolutionary biology ever since I first read about Lamarck and Darwin at school, since then I have always wondered why, and how, life decided to take the trajectory it did and produce us intelligent beings. I did my undergrads in Zoology from Delhi University and my masters, in Genetics, from Calcutta University. At OIST I work on snake venom genes to understand how they evolved. Snake venom genes are interesting wherein, in spite of being absolutely essential for the survival of the animal, they show a level of diversity that is similar to that of non essential regions, how this form of diversity still manages to maintain a functional relevance is still unknown. 
@@ -135,7 +110,7 @@ Apart from working in the lab, I enjoy reading books, listening to music, doing 
 ![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} robert.campbell@oist.jp
 
    
-## Visiting researcher
+## Visiting researchers
 #### Nonno Hasegawa, Intern/Visiting researcher
 
 ![Nonno]({{ site.url }}{{ site.baseurl }}/people/img_full/Nonno_pic.png ){: .profile-image }
@@ -156,57 +131,74 @@ I am interested in applying computational methods to tacking life sciences quest
 ![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
 I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!
     
+# Lab members @ANU, in their own words
+## Staff  
+Ashutosh Das
 
 
+## Ph.D. Students  
+#### Oliver Stuart, PhD student 2019-present  
+![Ollie]({{ site.url }}{{ site.baseurl }}/people/img_full/Ollie.jpg ){: .profile-image }
+In hindsight, my background is very self-consistent. I spent my spare time as an undergraduate working in an insect physiology laboratory, followed by a brief internship working on the life history of an agricultural pest insect. My masters research focussed on the earwigs of southern Australian crop landscapes. It seems like I might be an entomologist.  
+
+I still do some work here and there on earwigs and other polyneopterans, either as a volunteer or a researcher, but my thesis project (as PhD candidate at ANU) is the study of the population biology and evolution of the Lord Howe Island stick insect (Dryococelus australis), an iconic and endangered Australian species. I want to better understand how the theoretical oeuvre of population and evolutionary genetics applies to small, inbred populations.  
+
+Through my other, non-science undergraduate degree I have a background in ethnic and religious studies, so I maintain an active interest in contemporary and historical religious politics outside working hours. Other than that I like to commit to grand, overambitious baking projects and keep up my piano technique.
+[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.com/citations?user=qLC-dmsAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/cursorially)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/OliverPStuart)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} oliver.stuart@anu.edu.au
+
+## Honour students
+Claire Howard-Bryan  
+
+## Visiting researchers
+Giobbe Forni  
 
 
-## Alumni
+# Alumni
+#### Research Interns
+Manasee Weerathunga, 2019 (OIST)  
+Andrea Pozzi, 2017 (OIST)  
+James Nugent, 2016 (OIST)    
+Marie Uemura, 2016 (OIST)    
+Jigyasa Arora, 2015 (OIST)    
+Dorothy J. Immaculate, 2015 (OIST)    
+Jatin Arora, 2014 (OIST)    
+Shikha Aggarwal, 2014 (OIST)    
 
-### Research Interns
-Manasee Weerathunga, 2019  
-Andrea Pozzi, 2017   
-James Nugent, 2016  
-Marie Uemura, 2016  
-Jigyasa Arora, 2015  
-Dorothy J. Immaculate, 2015  
-Jatin Arora, 2014  
-Shikha Aggarwal, 2014  
-  
+#### Honour Students
+Elroy Kwan-Au, 2019 (OIST)    
 
-### Honour Students
-Elroy Kwan-Au, 2019  
-  
+#### Rotation Students  
+Lazzat Aibekova, 2019 (OIST)    
+Christine Guzman, 2017 (OIST)    
+Rob Campbell, 2015 (OIST)    
+Maggi Mars Brisbin, 2014 (OIST)    
+Leonidas Georgiou, 2014 (OIST)    
+Yafei Mao, 2014 (OIST)    
 
-### Rotation Students  
-Lazzat Aibekova, 2019  
-Christine Guzman, 2017  
-Rob Campbell, 2015  
-Maggi Mars Brisbin, 2014  
-Leonidas Georgiou, 2014  
-Yafei Mao, 2014  
+#### PhD Candidates  
+Rob Campbell (OIST)    
+Valentin Churavy (OIST)    
+Carmen Emborski, 2013-2018 (OIST)    
 
-### PhD Candidates  
-Rob Campbell  
-Valentin Churavy  
-Carmen Emborski, 2013-2018  
+#### Research Technicians
+Lijun-QIU, 2013-2020 (OIST)    
+Yoann Portugal, 2016-2018 (OIST)    
+Miquel Grau-Lopez, 2013-2017 (OIST)    
+Jo Tan, 2013-2017 (OIST)    
+Viet Quoc (OIST)    
+Mandy Tin, 2012-2015 (OIST)    
+Man Ying Tin. 2010-2011 (OIST)    
 
-### Research Technicians
-Yoann Portugal, 2016-2018  
-Miquel Grau-Lopez, 2013-2017  
-Jo Tan, 2013-2017  
-Viet Quoc,  
-Mandy Tin, 2012-2015  
-Man Ying Tin. 2010-2011  
+#### Postdocs
+Ivan Koludarov, 2017-2019 (OIST)  
+Mariana Velasque Borges, 2017-2019 (OIST)   
+Michael Holmes, 2015-2016 (OIST)   
+Lauren Dembek, 2014-2015 (OIST)    
+Carolina Diaz, 2014-2015 (OIST)    
+Misato Okamoto Miyakawa, 2012-2014 (OIST)    
+Yutaka Watanabe, 2010-2013 (OIST)    
 
-### Postdoc
-Ivan Koludarov, 2017-2019
-Mariana Velasque Borges, 2017-2019 
-Michael Holmes, 2015-2016 
-Lauren Dembek, 2014-2015  
-Carolina Diaz, 2014-2015  
-Misato Okamoto Miyakawa, 2012-2014  
-Yutaka Watanabe, 2010-2013  
-
-### RUA
-Yoko Fujitomi, 2013-2018  
-Hitomi Shinzato, 2010-2013  
+#### Research Unit Administrators
+Yoko Fujitomi, 2013-2018 (OIST)    
+Hitomi Shinzato, 2010-2013 (OIST)    
