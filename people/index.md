@@ -9,7 +9,7 @@ header:
 <style>
 .profile-image
 {
-    height: 300px;
+    height: 200px;
     float: left;
     padding: 10px;
 }
@@ -34,14 +34,14 @@ Despite the geographical distance, the units work closely with each other.
 I have broad interests in evolutionary biology, focusing mainly on leveraging the power of next-generation tools for answering long-standing basic questions. As a result, I like to explore new techniques, be they laboratory, computational, or involving new sequencing technologies. Although I started my career in the laboratory and in the field, presently I am more of a bioinformatician. Over the past couple of years, I became increasingly interested in applying short-read sequencing to degraded DNA, such as that found in museum, archaeological or other poorly preserved specimens. Having developed a range of tools for high-throughput processing of degraded insects, are harnessing these tools for projects ranging from ecosystem phylogenetics and phylogeography, to studying evolutionary processes using museum samples. Additionally, I maintain an interest in social insect systems, which I worked on during my graduate studies, and also nurture a more recently acquired research program using snake venoms to understand adaptation. In my spare time, I enjoy long runs, and playing the violin.
 
 [![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=d1Q6iL0AAAAJ&hl=en&oi=ao)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/mikheyev)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/amikheyev)
-[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}] (alexander.mikheyev@oist.jp)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}alexander.mikheyev@oist.jp
 
 
 ### Research technicians
 #### Miyuki SUENAGA 末永美由紀, 2018-present
-![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.jpg ){: .profile-image }
+![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.JPG ){: .profile-image }
 I'm working as a research technician in the Mikheyev Unit. Previously, I finished my master's degree in Agricultural Science at Kyushu University, studying cell regulation technologies as well as evaluating positive effects of functional food on metabolic diseases. In the moment, I'm working on a honeybee project with Vienna, trying to answer diverse interesting questions using total RNA sequencing of about 2000 frozen, historical honey bee samples which have been collected for more than a decade in the U.S. and Mexico. I'm happy to work here, having the opportunity to gain all that knowledge and experience on NGS technologies. 
-
+  
 I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, as well as the beautiful beaches. In my free time, I also like driving around on the island to enjoy the great scenery.
 
   
@@ -58,7 +58,7 @@ My primary research interests are mainly directed towards understanding how the 
 In my spare time, I like to relax with videos game, discovering new places in Okinawa, and go to the gym with friends. Also I am a stick insect fan!
 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Maeva_Techer)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.fr/citations?user=3AW_T2gAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/MaevaTecher)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AlphaManae)
-[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}] (maeva.techer@oist.jp)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}maeva.techer@oist.jp; maeva.angelique.techer@gmail.com
   
 
 #### Vienna KOWALLIK, DFG postdoctoral fellow, 2017-present
@@ -68,7 +68,7 @@ I would describe myself as a microbial-ecologist by heart, I am continuously get
 Coming from Northern Germany I am amazed by the nature surrounding OIST. The ocean, the forests, the biodiversity….great! In my free time, I enjoy hiking and snorkeling. I love Heavy Metal music and my mood cannot be bad enough that listening to a good, loud song would not make me feel better somehow. Festivals and concerts are clearly great events for me. 
 
 [![Research Gate]({{ site.url }}{{ site.baseurl }}/images/researchgate-icon.jpg){:width="40px"}](https://www.researchgate.net/profile/Vienna_Kowallik)[![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.co.jp/citations?user=csztAWwAAAAJ&hl=en&oi=ao)
-[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](vienna.kowallik@oist.jp)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}vienna.kowallik@oist.jp
    
 
 #### Larisa KISELEVA, Staff Scientist, 2019-present
@@ -89,26 +89,25 @@ I am from Okinawa and have lived in the UK for ten years. In the Mikheyev unit, 
 
 
 ### Ph.D. Students
-#### Agneesh Barua, PhD student 2016-present
+#### Agneesh BARUA, PhD student 2016-present
 ![Agneesh]({{ site.url }}{{ site.baseurl }}/people/img_full/Agneesh.jpg ){: .profile-image }
 Evolution is a process at the background of all biological phenomenon, and is one that has given shape to our world as we know it. I have been interested in evolutionary biology ever since I first read about Lamarck and Darwin at school, since then I have always wondered why, and how, life decided to take the trajectory it did and produce us intelligent beings. I did my undergrads in Zoology from Delhi University and my masters, in Genetics, from Calcutta University. At OIST I work on snake venom genes to understand how they evolved. Snake venom genes are interesting wherein, in spite of being absolutely essential for the survival of the animal, they show a level of diversity that is similar to that of non essential regions, how this form of diversity still manages to maintain a functional relevance is still unknown. 
 
 Apart from working in the lab, I enjoy reading books, listening to music, doing yoga, and exploring the joyful and vibrant island that is Okinawa.
 
 [![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/AgneeshBarua)
-[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}](agneesh.barua@oist.jp) 
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}agneesh.barua@oist.jp
   
 
    
 ### Visiting researchers
-#### Nonno Hasegawa, Intern/Visiting researcher
+#### Nonno HASEGAWA, Intern/Visiting researcher
 
 ![Nonno]({{ site.url }}{{ site.baseurl }}/people/img_full/Nonno_pic.png ){: .profile-image }
 I was born in Nagano and grew up on the coasts of Kanagawa. My interest in science bloomed in high school and I pursued biochemistry during my bachelor degree at the University of Guelph in Canada. Over the years of completing my degree, I was enrolled in a coop program where we find four 4 month work terms in our field. I spent 8 months with Dr. Leonard Foster at the University of British Columbia, where I discovered the passion for bees. I then continued bee research with Dr. Rod Merrill at my home university for nearly 2 years, working on the causative agent of American Foulbrood, Paenibacillus larvae. Summer of 2019 I visited OIST as an intern at the Laurino unit, and came in contact with Sasha. I would love to expand my field in RNA on varroa research, and hope to be enrolled as a PhD student with Sasha in this coming year. 
 
 In my free time I love to venture out for waves to be surfed in the Okinawan coasts, playing volleyball, and spending time with my baby cousins. 
   
-
 
 ### Collaborators and frequent visitors
 
@@ -124,24 +123,24 @@ I am a Postdoc at the Centre of Excellence in Biological interactions at Helsink
 
     
 ## Staff @ANU
-#### Ashutosh Das
+#### Ashutosh DAS
 
 
 ### Ph.D. Students  
-#### Oliver Stuart, PhD student 2019-present  
+#### Oliver STUART, PhD student 2019-present  
 ![Ollie]({{ site.url }}{{ site.baseurl }}/people/img_full/Ollie.jpg ){: .profile-image }
 In hindsight, my background is very self-consistent. I spent my spare time as an undergraduate working in an insect physiology laboratory, followed by a brief internship working on the life history of an agricultural pest insect. My masters research focussed on the earwigs of southern Australian crop landscapes. It seems like I might be an entomologist. I still do some work here and there on earwigs and other polyneopterans, either as a volunteer or a researcher, but my thesis project (as PhD candidate at ANU) is the study of the population biology and evolution of the Lord Howe Island stick insect (Dryococelus australis), an iconic and endangered Australian species. I want to better understand how the theoretical oeuvre of population and evolutionary genetics applies to small, inbred populations.  
 
 Through my other, non-science undergraduate degree I have a background in ethnic and religious studies, so I maintain an active interest in contemporary and historical religious politics outside working hours. Other than that I like to commit to grand, overambitious baking projects and keep up my piano technique.  
 
 [![Google Scholar]({{ site.url }}{{ site.baseurl }}/images/googlescholar-icon.jpg){:width="40px"}](https://scholar.google.com/citations?user=qLC-dmsAAAAJ&hl=en)[![GitHub]({{ site.url }}{{ site.baseurl }}/images/GitHub-icon.jpg){:width="40px"}](https://github.com/cursorially)[![Twitter]({{ site.url }}{{ site.baseurl }}/images/twitter-icon.jpg){:width="40px"}](https://twitter.com/OliverPStuart)
-[![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"}] (oliver.stuart@anu.edu.au)
+![Email]({{ site.url }}{{ site.baseurl }}/images/email-icon.jpg){:width="40px"} oliver.stuart@anu.edu.au
 
 ### Honour students
-#### Claire Howard-Bryan  
+#### Claire HOWARD-BRYAN  
 
 ### Visiting researchers
-#### Giobbe Forni  
+#### Giobbe FORNI  
 
 
 ## Alumni
@@ -172,11 +171,11 @@ Valentin Churavy (OIST)
 Carmen Emborski, 2013-2018 (OIST)    
 
 #### Research Technicians
-Lijun-QIU, 2013-2020 (OIST)    
+Lijun Qiu, 2013-2020 (OIST)    
 Yoann Portugal, 2016-2018 (OIST)    
 Miquel Grau-Lopez, 2013-2017 (OIST)    
 Jo Tan, 2013-2017 (OIST)    
-Viet Quoc (OIST)    
+Viet Quoc, 2016-2017 (OIST)    
 Mandy Tin, 2012-2015 (OIST)    
 Man Ying Tin. 2010-2011 (OIST)    
 
