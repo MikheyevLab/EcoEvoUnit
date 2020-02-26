@@ -9,7 +9,7 @@ header:
 <style>
 .profile-image
 {
-    height: 200px;
+    height: 250px;
     float: left;
     padding: 10px;
 }
