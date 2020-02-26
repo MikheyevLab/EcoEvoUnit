@@ -15,11 +15,6 @@ Our overarching goal is to understand the interaction between the genome and the
 
 ### Genetic basis of the "waggle" dance
 
-Coming soon
-
-#### _Collaborators: Mariana and Sasha_
-
-
 ### Genetic basis of host switch by Varroa mites on the Western honeybee
 
 ![Honeybee-varroa]({{ site.url }}{{ site.baseurl }}/images/Varroa-bee.jpg "A phoretic Varroa mite on an honey bee worker"){:width="300px"}{: .align-left} The domestication of the Western honey bee and globalization have facilitated the arrival and spread of new parasites and pathogens including the **Varroa mites**. Since _Varroa destructor_ **successfully switched host** from the Asian honeybee (_Apis cerana_) to the Western honeybee (_Apis mellifera_) in multiple independent events, it has spread almost worldwide. Not only the ectoparasite induce direct damages via spoiling haemolymph but it is also a virus vector leading to its consideration as one of the main driver of honeybee global decline. Concerns rise as the sister species _V. jacobsoni_ has emerged as an additional threat with the recent jump reported 10 years ago in Papua New Guinea.
@@ -71,15 +66,6 @@ Raising honey bees under sterile conditions in the lab give us the option to do 
 Research can be like a puzzle and if enough puzzle pieces have been found, they need to be put together to get a picture. If this can be managed in the promising honey bee system, it could lead to new ways of tackling current problems. For example by avoiding specific antibiotic treatments which are thought to protect the bees but are disturbing their microbiome, or by providing bee probiotics.
 
 #### _Collaborators: Vienna and Sasha_
-
-
-### Regulation of reproductive division of labour in honey bees
-
-Among eusocial animals, honey bees (_Apis mellifera_) have one of the most extreme divisions of labour where one queen monopolizes all reproduction and thousands of sterile workers perform all other tasks in the colony. However, in few circumstances, their sterility can be reversible. For instance, in the absence of a chemical signal produced by queens (usually when the queen dies), called queen mandibular pheromone (QMP), workers activate their (rudimentary) ovaries and lay eggs. Such process is regulated by a set of genes that interact with the environment, coordinating worker sterility and even expression of secondary traits (e.g. behaviour and pheromones).
-
-Our goal is to understand how those genes interact with each other forming a network and how regulate reproductive division of labour in honey bees.
-
-#### _Collaborators: Mariana and Sasha_
 
 
 ## Venom evolution

@@ -39,14 +39,14 @@ I have broad interests in evolutionary biology, focusing mainly on leveraging th
 
 ### Research technicians
 #### Miyuki SUENAGA 末永美由紀, 2018-present
-![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.JPG ){: .profile-image }
+![Miyuki]({{ site.url }}{{ site.baseurl }}/people/img_full/Miyuki.jpg ){: .profile-image }
 I'm working as a research technician in the Mikheyev Unit. Previously, I finished my master's degree in Agricultural Science at Kyushu University, studying cell regulation technologies as well as evaluating positive effects of functional food on metabolic diseases. In the moment, I'm working on a honeybee project with Vienna, trying to answer diverse interesting questions using total RNA sequencing of about 2000 frozen, historical honey bee samples which have been collected for more than a decade in the U.S. and Mexico. I'm happy to work here, having the opportunity to gain all that knowledge and experience on NGS technologies. 
   
 I'm originally from Fukuoka in Japan, but I love Okinawan cuisine and culture, as well as the beautiful beaches. In my free time, I also like driving around on the island to enjoy the great scenery.
 
   
 #### Endo TATSUYA 遠藤達矢, 2019-present
-![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }  
+![Endo]({{ site.url }}{{ site.baseurl }}/people/img_full/Endo.jpg ){: .profile-image }
 I was born in Hokkaido and have lived in Okinawa since 2015. After joining the Unit as a research assistant, I am making libraries for NGS using my molecular biology background. A lot of honey bees and spiders in our freezers are waiting for me to change them to good libraries. Many visitors also give me interesting samples as well as funny stories. I like that!
   
 
@@ -83,7 +83,7 @@ In the lab, I'm trying to balance between "wet-lab" experiments, playing with be
 
 ### Research Unit Administrator
 #### Saori CHAPPELL チャペル 沙織, 2018-today
-![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori_profile.jpg ){: .profile-image }  
+![Saori]({{ site.url }}{{ site.baseurl }}/people/img_full/Saori_profile.jpg ){: .profile-image }
 I am from Okinawa and have lived in the UK for ten years. In the Mikheyev unit, my role is to help the unit members achieve their objectives with wide-ranging administrative support. My background is in post-production, which may sounds different from supporting a science group, but adapting and enjoying changes, and being a flexible coordinator is surprisingly similar. I enjoy getting to know everyone’s projects and the opportunity to meet people from all over the world. Outside of work, I am passionate about art, film and also enjoy live music.  
 
 
@@ -101,29 +101,20 @@ Apart from working in the lab, I enjoy reading books, listening to music, doing 
 
    
 ### Visiting researchers
-#### Nonno HASEGAWA, Intern/Visiting researcher
+#### Nonno HASEGAWA, Intern/Visiting researcher, 2019-present
 
 ![Nonno]({{ site.url }}{{ site.baseurl }}/people/img_full/Nonno_pic.png ){: .profile-image }
 I was born in Nagano and grew up on the coasts of Kanagawa. My interest in science bloomed in high school and I pursued biochemistry during my bachelor degree at the University of Guelph in Canada. Over the years of completing my degree, I was enrolled in a coop program where we find four 4 month work terms in our field. I spent 8 months with Dr. Leonard Foster at the University of British Columbia, where I discovered the passion for bees. I then continued bee research with Dr. Rod Merrill at my home university for nearly 2 years, working on the causative agent of American Foulbrood, Paenibacillus larvae. Summer of 2019 I visited OIST as an intern at the Laurino unit, and came in contact with Sasha. I would love to expand my field in RNA on varroa research, and hope to be enrolled as a PhD student with Sasha in this coming year. 
 
 In my free time I love to venture out for waves to be surfed in the Okinawan coasts, playing volleyball, and spending time with my baby cousins. 
-  
-
-### Collaborators and frequent visitors
-
-#### Kasia, Group leader at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
-![Kasia]({{ site.url }}{{ site.baseurl }}/people/img_full/Kasia.jpg ){: .profile-image }
-I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
-    
-
-
-#### Claire Morandin, postdoc at the [University of Helsinki, Centre of Excellence in Biological Interactions](http://www.helsinki.fi/science/ants/Antzz.html)
-![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
-I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!  
-
     
 ## Staff @ANU
-#### Ashutosh DAS
+#### Dr. Ashutosh Das, Research staff, 2019-present
+![Ashutosh]({{ site.url }}{{ site.baseurl }}/people/img_full/Ashutosh.png ){: .profile-image }
+A genetic variant can lead to a change in organism’s phenotypes that may be benign, pathogenic, or of unknown significance. My primary research interest is to understand the functional roles of genetic variants in the evolution and maintenance of traits in animals and plants, or severe Mendelian diseases. While voyaging through my research interest, In December 2015, I obtained my PhD in Genetics from Aarhus University, Denmark, where I studied recessive lethal genetic variants in Danish cattle. After my PhD, I worked as a faculty member at the Department of Genetics and Animal Breeding at Chittagong Veterinary and Animal Sciences University (CVASU), Bangladesh, for three years. In 2018, I held an Endeavour Research Fellowship at Australian National University (ANU), where I worked on approaches to assemble genomes of non-model organisms and to evaluate the quality of de novo assemblies. 
+  
+At ANU, I was keen to pursue a novel research direction incorporating the role of the microbiome into animal health. I ran into Dr. Mikheyev, who was starting a lab at the Australian National University, and we discussed the potential for collaborative projects, and jointly developed an idea of investigation that how the host-associated microbiome may act as an extrinsic inducer of transgenerational effects independent of or in conjunction with host-mediated intrinsic heritable factors.
+Having worked on the genetics of different systems, I would describe myself as an amateur geneticist. I was born and raised in Bangladesh. When I do not do science, you will find me cooking something delicious, nurturing my plants and watching movies.
 
 
 ### Ph.D. Students  
@@ -142,6 +133,15 @@ Through my other, non-science undergraduate degree I have a background in ethnic
 ### Visiting researchers
 #### Giobbe FORNI  
 
+## Collaborators and long-term visitors
+#### Kasia Bozek, Group leader at [OIST, Biological Physics Theory Unit](https://groups.oist.jp/bptu)
+![Kasia]({{ site.url }}{{ site.baseurl }}/people/img_full/Kasia.jpg ){: .profile-image }
+I am interested in applying computational methods to tacking life sciences questions. My background is in computer sciences and during my PhD I became interested in computational biology. I realized how with the current explosion of technologies producing large scale measurements in biology it has became a field of research where one can develop interesting computational strategies and make discoveries without ever working in the real, wet lab. My interests span from HIV drug resistance and evolution, through emergence of human cognition to genomics and behavior of honey bees that we are working on currently at OIST.  I used to hate biology at school while right now I’m amazed by how advances in biological technologies together with developments in computing methods and hardware are transforming the way we look at this field research.
+    
+
+#### Claire Morandin, postdoc at the [University of Helsinki, Centre of Excellence in Biological Interactions](http://www.helsinki.fi/science/ants/Antzz.html)
+![Claire]({{ site.url }}{{ site.baseurl }}/people/img_full/claire.jpg ){: .profile-image }
+I am a Postdoc at the Centre of Excellence in Biological interactions at Helsinki University in Finland. In September 2015, I successfully defended my PhD thesis, with Dr Mikheyev as my co-supervisor. During my PhD I studied the evolution and maintenance of social insect female castes (queen and worker), focusing on the evolution of caste-biased gene expression in ants. I took advantage of the power of genomic methodologies and technologies to provide new insights into mechanisms of social evolution, and the evolution of plastic gene expression. During my postdoc, and again in collaboration with Dr Mikheyev, I will expand my previous work to investigate in more details the transcriptional architecture associated with reproductive division of labor in ants. I use genomics tools such as RNA sequencing, evolutionary analysis, gene co-expression networks and methylation to answer these questions. I have had the chance to visit OIST and beautiful Okinawa five times already, and I absolutely love it, I always come back!  
 
 ## Alumni
 #### Research Interns
