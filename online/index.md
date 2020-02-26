@@ -13,8 +13,9 @@ Data reproducibility and free availability is deeply important to us and we aspi
 Below is a non-exhaustive list of some these available resources from published or unpublished work:  
 
 ## Honey bee and parasite/pathogens evolution  
-## Varroa mites reference genomes  
+### Varroa mites reference genomes  
 _V. destructor_ reference genome available on NCBI [here](https://www.ncbi.nlm.nih.gov/genome/?term=varroa+destructor)  
+
 _V. jacobsoni_ reference genome available on NCBI [here](https://www.ncbi.nlm.nih.gov/genome/62339)  
   
 ### World distribution of Varroa mites haplogroup  
