@@ -1,0 +1,15 @@
+---
+title: Ecology & Evolution @ OIST <br> Evolutionary Genomics @ ANU
+layout: splash
+author_profile: true
+header:
+  overlay_image: images/wall1.jpg
+---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include entry.html %}
+{% endfor %}
+
+{% include paginator.html %}
