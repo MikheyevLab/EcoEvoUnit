@@ -3,7 +3,7 @@ title: "Throwback: Agneesh pushes forward our understanding of snake venom evolu
 date: "2020-06-22"
 author: maeva_techer
 ---
-Our team is extremely proud to see that Agneesh's passion for evolution has pushed forward the frontiers of knowledge on Snake venom evolutionary rates. His tenacious investigation into the gene expression data from 52 venomous snake species is available since late April 2020 in [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0613?af=R#d9166490e1) with stunning graphics.
+Our team is incredibly proud to see that Agneesh's passion for evolution has pushed forward the frontiers of knowledge on Snake venom evolutionary rates. His tenacious investigation into the gene expression data from 52 venomous snake species is available since late April 2020 in [Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.0613?af=R#d9166490e1) with stunning graphics.
 
 <figure>
     <a href="Agneesh_2ndpaper"><img src="{{ site.url }}{{ site.baseurl }}/images/Agneesh_2ndpaper.jpg" alt="Agneesh_2ndpaper" width="800"></a>
